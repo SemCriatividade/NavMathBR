@@ -1,0 +1,178 @@
+[
+  {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "um romano",
+        "short": "um em romano"
+      }
+    },
+    "key": "2160"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "dois romano",
+        "short": "dois em romano"
+      }
+    },
+    "key": "2161"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "três em romano"
+      }
+    },
+    "key": "2163"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "quatro em romano"
+      }
+    },
+    "key": "2164"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco em romano",
+        "short": "cinco em romano"
+      }
+    },
+    "key": "2165"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "seis em romano"
+      }
+    },
+    "key": "2166"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "sete em romano"
+      }
+    },
+    "key": "2167"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "oito em romano"
+      }
+    },
+    "key": "2168"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "nove em romano"
+      }
+    },
+    "key": "2169"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "dez em romano"
+      }
+    },
+    "key": "216A"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "onze em romano"
+      }
+    },
+    "key": "216B"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "doze em romano"
+      }
+    },
+    "key": "216C"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "cinquenta em romano"
+      }
+    },
+    "key": "216D"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "cem em romano"
+      }
+    },
+    "key": "216E"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "quinhentos em romano"
+      }
+    },
+    "key": "216F"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": "um mil em romano"
+      }
+    },
+    "key": "2164"
+  }
+  
+]

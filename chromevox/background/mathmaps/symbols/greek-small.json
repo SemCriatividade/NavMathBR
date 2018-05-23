@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega alfa",
+        "alternative": "",
+        "short": "alpha"
+      }
+    },
+    "key": "03B1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega beta",
+        "alternative": "",
+        "short": "beta"
+      }
+    },
+    "key": "03B2",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega gama",
+        "alternative": "",
+        "short": "gama"
+      }
+    },
+    "key": "03B3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega delta",
+        "alternative": "",
+        "short": "delta"
+      }
+    },
+    "key": "03B4",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega epsilon",
+        "alternative": "",
+        "short": "epsilon"
+      }
+    },
+    "key": "03B5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega zeta",
+        "alternative": "",
+        "short": "zeta"
+      }
+    },
+    "key": "03B6",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega eta",
+        "alternative": "",
+        "short": "eta"
+      }
+    },
+    "key": "03B7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega theta",
+        "alternative": "",
+        "short": "theta"
+      }
+    },
+    "key": "03B8",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega iota",
+        "alternative": "",
+        "short": "iota"
+      }
+    },
+    "key": "03B9",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega kappa",
+        "alternative": "",
+        "short": "kappa"
+      }
+    },
+    "key": "03BA",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega lamda",
+        "alternative": "letra grega lambda",
+        "short": "lambda"
+      }
+    },
+    "key": "03BB",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega mu",
+        "alternative": "",
+        "short": "mu"
+      }
+    },
+    "key": "03BC",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega nu",
+        "alternative": "",
+        "short": "nu"
+      }
+    },
+    "key": "03BD",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega xi",
+        "alternative": "",
+        "short": "xi"
+      }
+    },
+    "key": "03BE",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega omicron",
+        "alternative": "",
+        "short": "omicron"
+      }
+    },
+    "key": "03BF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pi",
+        "alternative": "",
+        "short": "pi"
+      }
+    },
+    "key": "03C0",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega rho",
+        "alternative": "",
+        "short": "rho"
+      }
+    },
+    "key": "03C1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega final sigma",
+        "alternative": "",
+        "short": "final sigma"
+      }
+    },
+    "key": "03C2",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega sigma",
+        "alternative": "",
+        "short": "sigma"
+      }
+    },
+    "key": "03C3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega tau",
+        "alternative": "",
+        "short": "tau"
+      }
+    },
+    "key": "03C4",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega upsilon",
+        "alternative": "",
+        "short": "upsilon"
+      }
+    },
+    "key": "03C5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega phi",
+        "alternative": "",
+        "short": "phi"
+      }
+    },
+    "key": "03C6",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega chi",
+        "alternative": "",
+        "short": "chi"
+      }
+    },
+    "key": "03C7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega psi",
+        "alternative": "",
+        "short": "psi"
+      }
+    },
+    "key": "03C8",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega omega",
+        "alternative": "",
+        "short": "ômega"
+      }
+    },
+    "key": "03C9",
+    "names": []
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "fun??o cosseno hiperb?lico",
+        "short": "cosseno hiperb?lico"
+      }
+    },
+    "key": "cosh",
+    "names": [
+      "cosh"
+    ]
+  },
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "cotangente hiperb?lica divertido??o",
+        "short": "cotangente hiperb?lica"
+      }
+    },
+    "key": "coth",
+    "names": [
+      "coth"
+    ]
+  },
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "hiperb?lico, ó o cosecant divertido??o",
+        "short": "hiperb?lico, ó o cosecant"
+      }
+    },
+    "key": "csch",
+    "names": [
+      "csch"
+    ]
+  },
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "secante hiperb?lica divertido??o",
+        "short": "secantes hiperb?licas"
+      }
+    },
+    "key": "sech",
+    "names": [
+      "sech"
+    ]
+  },
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "fun??o seno hiperb?lico",
+        "short": "seno hiperb?lico"
+      }
+    },
+    "key": "sinh",
+    "names": [
+      "sinh"
+    ]
+  },
+  {
+    "category": "Hyperbolic",
+    "mappings": {
+      "default": {
+        "default": "fun??o tangente hiperb?lica",
+        "short": "tangente hiperb?lica"
+      }
+    },
+    "key": "tanh",
+    "names": [
+      "tanh"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "fun??o cosseno hiperb?lico inverso",
+        "alternative": "?rea de diversão??o cosseno hiperb?lico",
+        "short": "?rea de cosseno hiperb?lico"
+      }
+    },
+    "key": "arcosh",
+    "names": [
+      "arcosh",
+      "arccosh"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "inversa da cotangente hiperb?lica divertido??o",
+        "alternative": "?rea cotangente hiperb?lica divertido??o",
+        "short": "?rea cotangente hiperb?lica"
+      }
+    },
+    "key": "arcoth",
+    "names": [
+      "arcoth",
+      "arccoth"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "hiperb?lico inverso s o cosecant divertido??o",
+        "alternative": "?rea hiperb?lico s o cosecant divertido??o",
+        "short": "?rea hiperb?lico s o cosecant"
+      }
+    },
+    "key": "arcsch",
+    "names": [
+      "arcsch",
+      "arccsch"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "hiperb?lico inverso divertido??o secante",
+        "alternative": "?rea secante hiperb?lica divertido??o",
+        "short": "?rea de secantes hiperb?licas"
+      }
+    },
+    "key": "arsech",
+    "names": [
+      "arsech",
+      "arcsech"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "fun??o seno hiperb?lico inverso",
+        "alternative": "?rea hiperb?lica divertido??o seno",
+        "short": "?rea de seno hiperb?lico"
+      }
+    },
+    "key": "arsinh",
+    "names": [
+      "arsinh",
+      "arcsinh"
+    ]
+  },
+  {
+    "category": "Area",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o tangente hiperb?lica",
+        "alternative": "?rea de diversão??o tangente hiperb?lica",
+        "short": "?rea tangente hiperb?lica"
+      }
+    },
+    "key": "artanh",
+    "names": [
+      "artanh",
+      "arctanh"
+    ]
+  }
+]

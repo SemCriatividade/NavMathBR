@@ -1,0 +1,2797 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com acidente vascular cerebral",
+                "alternative": "Pequena letra latina o slash",
+                "short": "O com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0111",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com acidente vascular cerebral",
+                "alternative": "Letra latina pequena letra D",
+                "short": "D com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0127",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com acidente vascular cerebral",
+                "alternative": "Latin Small Letter H Bar",
+                "short": "H com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0142",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com acidente vascular cerebral",
+                "alternative": "Letra pequena latina l slash",
+                "short": "L com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0167",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t com acidente vascular cerebral",
+                "alternative": "Barra latinha pequena letra t",
+                "short": "T com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0180",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com traçado",
+                "alternative": "Barra latina pequena letra b",
+                "short": "B com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "019B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra lambda de pequena letra latina com acidente vascular cerebral",
+                "alternative": "Latin Small Letter Barred Lambda",
+                "short": "Lambda com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01B6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com traço",
+                "alternative": "Barra latina de letra pequena z",
+                "short": "Z com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01BE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina invertida parada glótica com acidente vascular cerebral",
+                "alternative": "Carta latina invertida barra de parada glótica",
+                "short": "Letra latina invertida parada glótica com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01E5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com acidente vascular cerebral",
+                "alternative": "Barra latina pequena letra g",
+                "short": "G com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01FF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com acidente vascular cerebral e aguda",
+                "alternative": "",
+                "short": "O com acidente vascular cerebral e aguda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "023C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina c com acidente vascular cerebral",
+                "alternative": "",
+                "short": "C com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0247",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com acidente vascular cerebral",
+                "alternative": "",
+                "short": "E com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0249",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina j com acidente vascular cerebral",
+                "alternative": "",
+                "short": "J com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "024D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com acidente vascular cerebral",
+                "alternative": "",
+                "short": "R com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "024F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com acidente vascular cerebral",
+                "alternative": "",
+                "short": "E com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena j dotless com traçado",
+                "alternative": "Latin small letter dotless j bar",
+                "short": "J dotless com traçado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0268",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com acidente vascular cerebral",
+                "alternative": "Latin small letter barred i",
+                "short": "Eu com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0284",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena j dotless com traço e gancho",
+                "alternative": "Latin small letter dotless j bar hook",
+                "short": "J dotless com traço e gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Carta latina parada glotal com acidente vascular cerebral",
+                "alternative": "Barra de parada glotal da carta latina",
+                "short": "Carta latina parada glotal com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Carta latina reverteu a parada glótica com acidente vascular cerebral",
+                "alternative": "Carta latina reversa glotal stop bar",
+                "short": "Carta latina reverteu a parada glótica com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D13",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina lateralmente o com acidente vascular cerebral",
+                "alternative": "",
+                "short": "De lado o com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D7C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena iota latina com acidente vascular cerebral",
+                "alternative": "",
+                "short": "Iota com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D7D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com acidente vascular cerebral",
+                "alternative": "",
+                "short": "P com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D7F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Upsinon de letra pequena latin com acidente vascular cerebral",
+                "alternative": "",
+                "short": "Upsilon com acidente vascular cerebral"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E9C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina longa com traço diagonal",
+                "alternative": "",
+                "short": "Longo s com traço diagonal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E9D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina longa com traço alto",
+                "alternative": "",
+                "short": "Long s com traço alto"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "018D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Carta pequena latina virou delta",
+                "alternative": "",
+                "short": "Virou delta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E9B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin letra pequena longa s com ponto acima",
+                "alternative": "",
+                "short": "Longo s com ponto acima"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E9F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Delta de letras pequenas latinas",
+                "alternative": "",
+                "short": "delta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0138",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina kra",
+                "alternative": "",
+                "short": "Kra"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "017F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena longa s",
+                "alternative": "",
+                "short": "Longo s"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0183",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com barra superior",
+                "alternative": "Barra latina pequena letra b",
+                "short": "B com barra superior"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0185",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Nota latina de letras pequenas seis",
+                "alternative": "",
+                "short": "Tom seis"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0188",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina c com gancho",
+                "alternative": "Gancho latino de pequena letra c",
+                "short": "C com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "018C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com barra superior",
+                "alternative": "Latin small letter d topbar",
+                "short": "D com barra superior"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0192",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina f com gancho",
+                "alternative": "Script de letra pequena latin f",
+                "short": "F com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0195",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina hv",
+                "alternative": "Letra pequena latina h v",
+                "short": "Hv"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0199",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin k com gancho",
+                "alternative": "Gancho latino da letra k pequena",
+                "short": "K com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "019A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com barra",
+                "alternative": "Letra latina pequena barrada l",
+                "short": "L com bar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "019E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com perna direita longa",
+                "alternative": "",
+                "short": "N com perna longa e direita"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01A1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com chifre",
+                "alternative": "Letra pequena latina ou chifre",
+                "short": "O com chifre"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01A3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina",
+                "alternative": "Letra pequena latina o i",
+                "short": "Oi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01A5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com gancho",
+                "alternative": "Latin small letter p hook",
+                "short": "P com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01A8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin Small Letter tone Two",
+                "alternative": "",
+                "short": "Toque dois"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01AA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina invertida esh loop",
+                "alternative": "",
+                "short": "Letra latina invertida esh loop"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01AB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho palatino",
+                "alternative": "Latin small letter t gancho palatal",
+                "short": "T com gancho palatal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01AD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho",
+                "alternative": "Latin small letter t hook",
+                "short": "T com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01B0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com chifre",
+                "alternative": "Letra pequena latina você buzina",
+                "short": "Você está com chifre"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01B4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com gancho",
+                "alternative": "Latin small letter y hook",
+                "short": "Y com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01B9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ezh invertida",
+                "alternative": "Yin invertido de letra pequena latina",
+                "short": "Ezh inverteu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01BA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Ezh de letra pequena latina com cauda",
+                "alternative": "Yogh da letra pequena latin com cauda",
+                "short": "Ezh com cauda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01BD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Tom latino de letras pequenas cinco",
+                "alternative": "",
+                "short": "Toque cinco"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01BF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina wynn",
+                "alternative": "",
+                "short": "Letra latina wynn"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01C6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dz com Caron",
+                "alternative": "Letra pequena latina d z hacek",
+                "short": "Dz com caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01C9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina lj",
+                "alternative": "Letra pequena latina l j",
+                "short": "Lj"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01CC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina nj",
+                "alternative": "Letra pequena latin n j",
+                "short": "Nj"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01E3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ae com macron",
+                "alternative": "Letra pequena latina e e macron",
+                "short": "Ae com macron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01EF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Ezh de letra pequena latina com caron",
+                "alternative": "Letra pequena latina ek hacek",
+                "short": "Ezh com caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01F3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dz",
+                "alternative": "",
+                "short": "Dz"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "021D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Iogia de letra pequena latina",
+                "alternative": "",
+                "short": "Iog"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Lezh de pequena letra latina",
+                "alternative": "Lince latino de letra pequena",
+                "short": "Lezh"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0292",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ezh",
+                "alternative": "Iogia de letra pequena latina",
+                "short": "Ezh"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0293",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Ezh de pequena letra latina com curl",
+                "alternative": "Latin pequena letra yog curl",
+                "short": "Ezh com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dezh digraph",
+                "alternative": "Letra pequena latina",
+                "short": "Dezh digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01DD",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou e",
+                "alternative": "",
+                "short": "Virou e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01FD",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ae com aguda",
+                "alternative": "",
+                "short": "Com aguda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "021D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Iogia de letra pequena latina",
+                "alternative": "",
+                "short": "Iog"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0221",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin d com curl",
+                "alternative": "",
+                "short": "D com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0223",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina",
+                "alternative": "",
+                "short": "Ou"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0225",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com gancho",
+                "alternative": "",
+                "short": "Z com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0234",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com curl",
+                "alternative": "",
+                "short": "Com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0235",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin n com curl",
+                "alternative": "",
+                "short": "N com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0236",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com curvatura",
+                "alternative": "",
+                "short": "T com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0238",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Díndrome de Db da letra pequena latina",
+                "alternative": "",
+                "short": "Db digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0239",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina qp digraph",
+                "alternative": "",
+                "short": "Qp digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "023F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com cauda espalhafatosa",
+                "alternative": "",
+                "short": "S com cauda espalhafatosa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0240",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com cauda espalhafatosa",
+                "alternative": "",
+                "short": "Z com cauda swash"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0242",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Parada glotal de pequena letra latina",
+                "alternative": "",
+                "short": "Parada glotal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "024B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina q com cauda de gancho",
+                "alternative": "",
+                "short": "Q com cauda de gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0250",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Pequena carta latina virou uma",
+                "alternative": "",
+                "short": "Virou uma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0251",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina alfa",
+                "alternative": "Script de letra pequena latina a",
+                "short": "alfa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0252",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada alfa",
+                "alternative": "Letra pequena latina virou um script",
+                "short": "Virou alfa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0253",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com gancho",
+                "alternative": "Gancho latino pequeno letra b",
+                "short": "B com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0254",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta o",
+                "alternative": "",
+                "short": "Abrir o"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0255",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra c latin com curl",
+                "alternative": "Latin small letter c curl",
+                "short": "C com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0256",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com cauda",
+                "alternative": "Latin small letter d retroflex hook",
+                "short": "D com cauda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0257",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com gancho",
+                "alternative": "Latin small letter d hook",
+                "short": "D com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0258",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina invertida e",
+                "alternative": "",
+                "short": "Inverteu e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0259",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina schwa",
+                "alternative": "",
+                "short": "Schwa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho",
+                "alternative": "Latin small letter schwa hook",
+                "short": "Schwa com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta e",
+                "alternative": "Epsilon de pequena letra latina",
+                "short": "Abrir e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina invertida aberta e",
+                "alternative": "Letra latina invertida epsilon",
+                "short": "Invertido aberto e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina invertida aberta e com gancho",
+                "alternative": "Gancho epsilon reverso de letras pequenas latin",
+                "short": "Inverteu o e aberto com o gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "025E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin pequena letra fechada invertida aberta e",
+                "alternative": "Latin pequena letra fechada epsilon invertida",
+                "short": "Fechado reverso aberto e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0260",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com gancho",
+                "alternative": "Latin small letter g hook",
+                "short": "G com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0261",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Script de letra pequena latina g",
+                "alternative": "",
+                "short": "Script g"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0263",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Gama latina de pequena letra",
+                "alternative": "",
+                "short": "gama"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0264",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin small letter rams horn",
+                "alternative": "Pequena latina leite pequena",
+                "short": "Carneiro"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0265",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada h",
+                "alternative": "",
+                "short": "Virou"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0266",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com gancho",
+                "alternative": "Latin small letter h hook",
+                "short": "H com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0267",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin pequena letra heng com gancho",
+                "alternative": "Latin small letter heng hook",
+                "short": "Heng com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0269",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina iota",
+                "alternative": "",
+                "short": "iota"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com tilde do meio",
+                "alternative": "",
+                "short": "L com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com cinto",
+                "alternative": "Cinto latino de pequena letra l",
+                "short": "L com cinto"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com gancho retroflexo",
+                "alternative": "Latin small letter l retroflex hook",
+                "short": "L com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Lezh de pequena letra latina",
+                "alternative": "Lince latino de letra pequena",
+                "short": "Lezh"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "026F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada m",
+                "alternative": "",
+                "short": "Virou m"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0270",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra latina virou m com perna longa",
+                "alternative": "",
+                "short": "Virou m com perna longa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0271",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com gancho",
+                "alternative": "Latin small letter m hook",
+                "short": "M com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0272",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com gancho esquerdo",
+                "alternative": "Latin small letter n hook",
+                "short": "N com gancho de esquerda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0273",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com gancho retroflexo",
+                "alternative": "Latin small letter n retroflex hook",
+                "short": "N com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0275",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina barrada o",
+                "alternative": "",
+                "short": "Barrado o"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0277",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina omega fechada",
+                "alternative": "",
+                "short": "Omega fechado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0278",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina phi",
+                "alternative": "",
+                "short": "Phi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0279",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada",
+                "alternative": "",
+                "short": "Virou r"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou r com perna longa",
+                "alternative": "",
+                "short": "Virou r com perna longa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou r com gancho",
+                "alternative": "Pequena letra latina virou gancho",
+                "short": "Virou r com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin r com perna longa",
+                "alternative": "",
+                "short": "R com perna longa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com cauda",
+                "alternative": "Latin small letter r hook",
+                "short": "R com cauda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin r com anzol",
+                "alternative": "Peixe de pesca de pequena letra latino r",
+                "short": "R com anzol"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "027F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina invertida r com anzol",
+                "alternative": "Latin small letter inverted fishhook r",
+                "short": "Inverteu r com anzol"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0282",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho",
+                "alternative": "Gancho de letra pequena latina",
+                "short": "S com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0283",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina esh",
+                "alternative": "",
+                "short": "Esh"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0285",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin pequena letra agachada invertida esh",
+                "alternative": "",
+                "short": "Esquadrão invertido"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0286",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina esh com curl",
+                "alternative": "Latin small letter esh curl",
+                "short": "Esh com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0287",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada",
+                "alternative": "",
+                "short": "Virou t"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0288",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho retroflexo",
+                "alternative": "Latin small letter t retroflex hook",
+                "short": "T com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0289",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin letra pequena u bar",
+                "alternative": "",
+                "short": "U bar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "028A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Ups de latin small letter",
+                "alternative": "",
+                "short": "Upsilon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "028B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin v com gancho",
+                "alternative": "Script de letra pequena latin v",
+                "short": "V com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "028C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Carta pequena latina virada v",
+                "alternative": "",
+                "short": "Virou v"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "028D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada w",
+                "alternative": "",
+                "short": "Virou w"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "028E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou",
+                "alternative": "",
+                "short": "Virou"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0290",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com gancho retroflexo",
+                "alternative": "Latin small letter z retroflex hook",
+                "short": "Z com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0291",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com curl",
+                "alternative": "Latin pequena letra z curl",
+                "short": "Z com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0292",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ezh",
+                "alternative": "Iogia de letra pequena latina",
+                "short": "Ezh"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0293",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Ezh de pequena letra latina com curl",
+                "alternative": "Latin pequena letra yog curl",
+                "short": "Ezh com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0295",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Carta latina faraléia expressa fricativa",
+                "alternative": "Carta latina reverteu parada glótica",
+                "short": "Carta latina faraléia expressa fricativa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0296",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina invertida parada glótica",
+                "alternative": "",
+                "short": "Letra latina invertida parada glótica"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0297",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Carta latina esticada c",
+                "alternative": "",
+                "short": "Carta latina esticada c"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0298",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina, clique bilabial",
+                "alternative": "Cartaz latina bullseye",
+                "short": "Letra latina, clique bilabial"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "029A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina fechada aberta e",
+                "alternative": "Latin small letter closed epsilon",
+                "short": "Fechado aberto e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "029E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada k",
+                "alternative": "",
+                "short": "Virou k"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A0",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina q com gancho",
+                "alternative": "Latin small letter q hook",
+                "short": "Q com gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A3",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dz digraph",
+                "alternative": "Letra pequena latina d z",
+                "short": "Dz digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A4",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dezh digraph",
+                "alternative": "Letra pequena latina",
+                "short": "Dezh digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A5",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina dz digraph com curl",
+                "alternative": "Latin small letter d z curl",
+                "short": "Dz digraph com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A6",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ts digraph",
+                "alternative": "Letra pequena latina t s",
+                "short": "Ts digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A7",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina tesh digraph",
+                "alternative": "Letra pequena latina t esh",
+                "short": "Tesh digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A8",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com digraph com curl",
+                "alternative": "Latin small letter t c curl",
+                "short": "Tc digraph com curl"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02A9",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Digitismo do pequeno feng da letra pequena latina",
+                "alternative": "",
+                "short": "Feng digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AA",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ls digraph",
+                "alternative": "",
+                "short": "É digrafo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AB",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina lz digraph",
+                "alternative": "",
+                "short": "Lz digraph"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AC",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina bilabial percussive",
+                "alternative": "",
+                "short": "Letra latina bilabial percussive"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AD",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Carta latina bidirecional percussiva",
+                "alternative": "",
+                "short": "Carta latina bidirecional percussiva"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AE",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou h com anzol",
+                "alternative": "",
+                "short": "Virou h com anzol"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "02AF",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou h com anzol e cauda",
+                "alternative": "",
+                "short": "Virou h com anzol e cauda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D02",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou",
+                "alternative": "",
+                "short": "Virou ae"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D08",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta e",
+                "alternative": "",
+                "short": "Abriu e"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D09",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virou eu",
+                "alternative": "",
+                "short": "Virou eu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D11",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina lateralmente o",
+                "alternative": "",
+                "short": "De lado o"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D12",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta lateralmente o",
+                "alternative": "",
+                "short": "De lado aberto o"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D14",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada",
+                "alternative": "",
+                "short": "Virou-se"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D16",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Latin small letter top half o",
+                "alternative": "",
+                "short": "Metade superior"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D17",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena metade inferior",
+                "alternative": "",
+                "short": "Metade inferior"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D1D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina lateralmente você",
+                "alternative": "",
+                "short": "De lado você"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D1E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena de latin lateralmente diabosada",
+                "alternative": "",
+                "short": "Lateralmente te diaperizou"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D1F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina voltou para m",
+                "alternative": "",
+                "short": "Virado de lado m"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D24",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Carta latina expressou espirais laríngea",
+                "alternative": "",
+                "short": "Carta latina expressou espirais laríngea"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D25",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina ain",
+                "alternative": "",
+                "short": "Letra latina ain"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D6B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina ue",
+                "alternative": "",
+                "short": "Ue"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D6C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com tilde do meio",
+                "alternative": "",
+                "short": "B com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D6D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com tilde médio",
+                "alternative": "",
+                "short": "D com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D6E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina f com tilde médio",
+                "alternative": "",
+                "short": "F com tilde médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D6F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com tilde médio",
+                "alternative": "",
+                "short": "M com tilde médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D70",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com tilde médio",
+                "alternative": "",
+                "short": "N com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D71",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com tilde médio",
+                "alternative": "",
+                "short": "P com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D72",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com tilde médio",
+                "alternative": "",
+                "short": "R com tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D73",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com anzol e tilde médio",
+                "alternative": "",
+                "short": "R com anzol e tilde do meio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D74",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde médio",
+                "alternative": "",
+                "short": "S com tilde médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D75",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde médio",
+                "alternative": "",
+                "short": "T com tilde médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D76",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com tilde médio",
+                "alternative": "",
+                "short": "Z com tilde médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D77",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina virada g",
+                "alternative": "",
+                "short": "Virou g"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D79",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena insular",
+                "alternative": "",
+                "short": "G insular"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D7A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tachado",
+                "alternative": "",
+                "short": "Th com tachado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D80",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com gancho palatino",
+                "alternative": "",
+                "short": "B com gancho palatal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D81",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com gancho palatino",
+                "alternative": "",
+                "short": "D com gancho palatal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D82",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina f com gancho palatino",
+                "alternative": "",
+                "short": "F com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D83",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com gancho palatino",
+                "alternative": "",
+                "short": "G com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D84",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina k com gancho palatino",
+                "alternative": "",
+                "short": "K com gancho palatal"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D85",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com gancho palatino",
+                "alternative": "",
+                "short": "L com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D86",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com gancho palatino",
+                "alternative": "",
+                "short": "M com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D87",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com gancho palatino",
+                "alternative": "",
+                "short": "N com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D88",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com gancho palatino",
+                "alternative": "",
+                "short": "P com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D89",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com gancho palatino",
+                "alternative": "",
+                "short": "R com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho palatino",
+                "alternative": "",
+                "short": "S com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8B",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho palatino",
+                "alternative": "",
+                "short": "Esf com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8C",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin v com gancho palatino",
+                "alternative": "",
+                "short": "V com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8D",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina x com gancho palatino",
+                "alternative": "",
+                "short": "X com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8E",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com gancho palatino",
+                "alternative": "",
+                "short": "Z com gancho palatino"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D8F",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina a com gancho retroflexo",
+                "alternative": "",
+                "short": "Um com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D90",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra alfa pequena latina com gancho retroflexo",
+                "alternative": "",
+                "short": "Alfa com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D91",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com gancho e cauda",
+                "alternative": "",
+                "short": "D com gancho e cauda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D92",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com gancho retroflexo",
+                "alternative": "",
+                "short": "E com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D93",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta e com gancho retroflexo",
+                "alternative": "",
+                "short": "Abrir e com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D94",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina invertida aberta e com gancho retroflexo",
+                "alternative": "",
+                "short": "Inverso aberto e com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D95",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra de letra pequena latina com gancho retroflexo",
+                "alternative": "",
+                "short": "Schwa com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D96",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com gancho retroflexo",
+                "alternative": "",
+                "short": "Eu tenho um gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D97",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina aberta o com gancho retroflexo",
+                "alternative": "",
+                "short": "Abrir o com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D98",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho retroflexo",
+                "alternative": "",
+                "short": "Esh com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D99",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina você com gancho retroflexo",
+                "alternative": "",
+                "short": "Você está com um gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D9A",
+        "active": false,
+        "mappings": {
+            "default": {
+                "default": "Ezh de letra pequena latina com gancho retroflexo",
+                "alternative": "",
+                "short": "Ezh com gancho retroflexo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0149",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n precedida pelo apóstrofo",
+                "alternative": "Petição de letra pequena latina n",
+                "short": "N precedido pelo apóstrofo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "014B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina",
+                "alternative": "",
+                "short": "Eng"
+            }
+        }
+    }
+]

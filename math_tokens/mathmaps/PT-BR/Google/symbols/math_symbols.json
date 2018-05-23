@@ -1,0 +1,7840 @@
+[
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Operador fatorial",
+                "alternative": "ponto de exclamação",
+                "short": "fatorial"
+            }
+        },
+        "key": "0021"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Aspa"
+            }
+        },
+        "key": "0022"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de número",
+                "alternative": "jogo da velha",
+                "short": "número"
+            }
+        },
+        "key": "0023"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de dólar",
+                "short": "dólar"
+            }
+        },
+        "key": "0024"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de porcentagem",
+                "short": "por cento"
+            }
+        },
+        "key": "0025"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "E comercial"
+            }
+        },
+        "key": "0026"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "apóstrofo",
+                "alternative": "Apóstrofo"
+            }
+        },
+        "key": "0027"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "asterisco"
+            }
+        },
+        "key": "002A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "sinal de mais",
+                "short": "mais"
+            }
+        },
+        "key": "002B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "vírgula"
+            }
+        },
+        "key": "002C"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Hífen menos",
+                "short": "menos"
+            }
+        },
+        "key": "002D"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "ponto final",
+                "alternative": "período"
+            }
+        },
+        "key": "002E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Solidus",
+                "alternative": "golpear"
+            }
+        },
+        "key": "002F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "cólon"
+            }
+        },
+        "key": "003A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "ponto e vírgula"
+            }
+        },
+        "key": "003B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que sinal",
+                "short": "menos que"
+            }
+        },
+        "key": "003C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de igual",
+                "short": "é igual a"
+            }
+        },
+        "key": "003D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que o sinal",
+                "short": "Melhor que"
+            }
+        },
+        "key": "003E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "ponto de interrogação"
+            }
+        },
+        "key": "003F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Comercial em",
+                "short": "Em"
+            }
+        },
+        "key": "0040"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Inverter solidus",
+                "alternative": "Barra invertida"
+            }
+        },
+        "key": "005C"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Acento circunflexo",
+                "alternative": "Circunferente de espaçamento",
+                "short": "chapéu"
+            }
+        },
+        "key": "005E"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa",
+                "alternative": "Sublinhado do espaçamento"
+            }
+        },
+        "key": "005F"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "acento grave",
+                "alternative": "Espaçamento do túmulo",
+                "short": "grave"
+            }
+        },
+        "key": "0060"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical",
+                "alternative": "Barra vertical"
+            }
+        },
+        "key": "007C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "til"
+            }
+        },
+        "key": "007E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de exclamação invertido"
+            }
+        },
+        "key": "00A1"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de centavo",
+                "short": "Centavo"
+            }
+        },
+        "key": "00A2"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de libra",
+                "short": "libra"
+            }
+        },
+        "key": "00A3"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de moeda",
+                "short": "moeda"
+            }
+        },
+        "key": "00A4"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de iene",
+                "short": "Yen"
+            }
+        },
+        "key": "00A5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Barra quebrada",
+                "alternative": "Barra vertical quebrada"
+            }
+        },
+        "key": "00A6"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de seção",
+                "short": "seção"
+            }
+        },
+        "key": "00A7"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Diaerese",
+                "alternative": "Diâsea de espaçamento",
+                "short": "Ponto duplo"
+            }
+        },
+        "key": "00A8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de direitos autorais",
+                "short": "direito autoral"
+            }
+        },
+        "key": "00A9"
+    },
+    {
+        "category": "Lo",
+        "mappings": {
+            "default": {
+                "default": "Indicador ordinário feminino"
+            }
+        },
+        "key": "00AA"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Esquerda apontando com aspas de duplo ângulo",
+                "alternative": "Esquerda indicando guillemet"
+            }
+        },
+        "key": "00AB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não assinar",
+                "short": "não"
+            }
+        },
+        "key": "00AC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal registado",
+                "alternative": "Sinal de marca registrada",
+                "short": "registrado"
+            }
+        },
+        "key": "00AE"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Macron",
+                "alternative": "Espaçador macron"
+            }
+        },
+        "key": "00AF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de diploma",
+                "short": "grau"
+            }
+        },
+        "key": "00B0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Mais sinal de menos",
+                "alternative": "Sinal de mais ou menos",
+                "short": "Mais menos"
+            }
+        },
+        "key": "00B1"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "acento agudo",
+                "alternative": "Espaçamento agudo",
+                "short": "Agudo"
+            }
+        },
+        "key": "00B4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Micro-sinal",
+                "short": "Micro"
+            }
+        },
+        "key": "00B5"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de piltrão",
+                "alternative": "Sinal de parágrafo",
+                "short": "Pilcrow"
+            }
+        },
+        "key": "00B6"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto central"
+            }
+        },
+        "key": "00B7"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "cedilha",
+                "alternative": "Espaçamento cedilla"
+            }
+        },
+        "key": "00B8"
+    },
+    {
+        "category": "Lo",
+        "mappings": {
+            "default": {
+                "default": "Indicador ordinal masculino"
+            }
+        },
+        "key": "00BA"
+    },
+    {
+        "category": "Pf",
+        "mappings": {
+            "default": {
+                "default": "Apontar apontar para o duplo ângulo",
+                "alternative": "Guillemet direto apontando"
+            }
+        },
+        "key": "00BB"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de interrogação invertido"
+            }
+        },
+        "key": "00BF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "sinal de multiplicação",
+                "short": "multiplicação"
+            }
+        },
+        "key": "00D7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de divisão",
+                "short": "divisão"
+            }
+        },
+        "key": "00F7"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Breve",
+                "alternative": "Espaçamento breve"
+            }
+        },
+        "key": "02D8"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Ponto acima",
+                "alternative": "Ponto de espaçamento acima"
+            }
+        },
+        "key": "02D9"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Toque acima",
+                "alternative": "Anel de espaçamento acima"
+            }
+        },
+        "key": "02DA"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Ogonek",
+                "alternative": "Espaçamento ogonek"
+            }
+        },
+        "key": "02DB"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Pequeno tilde",
+                "alternative": "Espaçamento tilde"
+            }
+        },
+        "key": "02DC"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Acento agudo duplo",
+                "alternative": "Espaçamento duplo agudo"
+            }
+        },
+        "key": "02DD"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "hífen"
+            }
+        },
+        "key": "2010"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Não dividir o hífen"
+            }
+        },
+        "key": "2011"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Traço de figura"
+            }
+        },
+        "key": "2012"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Em traço"
+            }
+        },
+        "key": "2013"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "travessão"
+            }
+        },
+        "key": "2014"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Barra horizontal",
+                "alternative": "Guia de cotação"
+            }
+        },
+        "key": "2015"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical dupla",
+                "alternative": "Barra vertical dupla"
+            }
+        },
+        "key": "2016"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa dupla",
+                "alternative": "Espaçamento duplo sublinhado"
+            }
+        },
+        "key": "2017"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Deixou aspas simples",
+                "alternative": "Comuta virada virgem única"
+            }
+        },
+        "key": "2018"
+    },
+    {
+        "category": "Pf",
+        "mappings": {
+            "default": {
+                "default": "Aspas simples direita",
+                "alternative": "Comissão de coma simples"
+            }
+        },
+        "key": "2019"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Único baixo com aspas 9",
+                "alternative": "Baixa cotação de uma única vírgula"
+            }
+        },
+        "key": "201A"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Cotação de alta inversa única e variada",
+                "alternative": "Comissão de coma invertida única"
+            }
+        },
+        "key": "201B"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Deixou aspas duplas",
+                "alternative": "Comutação de duas vírgulas duplicadas"
+            }
+        },
+        "key": "201C"
+    },
+    {
+        "category": "Pf",
+        "mappings": {
+            "default": {
+                "default": "Composta dupla direita",
+                "alternative": "Comuta com aspas duplas"
+            }
+        },
+        "key": "201D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Duplo baixo com aspas 9",
+                "alternative": "Coorte de coma dupla baixa"
+            }
+        },
+        "key": "201E"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Duplo alto invertido com aspas 9",
+                "alternative": "Comutação de duas vírgulas duplicadas"
+            }
+        },
+        "key": "201F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "punhal"
+            }
+        },
+        "key": "2020"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Daga dupla"
+            }
+        },
+        "key": "2021"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "bala"
+            }
+        },
+        "key": "2022"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Bala triangular"
+            }
+        },
+        "key": "2023"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Líder de um ponto"
+            }
+        },
+        "key": "2024"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Líder de dois pontos"
+            }
+        },
+        "key": "2025"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Elipses horizontais"
+            }
+        },
+        "key": "2026"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de separação"
+            }
+        },
+        "key": "2027"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Por sinal mille",
+                "short": "Por mille"
+            }
+        },
+        "key": "2030"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Por dez mil sinais",
+                "short": "Por dez mil"
+            }
+        },
+        "key": "2031"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Prima"
+            }
+        },
+        "key": "2032"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Duplo primário"
+            }
+        },
+        "key": "2033"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Prime prime"
+            }
+        },
+        "key": "2034"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Primário invertido"
+            }
+        },
+        "key": "2035"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Retrocesso duplo"
+            }
+        },
+        "key": "2036"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Retrocesso triplo primário"
+            }
+        },
+        "key": "2037"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Caret"
+            }
+        },
+        "key": "2038"
+    },
+    {
+        "category": "Pi",
+        "mappings": {
+            "default": {
+                "default": "Quota de ângulo de ponta esquerda esquerda",
+                "alternative": "Esquerda indicando guillemet único"
+            }
+        },
+        "key": "2039"
+    },
+    {
+        "category": "Pf",
+        "mappings": {
+            "default": {
+                "default": "Apontar ponto angular direito",
+                "alternative": "Direita apontando guillemet único"
+            }
+        },
+        "key": "203A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "marca de referência"
+            }
+        },
+        "key": "203B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de exclamação duplo"
+            }
+        },
+        "key": "203C"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Interrobang"
+            }
+        },
+        "key": "203D"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Overline",
+                "alternative": "Espaçamento overscore"
+            }
+        },
+        "key": "203E"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Undertie"
+            }
+        },
+        "key": "203F"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Laço de caráter"
+            }
+        },
+        "key": "2040"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de inserção do tapete"
+            }
+        },
+        "key": "2041"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Asterismo"
+            }
+        },
+        "key": "2042"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Hífen bala"
+            }
+        },
+        "key": "2043"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra de fração"
+            }
+        },
+        "key": "2044"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de interrogação duplo"
+            }
+        },
+        "key": "2047"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pergunta ponto de exclamação"
+            }
+        },
+        "key": "2048"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de interrogação de exclamação"
+            }
+        },
+        "key": "2049"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de pilprow invertido",
+                "short": "Inverted pilcrow"
+            }
+        },
+        "key": "204B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Bala no lado esquerdo"
+            }
+        },
+        "key": "204C"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Bala direita direita para a direita"
+            }
+        },
+        "key": "204D"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Asterisco baixo"
+            }
+        },
+        "key": "204E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto e vírgula invertido"
+            }
+        },
+        "key": "204F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "fechar-se"
+            }
+        },
+        "key": "2050"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Dois asteriscos alinhados verticalmente"
+            }
+        },
+        "key": "2051"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal comercial menos",
+                "short": "Comercial menos"
+            }
+        },
+        "key": "2052"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Rodada"
+            }
+        },
+        "key": "2053"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Underwear invertido"
+            }
+        },
+        "key": "2054"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Marca de pontuação de flores"
+            }
+        },
+        "key": "2055"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pontuação de três pontos"
+            }
+        },
+        "key": "2056"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Quadruple prime"
+            }
+        },
+        "key": "2057"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pontuação de quatro pontos"
+            }
+        },
+        "key": "2058"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pontuação de cinco pontos"
+            }
+        },
+        "key": "2059"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pontuação de dois pontos"
+            }
+        },
+        "key": "205A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Marca ponto quatro"
+            }
+        },
+        "key": "205B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Cruz pontilhada"
+            }
+        },
+        "key": "205C"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Tricolon"
+            }
+        },
+        "key": "205D"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Quatro pontos verticais"
+            }
+        },
+        "key": "205E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal super sinal",
+                "short": "Sobrescrito mais"
+            }
+        },
+        "key": "207A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sobrescrito menos",
+                "alternative": "Híbrido superíndice menos"
+            }
+        },
+        "key": "207B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Selo sobrescrito signo",
+                "short": "Sobrescrito é igual"
+            }
+        },
+        "key": "207C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Sobrescrito parentes esquerdo",
+                "alternative": "Parênteses de abertura sobrescrita"
+            }
+        },
+        "key": "207D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Sobrescrito parênteses direitos",
+                "alternative": "Parênteses de fechamento de sobrescrito"
+            }
+        },
+        "key": "207E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subscrever sinal de mais",
+                "short": "Subscrito mais"
+            }
+        },
+        "key": "208A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subscrito menos",
+                "alternative": "Híbrido subscrito menos"
+            }
+        },
+        "key": "208B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subscrito igual sinal",
+                "short": "Subscritos iguais"
+            }
+        },
+        "key": "208C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parênteses esquerdo subscritos",
+                "alternative": "Parênteses de abertura subscritos"
+            }
+        },
+        "key": "208D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Subscreve parênteses direitos",
+                "alternative": "Parênteses de encerramento de subscritos"
+            }
+        },
+        "key": "208E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "linha de propriedade"
+            }
+        },
+        "key": "214A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Virou e comercial"
+            }
+        },
+        "key": "214B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Por sinal",
+                "short": "por"
+            }
+        },
+        "key": "214C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Aktieselskab"
+            }
+        },
+        "key": "214D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Virou pequena f"
+            }
+        },
+        "key": "214E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "para todos"
+            }
+        },
+        "key": "2200"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "complemento"
+            }
+        },
+        "key": "2201"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diferencial parcial"
+            }
+        },
+        "key": "2202"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "existe"
+            }
+        },
+        "key": "2203"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não existe"
+            }
+        },
+        "key": "2204"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Conjunto vazio"
+            }
+        },
+        "key": "2205"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "incremento"
+            }
+        },
+        "key": "2206"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nabla"
+            }
+        },
+        "key": "2207"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de"
+            }
+        },
+        "key": "2208"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é um elemento de"
+            }
+        },
+        "key": "2209"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno elemento de"
+            }
+        },
+        "key": "220A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém como membro"
+            }
+        },
+        "key": "220B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não contém como membro"
+            }
+        },
+        "key": "220C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno contém como membro"
+            }
+        },
+        "key": "220D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Fim da prova"
+            }
+        },
+        "key": "220E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto inicial"
+            }
+        },
+        "key": "220F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Coproduto"
+            }
+        },
+        "key": "2210"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Soma geral"
+            }
+        },
+        "key": "2211"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos",
+                "short": "menos"
+            }
+        },
+        "key": "2212"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos ou mais",
+                "short": "Menos ou mais"
+            }
+        },
+        "key": "2213"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ponto plus"
+            }
+        },
+        "key": "2214"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra de divisão"
+            }
+        },
+        "key": "2215"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ajuste menos"
+            }
+        },
+        "key": "2216"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de asterisco"
+            }
+        },
+        "key": "2217"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de anel"
+            }
+        },
+        "key": "2218"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de bala"
+            }
+        },
+        "key": "2219"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "raiz quadrada"
+            }
+        },
+        "key": "221A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "raiz cúbica"
+            }
+        },
+        "key": "221B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quarta raiz"
+            }
+        },
+        "key": "221C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "proporcional a"
+            }
+        },
+        "key": "221D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "infinidade"
+            }
+        },
+        "key": "221E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "ângulo certo"
+            }
+        },
+        "key": "221F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "ângulo"
+            }
+        },
+        "key": "2220"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido"
+            }
+        },
+        "key": "2221"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo esférico"
+            }
+        },
+        "key": "2222"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Divide",
+                "short": "Barra"
+            }
+        },
+        "key": "2223"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não divide"
+            }
+        },
+        "key": "2224"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "paralelo a"
+            }
+        },
+        "key": "2225"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não paralelo a"
+            }
+        },
+        "key": "2226"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e"
+            }
+        },
+        "key": "2227"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou"
+            }
+        },
+        "key": "2228"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "interseção"
+            }
+        },
+        "key": "2229"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União"
+            }
+        },
+        "key": "222A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "integrante"
+            }
+        },
+        "key": "222B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral dupla"
+            }
+        },
+        "key": "222C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral triplicar"
+            }
+        },
+        "key": "222D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral de contorno"
+            }
+        },
+        "key": "222E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral de superfície"
+            }
+        },
+        "key": "222F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral de volume"
+            }
+        },
+        "key": "2230"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral no sentido horário"
+            }
+        },
+        "key": "2231"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral do contorno no sentido horário"
+            }
+        },
+        "key": "2232"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral do contorno no sentido anti-horário"
+            }
+        },
+        "key": "2233"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "assim sendo"
+            }
+        },
+        "key": "2234"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Porque"
+            }
+        },
+        "key": "2235"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Relação"
+            }
+        },
+        "key": "2236"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "proporção"
+            }
+        },
+        "key": "2237"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ponto menos"
+            }
+        },
+        "key": "2238"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "excesso"
+            }
+        },
+        "key": "2239"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Proporção geométrica"
+            }
+        },
+        "key": "223A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Homotético"
+            }
+        },
+        "key": "223B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de tilde"
+            }
+        },
+        "key": "223C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Invertido tilde"
+            }
+        },
+        "key": "223D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Invertido preguiçoso"
+            }
+        },
+        "key": "223E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Onda senoidal"
+            }
+        },
+        "key": "223F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto de grinalda"
+            }
+        },
+        "key": "2240"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não tilde"
+            }
+        },
+        "key": "2241"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos tilde"
+            }
+        },
+        "key": "2242"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Assintoticamente igual a"
+            }
+        },
+        "key": "2243"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não assintoticamente igual a"
+            }
+        },
+        "key": "2244"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aproximadamente igual a"
+            }
+        },
+        "key": "2245"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aproximadamente, mas não realmente igual a"
+            }
+        },
+        "key": "2246"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem aproximadamente nem realmente igual a"
+            }
+        },
+        "key": "2247"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quase igual a"
+            }
+        },
+        "key": "2248"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é quase igual a"
+            }
+        },
+        "key": "2249"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quase igual ou igual a"
+            }
+        },
+        "key": "224A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tilde triplo"
+            }
+        },
+        "key": "224B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tudo igual a"
+            }
+        },
+        "key": "224C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "equivalente a"
+            }
+        },
+        "key": "224D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Geograficamente equivalente a"
+            }
+        },
+        "key": "224E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "diferença entre"
+            }
+        },
+        "key": "224F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aproxima-se do limite"
+            }
+        },
+        "key": "2250"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Geometricamente igual a"
+            }
+        },
+        "key": "2251"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aproximadamente igual ou a imagem de"
+            }
+        },
+        "key": "2252"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Imagem ou aproximadamente igual a"
+            }
+        },
+        "key": "2253"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "O cólon é igual",
+                "alternative": "Cólon igual"
+            }
+        },
+        "key": "2254"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "É igual ao cólon",
+                "alternative": "Dois pontos"
+            }
+        },
+        "key": "2255"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Toque em igual"
+            }
+        },
+        "key": "2256"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Anel igual a"
+            }
+        },
+        "key": "2257"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "corresponde a"
+            }
+        },
+        "key": "2258"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Estimativas"
+            }
+        },
+        "key": "2259"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Equiangular para"
+            }
+        },
+        "key": "225A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Estrela é igual a"
+            }
+        },
+        "key": "225B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Delta igual a"
+            }
+        },
+        "key": "225C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual por definição"
+            }
+        },
+        "key": "225D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "medido por"
+            }
+        },
+        "key": "225E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Questionado igual a"
+            }
+        },
+        "key": "225F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não igual a"
+            }
+        },
+        "key": "2260"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "idêntico a"
+            }
+        },
+        "key": "2261"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não idêntico a"
+            }
+        },
+        "key": "2262"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Estritamente equivalente a"
+            }
+        },
+        "key": "2263"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "menos que ou igual a",
+                "alternative": "menos que ou igual a"
+            }
+        },
+        "key": "2264"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou igual a",
+                "alternative": "Maior ou igual a"
+            }
+        },
+        "key": "2265"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor do que igual à igual",
+                "alternative": "Menor do que igual à igual"
+            }
+        },
+        "key": "2266"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que igual à igual",
+                "alternative": "Maior do que igual à igual"
+            }
+        },
+        "key": "2267"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor que, mas não igual a",
+                "alternative": "Menor que, mas não igual a"
+            }
+        },
+        "key": "2268"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que, mas não igual a",
+                "alternative": "Maior que, mas não igual a"
+            }
+        },
+        "key": "2269"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Muito menos do que",
+                "alternative": "Muito menos do que"
+            }
+        },
+        "key": "226A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Muito maior do que",
+                "alternative": "Muito maior do que"
+            }
+        },
+        "key": "226B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "entre"
+            }
+        },
+        "key": "226C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é equivalente a"
+            }
+        },
+        "key": "226D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "não menos que",
+                "alternative": "não menos que"
+            }
+        },
+        "key": "226E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não maior que",
+                "alternative": "Não maior que"
+            }
+        },
+        "key": "226F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem menor nem igual a",
+                "alternative": "Nem menor nem igual a"
+            }
+        },
+        "key": "2270"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem maior nem igual a",
+                "alternative": "Nem maior nem igual a"
+            }
+        },
+        "key": "2271"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor que ou equivalente a",
+                "alternative": "Menor que ou equivalente a"
+            }
+        },
+        "key": "2272"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que ou equivalente a",
+                "alternative": "Maior que ou equivalente a"
+            }
+        },
+        "key": "2273"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem menos nem equivalente a",
+                "alternative": "Nem menos nem equivalente a"
+            }
+        },
+        "key": "2274"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem maior nem equivalente a",
+                "alternative": "Nem maior nem equivalente a"
+            }
+        },
+        "key": "2275"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou maior do que",
+                "alternative": "Menor ou maior do que"
+            }
+        },
+        "key": "2276"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou menor que",
+                "alternative": "Maior ou menor que"
+            }
+        },
+        "key": "2277"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem menor nem maior do que",
+                "alternative": "Nem menor nem maior do que"
+            }
+        },
+        "key": "2278"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem maior nem menor do que",
+                "alternative": "Nem maior nem menor do que"
+            }
+        },
+        "key": "2279"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede"
+            }
+        },
+        "key": "227A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucede"
+            }
+        },
+        "key": "227B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede ou igual a"
+            }
+        },
+        "key": "227C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso ou igual"
+            }
+        },
+        "key": "227D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede ou equivalente a"
+            }
+        },
+        "key": "227E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso ou equivalente a"
+            }
+        },
+        "key": "227F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não precede"
+            }
+        },
+        "key": "2280"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não consegue"
+            }
+        },
+        "key": "2281"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "subconjunto de"
+            }
+        },
+        "key": "2282"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto de"
+            }
+        },
+        "key": "2283"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é um subconjunto de"
+            }
+        },
+        "key": "2284"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é um superconjunto de"
+            }
+        },
+        "key": "2285"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto de ou igual a"
+            }
+        },
+        "key": "2286"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto de ou igual a"
+            }
+        },
+        "key": "2287"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem um subconjunto de nem igual a"
+            }
+        },
+        "key": "2288"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nem um superconjunto de nem igual"
+            }
+        },
+        "key": "2289"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto de com não igual a",
+                "alternative": "Subconjunto de ou não igual a",
+                "short": "Subconjunto de ou não igual a"
+            }
+        },
+        "key": "228A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto de com não igual a",
+                "alternative": "Superconjunto de ou não igual a",
+                "short": "Superconjunto de ou não igual a"
+            }
+        },
+        "key": "228B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Multiset"
+            }
+        },
+        "key": "228C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Multiplicação multiset"
+            }
+        },
+        "key": "228D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sindicato multiset"
+            }
+        },
+        "key": "228E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Imagem quadrada de"
+            }
+        },
+        "key": "228F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Original quadrado de"
+            }
+        },
+        "key": "2290"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Imagem quadrada ou igual a"
+            }
+        },
+        "key": "2291"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Original quadrado ou igual a"
+            }
+        },
+        "key": "2292"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Boné quadrado"
+            }
+        },
+        "key": "2293"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Xícara quadrada"
+            }
+        },
+        "key": "2294"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circulou mais"
+            }
+        },
+        "key": "2295"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Encerrado menos"
+            }
+        },
+        "key": "2296"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tempos circundados"
+            }
+        },
+        "key": "2297"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Corte de divisão em círculos"
+            }
+        },
+        "key": "2298"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de ponto circundado"
+            }
+        },
+        "key": "2299"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de anel circundado"
+            }
+        },
+        "key": "229A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de asterisco circundado"
+            }
+        },
+        "key": "229B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circundado é igual a"
+            }
+        },
+        "key": "229C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Rodapé circundado"
+            }
+        },
+        "key": "229D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado mais"
+            }
+        },
+        "key": "229E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado menos"
+            }
+        },
+        "key": "229F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Horários quadrados"
+            }
+        },
+        "key": "22A0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de ponto quadrado"
+            }
+        },
+        "key": "22A1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aderência certa"
+            }
+        },
+        "key": "22A2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pegada esquerda"
+            }
+        },
+        "key": "22A3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aderência"
+            }
+        },
+        "key": "22A4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Up tack"
+            }
+        },
+        "key": "22A5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "afirmação"
+            }
+        },
+        "key": "22A6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Modelos"
+            }
+        },
+        "key": "22A7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "verdade"
+            }
+        },
+        "key": "22A8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Forças"
+            }
+        },
+        "key": "22A9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triplo vertical da barra vertical"
+            }
+        },
+        "key": "22AA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Double vertical bar dupla direita"
+            }
+        },
+        "key": "22AB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não prova"
+            }
+        },
+        "key": "22AC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é verdade"
+            }
+        },
+        "key": "22AD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não força"
+            }
+        },
+        "key": "22AE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Negado duplo vertical barra dupla direita"
+            }
+        },
+        "key": "22AF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede em relação"
+            }
+        },
+        "key": "22B0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucede em relação"
+            }
+        },
+        "key": "22B1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subgrupo normal de"
+            }
+        },
+        "key": "22B2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém como subgrupo normal"
+            }
+        },
+        "key": "22B3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subgrupo normal de ou igual a"
+            }
+        },
+        "key": "22B4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém como subgrupo normal ou igual a"
+            }
+        },
+        "key": "22B5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Original de"
+            }
+        },
+        "key": "22B6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "imagem de"
+            }
+        },
+        "key": "22B7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Multimap"
+            }
+        },
+        "key": "22B8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Matriz conjugada hermitiana"
+            }
+        },
+        "key": "22B9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "intercalar"
+            }
+        },
+        "key": "22BA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Xor"
+            }
+        },
+        "key": "22BB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Nand"
+            }
+        },
+        "key": "22BC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "nem"
+            }
+        },
+        "key": "22BD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo direito"
+            }
+        },
+        "key": "22BF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Legalmente lógico e"
+            }
+        },
+        "key": "22C0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Legalmente ou"
+            }
+        },
+        "key": "22C1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Interseção"
+            }
+        },
+        "key": "22C2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União nacional"
+            }
+        },
+        "key": "22C3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de diamante"
+            }
+        },
+        "key": "22C4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de ponto"
+            }
+        },
+        "key": "22C5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador estrela"
+            }
+        },
+        "key": "22C6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tempos de divisão"
+            }
+        },
+        "key": "22C7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "gravata-borboleta"
+            }
+        },
+        "key": "22C8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto de semidireto do fator normal esquerdo"
+            }
+        },
+        "key": "22C9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto semidireto do fator normal direito"
+            }
+        },
+        "key": "22CA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto semidirecto esquerdo"
+            }
+        },
+        "key": "22CB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto semidirecto direito"
+            }
+        },
+        "key": "22CC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inversa tilde igual"
+            }
+        },
+        "key": "22CD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lustroso ou lógico"
+            }
+        },
+        "key": "22CE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lustroso e lógico"
+            }
+        },
+        "key": "22CF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo por do sol"
+            }
+        },
+        "key": "22D0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto duplo"
+            }
+        },
+        "key": "22D1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento duplo"
+            }
+        },
+        "key": "22D2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União dupla"
+            }
+        },
+        "key": "22D3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pitchfork"
+            }
+        },
+        "key": "22D4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual e paralelo a"
+            }
+        },
+        "key": "22D5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que com ponto",
+                "alternative": "Menos do que com ponto",
+                "short": "Menos do que ponto"
+            }
+        },
+        "key": "22D6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que com ponto",
+                "alternative": "Maior do que com ponto",
+                "short": "Maior do que ponto"
+            }
+        },
+        "key": "22D7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Muito menos do que",
+                "alternative": "Muito menos do que"
+            }
+        },
+        "key": "22D8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Muito maior do que",
+                "alternative": "Muito maior do que"
+            }
+        },
+        "key": "22D9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor do que igual ou superior a",
+                "alternative": "Menor do que igual ou superior a"
+            }
+        },
+        "key": "22DA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que igual ou inferior a",
+                "alternative": "Maior que igual ou inferior a"
+            }
+        },
+        "key": "22DB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual ou inferior a",
+                "alternative": "Igual ou inferior a"
+            }
+        },
+        "key": "22DC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual ou superior a",
+                "alternative": "Igual ou superior a"
+            }
+        },
+        "key": "22DD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual ou precede"
+            }
+        },
+        "key": "22DE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual ou bem sucedida"
+            }
+        },
+        "key": "22DF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não antecede ou igual"
+            }
+        },
+        "key": "22E0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não é bem-sucedido ou igual"
+            }
+        },
+        "key": "22E1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Imagem não quadrada ou igual a"
+            }
+        },
+        "key": "22E2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não quadrado original ou igual a"
+            }
+        },
+        "key": "22E3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Imagem quadrada ou não igual a"
+            }
+        },
+        "key": "22E4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Original quadrado de ou não igual a"
+            }
+        },
+        "key": "22E5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor que, mas não equivalente a",
+                "alternative": "Menor que, mas não equivalente a"
+            }
+        },
+        "key": "22E6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que, mas não equivalente a",
+                "alternative": "Maior que, mas não equivalente a"
+            }
+        },
+        "key": "22E7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede, mas não é equivalente a"
+            }
+        },
+        "key": "22E8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucede, mas não é equivalente a"
+            }
+        },
+        "key": "22E9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subgrupo não normal de"
+            }
+        },
+        "key": "22EA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não contém como subgrupo normal"
+            }
+        },
+        "key": "22EB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subgrupo não normal ou igual a"
+            }
+        },
+        "key": "22EC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não contém como subgrupo normal ou igual"
+            }
+        },
+        "key": "22ED"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elipsis vertical"
+            }
+        },
+        "key": "22EE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elipses horizontais da linha média"
+            }
+        },
+        "key": "22EF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Até a elipse de diagonal direita"
+            }
+        },
+        "key": "22F0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Para baixo reticências diagonais direitas"
+            }
+        },
+        "key": "22F1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de longo curso horizontal"
+            }
+        },
+        "key": "22F2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de com barra vertical no final do curso horizontal"
+            }
+        },
+        "key": "22F3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno elemento com barra vertical no final do curso horizontal"
+            }
+        },
+        "key": "22F4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de ponto acima"
+            }
+        },
+        "key": "22F5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de overbar"
+            }
+        },
+        "key": "22F6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno elemento de overbar"
+            }
+        },
+        "key": "22F7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de com underbar"
+            }
+        },
+        "key": "22F8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de dois traços horizontais"
+            }
+        },
+        "key": "22F9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém com um longo curso horizontal"
+            }
+        },
+        "key": "22FA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém com barra vertical no final do curso horizontal"
+            }
+        },
+        "key": "22FB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno contém com barra vertical no final do curso horizontal"
+            }
+        },
+        "key": "22FC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Contém com overbar"
+            }
+        },
+        "key": "22FD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno contém com overbar"
+            }
+        },
+        "key": "22FE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Associação de bolsa de notação Z"
+            }
+        },
+        "key": "22FF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de diâmetro",
+                "short": "diâmetro"
+            }
+        },
+        "key": "2300"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "casa"
+            }
+        },
+        "key": "2302"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Projetivo"
+            }
+        },
+        "key": "2305"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "perspectiva"
+            }
+        },
+        "key": "2306"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Linha ondulada"
+            }
+        },
+        "key": "2307"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Inverteu não assinar",
+                "short": "Inverteu não"
+            }
+        },
+        "key": "2310"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Pastilha quadrada"
+            }
+        },
+        "key": "2311"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "arco"
+            }
+        },
+        "key": "2312"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "segmento"
+            }
+        },
+        "key": "2313"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "setor"
+            }
+        },
+        "key": "2314"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal mais forte",
+                "alternative": "Mais pesado",
+                "short": "Negrito mais"
+            }
+        },
+        "key": "2795"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos pesado",
+                "alternative": "Pesado menos",
+                "short": "Negrito menos"
+            }
+        },
+        "key": "2796"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de divisão pesada",
+                "alternative": "Divisão pesada",
+                "short": "Divisão audaz"
+            }
+        },
+        "key": "2797"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Laço encaracolado"
+            }
+        },
+        "key": "27B0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Loop curvado duplo"
+            }
+        },
+        "key": "27BF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo branco contendo pequeno triângulo branco"
+            }
+        },
+        "key": "27C1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "perpendicular"
+            }
+        },
+        "key": "27C2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto aberto"
+            }
+        },
+        "key": "27C3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto aberto"
+            }
+        },
+        "key": "27C4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ou com ponto dentro"
+            }
+        },
+        "key": "27C7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto inverso solidus anterior"
+            }
+        },
+        "key": "27C8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superset anterior solidus"
+            }
+        },
+        "key": "27C9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical com curso horizontal"
+            }
+        },
+        "key": "27CA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diagonal ascendente matemática"
+            }
+        },
+        "key": "27CB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "divisão longa"
+            }
+        },
+        "key": "27CC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diagonal descendente matemática"
+            }
+        },
+        "key": "27CD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado lógico e"
+            }
+        },
+        "key": "27CE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado lógico ou"
+            }
+        },
+        "key": "27CF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante branco com ponto centrado"
+            }
+        },
+        "key": "27D0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "E com ponto"
+            }
+        },
+        "key": "27D1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de abertura para cima"
+            }
+        },
+        "key": "27D2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto inferior direito com ponto"
+            }
+        },
+        "key": "27D3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto superior esquerdo com ponto"
+            }
+        },
+        "key": "27D4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Junção externa esquerda"
+            }
+        },
+        "key": "27D5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Junção externa direita"
+            }
+        },
+        "key": "27D6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Junção externa completa"
+            }
+        },
+        "key": "27D7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande aderência"
+            }
+        },
+        "key": "27D8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande aderência"
+            }
+        },
+        "key": "27D9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Voltagem dupla esquerda e direita"
+            }
+        },
+        "key": "27DA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Esquerda e direita"
+            }
+        },
+        "key": "27DB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Mapa esquerdo"
+            }
+        },
+        "key": "27DC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Longa pegada direta"
+            }
+        },
+        "key": "27DD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Longa pegada esquerda"
+            }
+        },
+        "key": "27DE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aderência com círculo acima"
+            }
+        },
+        "key": "27DF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pastilha dividida por regra horizontal"
+            }
+        },
+        "key": "27E0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante de lado côncavo branco"
+            }
+        },
+        "key": "27E1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante de côncavo branco com tiquetaque para a esquerda"
+            }
+        },
+        "key": "27E2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante de côncavo branco com tiquetaque para a direita"
+            }
+        },
+        "key": "27E3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado branco com tiquetaque para a esquerda"
+            }
+        },
+        "key": "27E4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado branco com tiquetaque para a direita"
+            }
+        },
+        "key": "27E5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento diagonal em cruzamento que cai diagonal"
+            }
+        },
+        "key": "292B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Corte diagonal em cruzamento diagonal"
+            }
+        },
+        "key": "292C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Delimitador de barra vertical triplo"
+            }
+        },
+        "key": "2980"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ponto de notação z"
+            }
+        },
+        "key": "2981"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tipo de notação Z do cólon"
+            }
+        },
+        "key": "2982"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cerca pontilhada"
+            }
+        },
+        "key": "2999"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha de ziguezague vertical"
+            }
+        },
+        "key": "299A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Conjunto vazio invertido"
+            }
+        },
+        "key": "29B0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Conjunto vazio com overbar"
+            }
+        },
+        "key": "29B1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Conjunto vazio com pequeno círculo acima"
+            }
+        },
+        "key": "29B2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Círculo com barra horizontal"
+            }
+        },
+        "key": "29B5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical circundada"
+            }
+        },
+        "key": "29B6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Paralelo em círculos"
+            }
+        },
+        "key": "29B7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circulação invertida solidus"
+            }
+        },
+        "key": "29B8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circundado perpendicularmente"
+            }
+        },
+        "key": "29B9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Círculo dividido pela barra horizontal e a metade superior dividida pela barra vertical"
+            }
+        },
+        "key": "29BA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circule com x sobreposto"
+            }
+        },
+        "key": "29BB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinalização de divisão rotativa no sentido anti-horário",
+                "short": "Circulação no sentido anti-horário"
+            }
+        },
+        "key": "29BC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bala branca circundada"
+            }
+        },
+        "key": "29BE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bala circundada"
+            }
+        },
+        "key": "29BF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circulou menos do que"
+            }
+        },
+        "key": "29C0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circundado maior que"
+            }
+        },
+        "key": "29C1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circule com um círculo pequeno à direita"
+            }
+        },
+        "key": "29C2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Circule com dois traços horizontais à direita"
+            }
+        },
+        "key": "29C3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado subindo diagonal slash"
+            }
+        },
+        "key": "29C4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado diagonal diagonal"
+            }
+        },
+        "key": "29C5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Asterisco quadrado"
+            }
+        },
+        "key": "29C6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado pequeno círculo"
+            }
+        },
+        "key": "29C7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado quadrado"
+            }
+        },
+        "key": "29C8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois quadrinhos juntados"
+            }
+        },
+        "key": "29C9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo com ponto acima"
+            }
+        },
+        "key": "29CA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo com barra inferior"
+            }
+        },
+        "key": "29CB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "S em triângulo"
+            }
+        },
+        "key": "29CC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo com serifas no fundo"
+            }
+        },
+        "key": "29CD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo direito acima do triângulo esquerdo"
+            }
+        },
+        "key": "29CE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo esquerdo ao lado da barra vertical"
+            }
+        },
+        "key": "29CF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical ao lado do triângulo direito"
+            }
+        },
+        "key": "29D0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bowtie com metade esquerda preto"
+            }
+        },
+        "key": "29D1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bowtie com metade direita preta"
+            }
+        },
+        "key": "29D2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bowtie preto"
+            }
+        },
+        "key": "29D3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Vezes com metade esquerda preta"
+            }
+        },
+        "key": "29D4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Vezes com metade direita preta"
+            }
+        },
+        "key": "29D5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ampulheta branca"
+            }
+        },
+        "key": "29D6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ampulheta preta"
+            }
+        },
+        "key": "29D7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Infinito incompleto"
+            }
+        },
+        "key": "29DC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Amarrar o infinito"
+            }
+        },
+        "key": "29DD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Infinito negado com barra vertical"
+            }
+        },
+        "key": "29DE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Multimap de dupla terminação"
+            }
+        },
+        "key": "29DF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado com contorno contornado"
+            }
+        },
+        "key": "29E0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aumenta como"
+            }
+        },
+        "key": "29E1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Shuffle product"
+            }
+        },
+        "key": "29E2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual a sinal e paralelo inclinado"
+            }
+        },
+        "key": "29E3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual a sinal e paralelo inclinado com tilde acima"
+            }
+        },
+        "key": "29E4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Idêntico e paralelo inclinado"
+            }
+        },
+        "key": "29E5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Gleich stark"
+            }
+        },
+        "key": "29E6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "termodinâmico"
+            }
+        },
+        "key": "29E7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo apontando para baixo com metade esquerda preto"
+            }
+        },
+        "key": "29E8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo apontando para baixo com metade direita meio"
+            }
+        },
+        "key": "29E9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pastilha negra"
+            }
+        },
+        "key": "29EB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado branco barrado por erro"
+            }
+        },
+        "key": "29EE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quadrado preto barrado por erro"
+            }
+        },
+        "key": "29EF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante branco barrado com erro"
+            }
+        },
+        "key": "29F0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Diamante preto bloqueado por erro"
+            }
+        },
+        "key": "29F1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Círculo branco com erro"
+            }
+        },
+        "key": "29F2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Círculo quadrado preto de erro"
+            }
+        },
+        "key": "29F3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Regra atrasada"
+            }
+        },
+        "key": "29F4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador solidus reverso"
+            }
+        },
+        "key": "29F5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Solidus com overbar"
+            }
+        },
+        "key": "29F6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Solidus reverso com traçado horizontal"
+            }
+        },
+        "key": "29F7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande solidus"
+            }
+        },
+        "key": "29F8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande sólido reverso"
+            }
+        },
+        "key": "29F9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo mais"
+            }
+        },
+        "key": "29FA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triple plus"
+            }
+        },
+        "key": "29FB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "minúsculo"
+            }
+        },
+        "key": "29FE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Miny"
+            }
+        },
+        "key": "29FF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de ponto circundado"
+            }
+        },
+        "key": "2A00"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de cirurgias e arredores"
+            }
+        },
+        "key": "2A01"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de tempos em círculos"
+            }
+        },
+        "key": "2A02"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de sindicato com ponto"
+            }
+        },
+        "key": "2A03"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de união local com plus"
+            }
+        },
+        "key": "2A04"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de interseção quadrada"
+            }
+        },
+        "key": "2A05"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de sindicato quadrado"
+            }
+        },
+        "key": "2A06"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois lógicos e operadores"
+            }
+        },
+        "key": "2A07"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois lógicos ou operadores"
+            }
+        },
+        "key": "2A08"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de tempos raros"
+            }
+        },
+        "key": "2A09"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Módulo dois soma"
+            }
+        },
+        "key": "2A0A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Soma com integral"
+            }
+        },
+        "key": "2A0B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador integral quádruplo"
+            }
+        },
+        "key": "2A0C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral de parte finita"
+            }
+        },
+        "key": "2A0D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com duplo acidente vascular cerebral"
+            }
+        },
+        "key": "2A0E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Média integral com barra"
+            }
+        },
+        "key": "2A0F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Função de circulação"
+            }
+        },
+        "key": "2A10"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integração anti-horário"
+            }
+        },
+        "key": "2A11"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integração de linha com caminho retangular em torno do pólo"
+            }
+        },
+        "key": "2A12"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integração de linha com o caminho semicircular em torno do pólo"
+            }
+        },
+        "key": "2A13"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integração de linha que não inclui o pólo"
+            }
+        },
+        "key": "2A14"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral em torno de um operador de ponto"
+            }
+        },
+        "key": "2A15"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador integral quaternion"
+            }
+        },
+        "key": "2A16"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com sinal de horário",
+                "short": "Integral com os tempos"
+            }
+        },
+        "key": "2A18"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com interseção"
+            }
+        },
+        "key": "2A19"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com a união"
+            }
+        },
+        "key": "2A1A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com overbar"
+            }
+        },
+        "key": "2A1B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral com underbar"
+            }
+        },
+        "key": "2A1C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Junte-se"
+            }
+        },
+        "key": "2A1D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande operador do triângulo esquerdo"
+            }
+        },
+        "key": "2A1E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Composição de esquema de notação z"
+            }
+        },
+        "key": "2A1F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tubulação de esquema de notação z"
+            }
+        },
+        "key": "2A20"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Projeção de esquema de notação z"
+            }
+        },
+        "key": "2A21"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com pequeno círculo acima",
+                "short": "Mais com círculo acima"
+            }
+        },
+        "key": "2A22"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com acento circunflexo acima",
+                "short": "Mais chapéu"
+            }
+        },
+        "key": "2A23"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com tilde acima",
+                "short": "Mais tilde"
+            }
+        },
+        "key": "2A24"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com ponto abaixo",
+                "short": "Mais underdot"
+            }
+        },
+        "key": "2A25"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com tilde abaixo"
+            }
+        },
+        "key": "2A26"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com subscrito dois"
+            }
+        },
+        "key": "2A27"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais com triângulo preto"
+            }
+        },
+        "key": "2A28"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos com vírgula acima"
+            }
+        },
+        "key": "2A29"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos com o ponto abaixo"
+            }
+        },
+        "key": "2A2A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos com pontos caindo"
+            }
+        },
+        "key": "2A2B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de menos com pontos ascendentes"
+            }
+        },
+        "key": "2A2C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de adição no meio círculo esquerdo"
+            }
+        },
+        "key": "2A2D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de adição no meio círculo direito"
+            }
+        },
+        "key": "2A2E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Vetor ou produto cruzado"
+            }
+        },
+        "key": "2A2F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação com ponto acima"
+            }
+        },
+        "key": "2A30"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação com barra inferior"
+            }
+        },
+        "key": "2A31"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto semi-direto com parte inferior fechada"
+            }
+        },
+        "key": "2A32"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Smash product"
+            }
+        },
+        "key": "2A33"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação no meio círculo esquerdo"
+            }
+        },
+        "key": "2A34"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação no meio círculo direito"
+            }
+        },
+        "key": "2A35"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação circundado com acento circunflexo"
+            }
+        },
+        "key": "2A36"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação em círculo duplo"
+            }
+        },
+        "key": "2A37"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de divisão circundada",
+                "short": "Divisão circundada"
+            }
+        },
+        "key": "2A38"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais em triângulo"
+            }
+        },
+        "key": "2A39"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triângulo de sinal de menos"
+            }
+        },
+        "key": "2A3A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de multiplicação em triângulo"
+            }
+        },
+        "key": "2A3B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto interior"
+            }
+        },
+        "key": "2A3C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Produto interior direito"
+            }
+        },
+        "key": "2A3D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Composição relacional de notação z"
+            }
+        },
+        "key": "2A3E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Amalgamação ou coprodução"
+            }
+        },
+        "key": "2A3F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Interseção com ponto"
+            }
+        },
+        "key": "2A40"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União com sinal de menos",
+                "short": "União com menos"
+            }
+        },
+        "key": "2A41"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União com overbar"
+            }
+        },
+        "key": "2A42"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Interseção com overbar"
+            }
+        },
+        "key": "2A43"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Interseção com lógica e"
+            }
+        },
+        "key": "2A44"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União com lógica ou"
+            }
+        },
+        "key": "2A45"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União acima do cruzamento"
+            }
+        },
+        "key": "2A46"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento acima da união"
+            }
+        },
+        "key": "2A47"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União acima da barra acima do cruzamento"
+            }
+        },
+        "key": "2A48"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento acima da barra acima da união"
+            }
+        },
+        "key": "2A49"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União ao lado e juntou-se à união"
+            }
+        },
+        "key": "2A4A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Interseção ao lado e juntou-se ao cruzamento"
+            }
+        },
+        "key": "2A4B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União fechada com serifs"
+            }
+        },
+        "key": "2A4C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento fechado com serifs"
+            }
+        },
+        "key": "2A4D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento duplo quadrado"
+            }
+        },
+        "key": "2A4E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União quadrada dupla"
+            }
+        },
+        "key": "2A4F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "União fechada com serifs e smash product"
+            }
+        },
+        "key": "2A50"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com ponto acima"
+            }
+        },
+        "key": "2A51"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou com ponto acima"
+            }
+        },
+        "key": "2A52"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo lógico e"
+            }
+        },
+        "key": "2A53"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo lógico ou"
+            }
+        },
+        "key": "2A54"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois interligados lógicos e"
+            }
+        },
+        "key": "2A55"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois pontos de vista lógicos ou interceptados"
+            }
+        },
+        "key": "2A56"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado grande ou"
+            }
+        },
+        "key": "2A57"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado grande e"
+            }
+        },
+        "key": "2A58"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou sobreposto lógico e"
+            }
+        },
+        "key": "2A59"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com haste central"
+            }
+        },
+        "key": "2A5A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou com haste do meio"
+            }
+        },
+        "key": "2A5B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com traço horizontal"
+            }
+        },
+        "key": "2A5C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou com traço horizontal"
+            }
+        },
+        "key": "2A5D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com sobrebarque duplo"
+            }
+        },
+        "key": "2A5E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com underbar"
+            }
+        },
+        "key": "2A5F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico e com barraca dupla"
+            }
+        },
+        "key": "2A60"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno vee com underbar"
+            }
+        },
+        "key": "2A61"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou com sobrebarque duplo"
+            }
+        },
+        "key": "2A62"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lógico ou com barraca dupla"
+            }
+        },
+        "key": "2A63"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Anrestrição de domínio de notação de Z"
+            }
+        },
+        "key": "2A64"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Intervalo anti-restrição da faixa de z"
+            }
+        },
+        "key": "2A65"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "É igual ao sinal com o ponto abaixo"
+            }
+        },
+        "key": "2A66"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Idêntico ao ponto acima"
+            }
+        },
+        "key": "2A67"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triplo barra horizontal com duplo curso vertical"
+            }
+        },
+        "key": "2A68"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra horizontal tripla com curso vertical triplo"
+            }
+        },
+        "key": "2A69"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador tilde com ponto acima"
+            }
+        },
+        "key": "2A6A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de tilde com pontos ascendentes"
+            }
+        },
+        "key": "2A6B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Semelhante menos similar"
+            }
+        },
+        "key": "2A6C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Congruente com o ponto acima"
+            }
+        },
+        "key": "2A6D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual com asterisco"
+            }
+        },
+        "key": "2A6E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Quase igual ao acento circunflexo",
+                "short": "Chapéu quase igual"
+            }
+        },
+        "key": "2A6F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aproximadamente igual ou igual a"
+            }
+        },
+        "key": "2A70"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "É igual ao sinal acima, sinal mais",
+                "short": "Igual a acima, mais"
+            }
+        },
+        "key": "2A71"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de mais acima é igual ao sinal",
+                "short": "Mais acima é igual"
+            }
+        },
+        "key": "2A72"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual a sinal acima do operador tilde",
+                "short": "Igual ao operador tilde acima"
+            }
+        },
+        "key": "2A73"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Colo dobro igual"
+            }
+        },
+        "key": "2A74"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dois sinais consecutivos iguais",
+                "short": "Dois iguais consecutivos"
+            }
+        },
+        "key": "2A75"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Três sinais consecutivos iguais",
+                "short": "Três iguais consecutivos"
+            }
+        },
+        "key": "2A76"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Igual a sinal com dois pontos acima e dois pontos abaixo"
+            }
+        },
+        "key": "2A77"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Equivalente a quatro pontos acima"
+            }
+        },
+        "key": "2A78"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que com o círculo dentro"
+            }
+        },
+        "key": "2A79"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que com o círculo dentro"
+            }
+        },
+        "key": "2A7A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que o ponto de interrogação acima"
+            }
+        },
+        "key": "2A7B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que o ponto de interrogação acima"
+            }
+        },
+        "key": "2A7C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou inclinado igual a"
+            }
+        },
+        "key": "2A7D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou inclinado igual a"
+            }
+        },
+        "key": "2A7E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que ou inclinado igual a ponto no interior"
+            }
+        },
+        "key": "2A7F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que ou inclinado igual ao ponto dentro"
+            }
+        },
+        "key": "2A80"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou inclinado igual ao ponto acima"
+            }
+        },
+        "key": "2A81"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou inclinado igual ao ponto acima"
+            }
+        },
+        "key": "2A82"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou inclinado igual ao ponto acima à direita"
+            }
+        },
+        "key": "2A83"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que ou inclinado igual a ponto acima esquerdo"
+            }
+        },
+        "key": "2A84"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou aproximado"
+            }
+        },
+        "key": "2A85"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou aproximado"
+            }
+        },
+        "key": "2A86"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor e uma única linha não igual a"
+            }
+        },
+        "key": "2A87"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que e única linha não igual a"
+            }
+        },
+        "key": "2A88"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que e não aproximado"
+            }
+        },
+        "key": "2A89"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que e não aproximado"
+            }
+        },
+        "key": "2A8A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor do que acima da linha dupla igual acima maior do que"
+            }
+        },
+        "key": "2A8B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que acima linha dupla igual acima inferior a"
+            }
+        },
+        "key": "2A8C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que acima igual ou igual"
+            }
+        },
+        "key": "2A8D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que acima semelhante ou igual"
+            }
+        },
+        "key": "2A8E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que acima acima acima"
+            }
+        },
+        "key": "2A8F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que acima acima acima de"
+            }
+        },
+        "key": "2A90"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que acima maior do que a linha dupla superior igual"
+            }
+        },
+        "key": "2A91"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que acima de menos do que a linha dupla igual"
+            }
+        },
+        "key": "2A92"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que acima inclinado igual acima maior que acima inclinado igual"
+            }
+        },
+        "key": "2A93"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior que acima inclinado igual acima de menos do que acima inclinado igual"
+            }
+        },
+        "key": "2A94"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado igual ou inferior a"
+            }
+        },
+        "key": "2A95"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado igual ou maior que"
+            }
+        },
+        "key": "2A96"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado igual ou menor do que com ponto dentro"
+            }
+        },
+        "key": "2A97"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Inclinado igual ou maior do que com ponto dentro"
+            }
+        },
+        "key": "2A98"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla igual ou inferior a"
+            }
+        },
+        "key": "2A99"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla igual ou superior a"
+            }
+        },
+        "key": "2A9A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla inclinada igual ou inferior a"
+            }
+        },
+        "key": "2A9B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla inclinada igual ou maior do que"
+            }
+        },
+        "key": "2A9C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Semelhante ou menor que"
+            }
+        },
+        "key": "2A9D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Semelhante ou superior a"
+            }
+        },
+        "key": "2A9E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Semelhante a menos do que o sinal acima é igual"
+            }
+        },
+        "key": "2A9F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Semelhante acima do sinal acima do sinal acima é igual"
+            }
+        },
+        "key": "2AA0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo aninhado menos do que"
+            }
+        },
+        "key": "2AA1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo aninhado maior que"
+            }
+        },
+        "key": "2AA2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo aninhado menos do que com underbar"
+            }
+        },
+        "key": "2AA3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que sobreposição menor que"
+            }
+        },
+        "key": "2AA4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que ao lado menos do que"
+            }
+        },
+        "key": "2AA5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que fechado pela curva"
+            }
+        },
+        "key": "2AA6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que fechado por curva"
+            }
+        },
+        "key": "2AA7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menos do que fechado pela curva acima inclinada igual"
+            }
+        },
+        "key": "2AA8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior do que fechado por curva acima inclinado igual"
+            }
+        },
+        "key": "2AA9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "menor que"
+            }
+        },
+        "key": "2AAA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "maior que"
+            }
+        },
+        "key": "2AAB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Menor ou igual a"
+            }
+        },
+        "key": "2AAC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Maior ou igual a"
+            }
+        },
+        "key": "2AAD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "É igual a um sinal com o padrão acima"
+            }
+        },
+        "key": "2AAE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede acima sinal de linha única"
+            }
+        },
+        "key": "2AAF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucede acima de um sinal de linha única"
+            }
+        },
+        "key": "2AB0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede acima de uma única linha não igual a"
+            }
+        },
+        "key": "2AB1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucede acima de uma única linha não igual a"
+            }
+        },
+        "key": "2AB2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede o sinal acima de igual"
+            }
+        },
+        "key": "2AB3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso acima do sinal de igual"
+            }
+        },
+        "key": "2AB4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede acima, não é igual a"
+            }
+        },
+        "key": "2AB5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso superior não igual a"
+            }
+        },
+        "key": "2AB6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede acima quase igual a"
+            }
+        },
+        "key": "2AB7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso acima de quase igual"
+            }
+        },
+        "key": "2AB8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Precede acima, não é quase igual a"
+            }
+        },
+        "key": "2AB9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sucesso acima não é quase igual a"
+            }
+        },
+        "key": "2ABA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "O dobro precede"
+            }
+        },
+        "key": "2ABB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dupla sucesso"
+            }
+        },
+        "key": "2ABC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto com ponto"
+            }
+        },
+        "key": "2ABD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto com ponto"
+            }
+        },
+        "key": "2ABE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto com sinal de mais abaixo"
+            }
+        },
+        "key": "2ABF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto com sinal de mais abaixo"
+            }
+        },
+        "key": "2AC0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto com sinal de multiplicação abaixo"
+            }
+        },
+        "key": "2AC1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto com sinal de multiplicação abaixo"
+            }
+        },
+        "key": "2AC2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto de ou igual a ponto acima"
+            }
+        },
+        "key": "2AC3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto ou igual com ponto acima"
+            }
+        },
+        "key": "2AC4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto do signo acima é igual"
+            }
+        },
+        "key": "2AC5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto do sinal acima é igual"
+            }
+        },
+        "key": "2AC6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto do operador tilde acima"
+            }
+        },
+        "key": "2AC7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto do operador tilde acima"
+            }
+        },
+        "key": "2AC8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto acima de quase igual a"
+            }
+        },
+        "key": "2AC9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto de acima quase igual a"
+            }
+        },
+        "key": "2ACA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto do acima não igual a"
+            }
+        },
+        "key": "2ACB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto do acima não igual a"
+            }
+        },
+        "key": "2ACC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de caixa aberta quadrado esquerdo"
+            }
+        },
+        "key": "2ACD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador quadrado direito da caixa aberta"
+            }
+        },
+        "key": "2ACE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto fechado"
+            }
+        },
+        "key": "2ACF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto fechado"
+            }
+        },
+        "key": "2AD0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto fechado ou igual a"
+            }
+        },
+        "key": "2AD1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto fechado ou igual a"
+            }
+        },
+        "key": "2AD2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto acima do superconjunto"
+            }
+        },
+        "key": "2AD3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto acima do subconjunto"
+            }
+        },
+        "key": "2AD4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Subconjunto acima do subconjunto"
+            }
+        },
+        "key": "2AD5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto acima do superconjunto"
+            }
+        },
+        "key": "2AD6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto ao lado do subconjunto"
+            }
+        },
+        "key": "2AD7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Superconjunto ao lado e juntado por traço com subconjunto"
+            }
+        },
+        "key": "2AD8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Elemento de abertura para baixo"
+            }
+        },
+        "key": "2AD9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira com tee top"
+            }
+        },
+        "key": "2ADA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cruzamento transversal"
+            }
+        },
+        "key": "2ADB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Bifurcação"
+            }
+        },
+        "key": "2ADC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Incontrolável"
+            }
+        },
+        "key": "2ADD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Tack curto curto"
+            }
+        },
+        "key": "2ADE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Short tack"
+            }
+        },
+        "key": "2ADF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Short tack"
+            }
+        },
+        "key": "2AE0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Perpendicular com s"
+            }
+        },
+        "key": "2AE1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical triple direita"
+            }
+        },
+        "key": "2AE2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Torniquita esquerda de barra vertical dupla"
+            }
+        },
+        "key": "2AE3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical dobro esquerdo"
+            }
+        },
+        "key": "2AE4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Duplo barra vertical duplo esquerdo"
+            }
+        },
+        "key": "2AE5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Traço longo do membro esquerdo de duplo vertical"
+            }
+        },
+        "key": "2AE6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Short down tack com overbar"
+            }
+        },
+        "key": "2AE7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Short up tack with underbar"
+            }
+        },
+        "key": "2AE8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Short up tack acima do short down tack"
+            }
+        },
+        "key": "2AE9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Abaixamento duplo"
+            }
+        },
+        "key": "2AEA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Dobra-se"
+            }
+        },
+        "key": "2AEB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Double stroke not sign"
+            }
+        },
+        "key": "2AEC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Reverte o golpe duplo não assina"
+            }
+        },
+        "key": "2AED"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Não se divide com a barra de negação invertida"
+            }
+        },
+        "key": "2AEE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical com círculo acima"
+            }
+        },
+        "key": "2AEF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical com círculo abaixo"
+            }
+        },
+        "key": "2AF0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Aderência com círculo abaixo"
+            }
+        },
+        "key": "2AF1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Paralelo com curso horizontal"
+            }
+        },
+        "key": "2AF2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Paralelamente ao operador tilde"
+            }
+        },
+        "key": "2AF3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Relação binária de barra vertical tripla"
+            }
+        },
+        "key": "2AF4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical tripla com curso horizontal"
+            }
+        },
+        "key": "2AF5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de colon triplo"
+            }
+        },
+        "key": "2AF6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triplicou menos que"
+            }
+        },
+        "key": "2AF7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Triplo aninhado maior que"
+            }
+        },
+        "key": "2AF8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla inclinada inferior ou igual a"
+            }
+        },
+        "key": "2AF9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha dupla inclinada maior ou igual a"
+            }
+        },
+        "key": "2AFA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Relação binária tripla solidus"
+            }
+        },
+        "key": "2AFB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Grande operador de barra vertical tripla"
+            }
+        },
+        "key": "2AFC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Operador de sólidos duplos"
+            }
+        },
+        "key": "2AFD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical branca"
+            }
+        },
+        "key": "2AFE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Barra vertical branca n ary"
+            }
+        },
+        "key": "2AFF"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Traço de onda"
+            }
+        },
+        "key": "301C"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para vírgula vertical"
+            }
+        },
+        "key": "FE10"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o colon vertical"
+            }
+        },
+        "key": "FE13"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para ponto e vírgula vertical"
+            }
+        },
+        "key": "FE14"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o ponto de exclamação vertical"
+            }
+        },
+        "key": "FE15"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o ponto de interrogação vertical"
+            }
+        },
+        "key": "FE16"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para elipses horizontais verticais"
+            }
+        },
+        "key": "FE19"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o líder vertical de dois pontos",
+                "alternative": "Glifo para líder vertical de dois pontos"
+            }
+        },
+        "key": "FE30"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para trace vertical",
+                "alternative": "Glifo para trace vertical"
+            }
+        },
+        "key": "FE31"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para vertical en traceh",
+                "alternative": "Glifo para vertical en traço"
+            }
+        },
+        "key": "FE32"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para linha baixa vertical",
+                "alternative": "Glifo para sublinhado vertical sublinhado"
+            }
+        },
+        "key": "FE33"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para linha baixa ondulada vertical",
+                "alternative": "Glifo para espaçamento vertical sublinhado ondulado"
+            }
+        },
+        "key": "FE34"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de gergelim"
+            }
+        },
+        "key": "FE45"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de gergelim branco"
+            }
+        },
+        "key": "FE46"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Tracejado por cima",
+                "alternative": "Espaçamento desfasado overscore"
+            }
+        },
+        "key": "FE49"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Linha acima da linha central",
+                "alternative": "A linha central de espaçamento ultrapassa"
+            }
+        },
+        "key": "FE4A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sobrelineada ondulada",
+                "alternative": "Espaçamento ultrapassado"
+            }
+        },
+        "key": "FE4B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Duplo overline ondulado",
+                "alternative": "Espaçamento duplo ultrapassado"
+            }
+        },
+        "key": "FE4C"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa tracejada",
+                "alternative": "Espaçamento rascunho sublinhado"
+            }
+        },
+        "key": "FE4D"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa do centro",
+                "alternative": "Sublinhado da linha central do espaçamento"
+            }
+        },
+        "key": "FE4E"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa ondulada",
+                "alternative": "Espaçamento sublinhado ondulado"
+            }
+        },
+        "key": "FE4F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequena vírgula"
+            }
+        },
+        "key": "FE50"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequena parada completa",
+                "alternative": "Pequeno período"
+            }
+        },
+        "key": "FE52"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno ponto e vírgula"
+            }
+        },
+        "key": "FE54"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno colon"
+            }
+        },
+        "key": "FE55"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno ponto de interrogação"
+            }
+        },
+        "key": "FE56"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno ponto de exclamação"
+            }
+        },
+        "key": "FE57"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Little em tracejado"
+            }
+        },
+        "key": "FE58"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sinal de número"
+            }
+        },
+        "key": "FE5F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno e comercial"
+            }
+        },
+        "key": "FE60"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno asterisco"
+            }
+        },
+        "key": "FE61"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sinal de mais"
+            }
+        },
+        "key": "FE62"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Pequeno hífen menos"
+            }
+        },
+        "key": "FE63"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno menos que sinal"
+            }
+        },
+        "key": "FE64"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno maior que sinal"
+            }
+        },
+        "key": "FE65"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sinal de igual"
+            }
+        },
+        "key": "FE66"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sólido reverso",
+                "alternative": "Pequena barra invertida"
+            }
+        },
+        "key": "FE68"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sinal de dólar"
+            }
+        },
+        "key": "FE69"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno sinal de porcentagem"
+            }
+        },
+        "key": "FE6A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Pequeno comercial em"
+            }
+        },
+        "key": "FE6B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de exclamação completo"
+            }
+        },
+        "key": "FF01"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Cotação global"
+            }
+        },
+        "key": "FF02"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de número completo"
+            }
+        },
+        "key": "FF03"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de dólar completo"
+            }
+        },
+        "key": "FF04"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Sinal de porcentagem global"
+            }
+        },
+        "key": "FF05"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ampersal"
+            }
+        },
+        "key": "FF06"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Apóstrofo de privacidade"
+            }
+        },
+        "key": "FF07"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Asterisco de alta qualidade"
+            }
+        },
+        "key": "FF0A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Sinal de maior valor"
+            }
+        },
+        "key": "FF0B"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Grande vírgula"
+            }
+        },
+        "key": "FF0C"
+    },
+    {
+        "category": "Pd",
+        "mappings": {
+            "default": {
+                "default": "Híbrido de totalidade menos"
+            }
+        },
+        "key": "FF0D"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Full Full Stop",
+                "alternative": "Período de tempo total"
+            }
+        },
+        "key": "FF0E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth solidus",
+                "alternative": "Barra larga"
+            }
+        },
+        "key": "FF0F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Full-space Colon"
+            }
+        },
+        "key": "FF1A"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto e vírgula"
+            }
+        },
+        "key": "FF1B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Muito maior que o sinal"
+            }
+        },
+        "key": "FF1C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "O sinal de igualdade é igual"
+            }
+        },
+        "key": "FF1D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth maior que o sinal"
+            }
+        },
+        "key": "FF1E"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Ponto de interrogação integral"
+            }
+        },
+        "key": "FF1F"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Comercial completo em"
+            }
+        },
+        "key": "FF20"
+    },
+    {
+        "category": "Po",
+        "mappings": {
+            "default": {
+                "default": "Solidão inversa de largura",
+                "alternative": "Barra invertida fullwidth"
+            }
+        },
+        "key": "FF3C"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Acento circunflexo de largura",
+                "alternative": "Espaçamento de espaçamento total"
+            }
+        },
+        "key": "FF3E"
+    },
+    {
+        "category": "Pc",
+        "mappings": {
+            "default": {
+                "default": "Linha baixa de alta qualidade",
+                "alternative": "Sublinhado de espaçamento total"
+            }
+        },
+        "key": "FF3F"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Sotaque grave",
+                "alternative": "Sepultura espacial"
+            }
+        },
+        "key": "FF40"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical total",
+                "alternative": "Barra vertical de largura"
+            }
+        },
+        "key": "FF5C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth tilde",
+                "alternative": "Espaçamento de largura total tilde"
+            }
+        },
+        "key": "FF5E"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de centavo total"
+            }
+        },
+        "key": "FFE0"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de libra total"
+            }
+        },
+        "key": "FFE1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cheio sem sinal"
+            }
+        },
+        "key": "FFE2"
+    },
+    {
+        "category": "Sk",
+        "mappings": {
+            "default": {
+                "default": "Macron de largura total",
+                "alternative": "Espaçador de espaçamento total"
+            }
+        },
+        "key": "FFE3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Barra quebrada",
+                "alternative": "Barra vertical quebrada"
+            }
+        },
+        "key": "FFE4"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de iene de alta qualidade"
+            }
+        },
+        "key": "FFE5"
+    },
+    {
+        "category": "Sc",
+        "mappings": {
+            "default": {
+                "default": "Sinal de ganhador de fullwidth"
+            }
+        },
+        "key": "FFE6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Formas de largura luz vertical"
+            }
+        },
+        "key": "FFE8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Quadrado preto da metade"
+            }
+        },
+        "key": "FFED"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Quarta círculo branco"
+            }
+        },
+        "key": "FFEE"
+    }
+]

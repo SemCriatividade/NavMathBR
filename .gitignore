@@ -1,0 +1,11 @@
+.ninja_deps
+.ninja_log
+deps.js
+*.pyc
+androidVoxDev.js
+operavox
+chromevox/messages/i18n_messages_localized__en.node.js
+chromevox/messages/_locales/en/messages.json
+chromevox/messages/i18n_messages_localized__en.js
+host/testing/test_messages.js
+operavox/android_vox.js

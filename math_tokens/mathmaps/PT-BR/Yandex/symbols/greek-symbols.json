@@ -1,0 +1,393 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grego símbolo beta",
+        "alternative": "letra grega enrolado beta",
+        "short": "beta"
+      }
+    },
+    "key": "03D0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grega theta símbolo",
+        "alternative": "letra grega script theta",
+        "short": "theta"
+      }
+    },
+    "key": "03D1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grego phi símbolo",
+        "alternative": "letra grega phi script",
+        "short": "phi"
+      }
+    },
+    "key": "03D5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grego pi símbolo",
+        "alternative": "letra grega omega pi",
+        "short": "pi"
+      }
+    },
+    "key": "03D6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grega kai símbolo",
+        "short": "kai"
+      }
+    },
+    "key": "03D7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grego kappa símbolo",
+        "alternative": "letra grega script kappa",
+        "short": "kappa"
+      }
+    },
+    "key": "03F0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grega rho símbolo",
+        "alternative": "letra grega rho cauda",
+        "short": "rho"
+      }
+    },
+    "key": "03F1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "grego lunate epsilon símbolo",
+        "short": "epsilon"
+      }
+    },
+    "key": "03F5"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "grego revertida lunate epsilon símbolo",
+        "short": "invertida epsilon"
+      }
+    },
+    "key": "03F6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega theta símbolo",
+        "short": "cap theta"
+      }
+    },
+    "key": "03F4"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito nabla",
+        "alternative": "negrito nabla"
+      }
+    },
+    "key": "1D6C1"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito diferenciais parciais",
+        "alternative": "negrito diferenciais parciais",
+        "short": "negrito diferenciais parciais"
+      }
+    },
+    "key": "1D6DB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito epsilon símbolo",
+        "alternative": "negrito epsilon",
+        "short": "negrito epsilon"
+      }
+    },
+    "key": "1D6DC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito theta símbolo",
+        "alternative": "negrito theta",
+        "short": "negrito theta"
+      }
+    },
+    "key": "1D6DD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito kappa símbolo",
+        "alternative": "negrito kappa",
+        "short": "negrito kappa"
+      }
+    },
+    "key": "1D6DE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito phi símbolo",
+        "alternative": "negrito phi",
+        "short": "negrito phi"
+      }
+    },
+    "key": "1D6DF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito rho símbolo",
+        "alternative": "negrito rho",
+        "short": "negrito rho"
+      }
+    },
+    "key": "1D6E0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pi símbolo",
+        "alternative": "negrito pi",
+        "short": "negrito pi"
+      }
+    },
+    "key": "1D6E1"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico nabla",
+        "alternative": "itálico nabla",
+        "short": "itálico nabla"
+      }
+    },
+    "key": "1D6FB"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico diferenciais parciais",
+        "alternative": "itálico diferenciais parciais",
+        "short": "itálico diferenciais parciais"
+      }
+    },
+    "key": "1D715"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico epsilon símbolo",
+        "alternative": "itálico epsilon",
+        "short": "itálico epsilon"
+      }
+    },
+    "key": "1D716"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico theta símbolo",
+        "alternative": "itálico theta",
+        "short": "itálico theta"
+      }
+    },
+    "key": "1D717"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico kappa símbolo",
+        "alternative": "itálico kappa",
+        "short": "itálico kappa"
+      }
+    },
+    "key": "1D718"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico phi símbolo",
+        "alternative": "itálico phi",
+        "short": "itálico phi"
+      }
+    },
+    "key": "1D719"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico rho símbolo",
+        "alternative": "itálico rho",
+        "short": "itálico rho"
+      }
+    },
+    "key": "1D71A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pi símbolo",
+        "alternative": "itálico pi",
+        "short": "itálico pi"
+      }
+    },
+    "key": "1D71B"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold nabla",
+        "alternative": "sans serif bold nabla",
+        "short": "sans serif bold nabla"
+      }
+    },
+    "key": "1D76F"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold diferenciais parciais",
+        "alternative": "sans serif bold diferenciais parciais",
+        "short": "sans serif bold diferenciais parciais"
+      }
+    },
+    "key": "1D789"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold epsilon símbolo",
+        "alternative": "sans serif bold epsilon",
+        "short": "sans serif bold epsilon"
+      }
+    },
+    "key": "1D78A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold theta símbolo",
+        "alternative": "sans serif bold theta",
+        "short": "sans serif bold theta"
+      }
+    },
+    "key": "1D78B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold kappa símbolo",
+        "alternative": "sans serif bold kappa",
+        "short": "sans serif bold kappa"
+      }
+    },
+    "key": "1D78C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold phi símbolo",
+        "alternative": "sans serif bold phi",
+        "short": "sans serif bold phi"
+      }
+    },
+    "key": "1D78D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold rho símbolo",
+        "alternative": "sans serif bold rho",
+        "short": "sans serif bold rho"
+      }
+    },
+    "key": "1D78E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pi símbolo",
+        "alternative": "sans serif bold pi",
+        "short": "sans serif bold pi"
+      }
+    },
+    "key": "1D78F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital digamma",
+        "alternative": "negrito capital digamma",
+        "short": "negrito cap digamma"
+      }
+    },
+    "key": "1D7CA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno digamma",
+        "alternative": "negrito pequeno digamma",
+        "short": "negrito digamma"
+      }
+    },
+    "key": "1D7CB"
+  }
+]

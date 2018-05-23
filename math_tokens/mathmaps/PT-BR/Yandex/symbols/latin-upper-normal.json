@@ -1,0 +1,626 @@
+[
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a",
+        "alternative": "",
+        "short": "boné"
+      }
+    },
+    "key": "0041",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra b",
+        "alternative": "",
+        "short": "cap b"
+      }
+    },
+    "key": "0042",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra c",
+        "alternative": "",
+        "short": "pac c"
+      }
+    },
+    "key": "0043",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d",
+        "alternative": "",
+        "short": "cap d\u0027"
+      }
+    },
+    "key": "0044",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e",
+        "alternative": "",
+        "short": "pac e"
+      }
+    },
+    "key": "0045",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra f",
+        "alternative": "",
+        "short": "cap f"
+      }
+    },
+    "key": "0046",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g",
+        "alternative": "",
+        "short": "cap g"
+      }
+    },
+    "key": "0047",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h",
+        "alternative": "",
+        "short": "pac h"
+      }
+    },
+    "key": "0048",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i (letra)",
+        "alternative": "",
+        "short": "cap i"
+      }
+    },
+    "key": "0049",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra j",
+        "alternative": "",
+        "short": "cap j"
+      }
+    },
+    "key": "004A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra k",
+        "alternative": "",
+        "short": "cap k"
+      }
+    },
+    "key": "004B",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra l",
+        "alternative": "",
+        "short": "cap l"
+      }
+    },
+    "key": "004C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra m",
+        "alternative": "",
+        "short": "cap m"
+      }
+    },
+    "key": "004D",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n",
+        "alternative": "",
+        "short": "pac n"
+      }
+    },
+    "key": "004E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o",
+        "alternative": "",
+        "short": "cap s"
+      }
+    },
+    "key": "004F",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra p",
+        "alternative": "",
+        "short": "pac p"
+      }
+    },
+    "key": "0050",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra q",
+        "alternative": "",
+        "short": "cap q"
+      }
+    },
+    "key": "0051",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra r",
+        "alternative": "",
+        "short": "pac r"
+      }
+    },
+    "key": "0052",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra s",
+        "alternative": "",
+        "short": "cap s"
+      }
+    },
+    "key": "0053",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra t",
+        "alternative": "",
+        "short": "cap t"
+      }
+    },
+    "key": "0054",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra u",
+        "alternative": "",
+        "short": "cap u"
+      }
+    },
+    "key": "0055",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra v",
+        "alternative": "",
+        "short": "cap v"
+      }
+    },
+    "key": "0056",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w",
+        "alternative": "",
+        "short": "cap w"
+      }
+    },
+    "key": "0057",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula x",
+        "alternative": "",
+        "short": "cap x"
+      }
+    },
+    "key": "0058",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra y",
+        "alternative": "",
+        "short": "cap y"
+      }
+    },
+    "key": "0059",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z",
+        "alternative": "",
+        "short": "cap z"
+      }
+    },
+    "key": "005A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina carta capital a",
+        "alternative": "largura latino-tampa",
+        "short": "boné"
+      }
+    },
+    "key": "FF21",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra b",
+        "alternative": "largura latino-cap b",
+        "short": "cap b"
+      }
+    },
+    "key": "FF22",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra c",
+        "alternative": "largura latino-cap c",
+        "short": "pac c"
+      }
+    },
+    "key": "FF23",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra d",
+        "alternative": "largura latina cap d\u0027",
+        "short": "cap d\u0027"
+      }
+    },
+    "key": "FF24",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina e maiúsculo",
+        "alternative": "largura latino-cap e",
+        "short": "pac e"
+      }
+    },
+    "key": "FF25",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra f",
+        "alternative": "largura latino-cap f",
+        "short": "cap f"
+      }
+    },
+    "key": "FF26",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra g",
+        "alternative": "largura latino-cap g",
+        "short": "cap g"
+      }
+    },
+    "key": "FF27",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina letra maiúscula h",
+        "alternative": "largura latina pac h",
+        "short": "pac h"
+      }
+    },
+    "key": "FF28",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina i (letra)",
+        "alternative": "largura latino-cap i",
+        "short": "cap i"
+      }
+    },
+    "key": "FF29",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina (letra j",
+        "alternative": "largura latino-cap j",
+        "short": "cap j"
+      }
+    },
+    "key": "FF2A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina letra k",
+        "alternative": "largura latino-cap k",
+        "short": "cap k"
+      }
+    },
+    "key": "FF2B",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra l",
+        "alternative": "largura latino-cap l",
+        "short": "cap l"
+      }
+    },
+    "key": "FF2C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra m",
+        "alternative": "largura latino-cap m",
+        "short": "cap m"
+      }
+    },
+    "key": "FF2D",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra n",
+        "alternative": "largura latin n cap",
+        "short": "pac n"
+      }
+    },
+    "key": "FF2E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina capital letra o",
+        "alternative": "largura latino-cap s",
+        "short": "cap s"
+      }
+    },
+    "key": "FF2F",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra p",
+        "alternative": "largura latina pac p",
+        "short": "pac p"
+      }
+    },
+    "key": "FF30",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra q",
+        "alternative": "largura latino-cap q",
+        "short": "cap q"
+      }
+    },
+    "key": "FF31",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina (letra) r",
+        "alternative": "largura latina pac r",
+        "short": "pac r"
+      }
+    },
+    "key": "FF32",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra s",
+        "alternative": "largura latino-cap s",
+        "short": "cap s"
+      }
+    },
+    "key": "FF33",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra t",
+        "alternative": "largura latino-cap t",
+        "short": "cap t"
+      }
+    },
+    "key": "FF34",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra u",
+        "alternative": "largura latino-cap u",
+        "short": "cap u"
+      }
+    },
+    "key": "FF35",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latino-letra v",
+        "alternative": "largura latino-cap v",
+        "short": "cap v"
+      }
+    },
+    "key": "FF36",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina capital letra w",
+        "alternative": "largura latino-cap w",
+        "short": "cap w"
+      }
+    },
+    "key": "FF37",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina letra maiúscula x",
+        "alternative": "largura latino-cap x",
+        "short": "cap x"
+      }
+    },
+    "key": "FF38",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina capital letra y",
+        "alternative": "largura latino-cap y",
+        "short": "cap y"
+      }
+    },
+    "key": "FF39",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "largura latina capital letra z",
+        "alternative": "largura latino-cap z",
+        "short": "cap z"
+      }
+    },
+    "key": "FF3A",
+    "names": []
+  }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Alfa de letra pequena grega",
+                "alternative": "",
+                "short": "alfa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega de pequena letra",
+                "alternative": "",
+                "short": "beta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Greek small letter gamma",
+                "alternative": "",
+                "short": "gama"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Delta de letras pequenas grego",
+                "alternative": "",
+                "short": "delta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Epsilon de pequena letra grega",
+                "alternative": "",
+                "short": "Épsilon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra zeta pequena grega",
+                "alternative": "",
+                "short": "Zeta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena grega eta",
+                "alternative": "",
+                "short": "Eta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Theta de letra pequena grega",
+                "alternative": "",
+                "short": "Theta"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03B9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra iota de pequena letra grega",
+                "alternative": "",
+                "short": "iota"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Kappa de letra pequena grega",
+                "alternative": "",
+                "short": "Kappa"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena lambda",
+                "alternative": "Letra grega pequena lambda",
+                "short": "Lamda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena grega",
+                "alternative": "",
+                "short": "Mu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena grega nu",
+                "alternative": "",
+                "short": "Nu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra xi grega",
+                "alternative": "",
+                "short": "XI"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03BF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena omicron",
+                "alternative": "",
+                "short": "Omicron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena grega pi",
+                "alternative": "",
+                "short": "Pi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Rho de letra pequena grega",
+                "alternative": "",
+                "short": "Rho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Sigma final de pequena letra grega",
+                "alternative": "",
+                "short": "Sigma final"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Sigma de letra pequena grega",
+                "alternative": "",
+                "short": "Sigma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena letra",
+                "alternative": "",
+                "short": "Tau"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Grey Small Letter upsilon",
+                "alternative": "",
+                "short": "Upsilon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Grey small letter phi",
+                "alternative": "",
+                "short": "Phi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Chi de letra pequena grega",
+                "alternative": "",
+                "short": "Chi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra psiquiátrica",
+                "alternative": "",
+                "short": "Psi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "03C9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Omega de letra pequena grega",
+                "alternative": "",
+                "short": "ómega"
+            }
+        }
+    }
+]

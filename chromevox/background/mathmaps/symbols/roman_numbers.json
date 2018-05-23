@@ -1,0 +1,179 @@
+[  
+  {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "um romano",
+        "short": 1
+      }
+    },
+    "key": "2160"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "dois romano",
+        "short": 2
+      }
+    },
+    "key": "2161"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 3
+      }
+    },
+    "key": "2162"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 4
+      }
+    },
+    "key": "2163"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco em romano",
+        "short": "cinco em romano"
+      }
+    },
+    "key": "2164"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 6
+      }
+    },
+    "key": "2165"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 7
+      }
+    },
+    "key": "2166"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 8
+      }
+    },
+    "key": "2167"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 9
+      }
+    },
+    "key": "2168"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 10
+      }
+    },
+    "key": "2169"
+  },
+
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 11
+      }
+    },
+    "key": "216A"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 12
+      }
+    },
+    "key": "216B"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 50
+      }
+    },
+    "key": "216C"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 100
+      }
+    },
+    "key": "216D"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 500
+      }
+    },
+    "key": "216E"
+  },
+  
+    {
+    "category": "Rn",
+    "mappings": {
+      "default": {
+        "default": "cinco romano",
+        "short": 1000
+      }
+    },
+    "key": "216F"
+  }
+  
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra alfa",
+        "alternative": "",
+        "short": "cap alpha"
+      }
+    },
+    "key": "0391",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra beta",
+        "alternative": "",
+        "short": "cap beta"
+      }
+    },
+    "key": "0392",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra gama",
+        "alternative": "",
+        "short": "cap gama"
+      }
+    },
+    "key": "0393",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra delta",
+        "alternative": "",
+        "short": "cap delta"
+      }
+    },
+    "key": "0394",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra épsilon",
+        "alternative": "",
+        "short": "cap epsilon"
+      }
+    },
+    "key": "0395",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega zeta letra",
+        "alternative": "",
+        "short": "cap zeta"
+      }
+    },
+    "key": "0396",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra eta",
+        "alternative": "",
+        "short": "cap eta"
+      }
+    },
+    "key": "0397",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra theta",
+        "alternative": "",
+        "short": "cap theta"
+      }
+    },
+    "key": "0398",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta iota",
+        "alternative": "",
+        "short": "cap iota"
+      }
+    },
+    "key": "0399",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta kappa",
+        "alternative": "",
+        "short": "cap kappa"
+      }
+    },
+    "key": "039A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta lamda",
+        "alternative": "capital grega letra lambda",
+        "short": "cap lamda"
+      }
+    },
+    "key": "039B",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta mu",
+        "alternative": "",
+        "short": "cap mu"
+      }
+    },
+    "key": "039C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta nu",
+        "alternative": "",
+        "short": "cap nu"
+      }
+    },
+    "key": "039D",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta xi",
+        "alternative": "",
+        "short": "cap xi"
+      }
+    },
+    "key": "039E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta omicron",
+        "alternative": "",
+        "short": "cap omicron"
+      }
+    },
+    "key": "039F",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega da letra pi",
+        "alternative": "",
+        "short": "cap pi"
+      }
+    },
+    "key": "03A0",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega rho letra",
+        "alternative": "",
+        "short": "cap centro de exposições rho"
+      }
+    },
+    "key": "03A1",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "grega maiúscula sigma",
+        "alternative": "",
+        "short": "cap sigma"
+      }
+    },
+    "key": "03A3",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra tau",
+        "alternative": "",
+        "short": "cap tau"
+      }
+    },
+    "key": "03A4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega carta upsilon",
+        "alternative": "",
+        "short": "cap upsilon"
+      }
+    },
+    "key": "03A5",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega phi carta",
+        "alternative": "",
+        "short": "cap phi"
+      }
+    },
+    "key": "03A6",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra chi",
+        "alternative": "",
+        "short": "cap chi"
+      }
+    },
+    "key": "03A7",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra psi",
+        "alternative": "",
+        "short": "cap psi"
+      }
+    },
+    "key": "03A8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "capital grega letra omega",
+        "alternative": "",
+        "short": "cap omega"
+      }
+    },
+    "key": "03A9",
+    "names": []
+  }
+]

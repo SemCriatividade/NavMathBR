@@ -1,0 +1,167 @@
+[
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "fun??o cosseno",
+        "short": "co-seno"
+      }
+    },
+    "key": "cos",
+    "names": [
+      "cos",
+      "cosine"
+    ]
+  },
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "fun??o cotangente",
+        "short": "cotangente"
+      }
+    },
+    "key": "cot",
+    "names": [
+      "cot"
+    ]
+  },
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "ó o cosecant divertido??o",
+        "short": "ó o cosecant"
+      }
+    },
+    "key": "csc",
+    "names": [
+      "csc"
+    ]
+  },
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "fun??o secante",
+        "short": "secantes"
+      }
+    },
+    "key": "sec",
+    "names": [
+      "sec"
+    ]
+  },
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "fun??o seno",
+        "alternative": "fun??o seno",
+        "short": "sine"
+      }
+    },
+    "key": "sin",
+    "names": [
+      "sin",
+      "sine"
+    ]
+  },
+  {
+    "category": "Trigonometric",
+    "mappings": {
+      "default": {
+        "default": "fun??o tangente",
+        "short": "tangente"
+      }
+    },
+    "key": "tan",
+    "names": [
+      "tan"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o cosseno",
+        "alternative": "arco-co-seno divertido??o",
+        "short": "arco-co-seno"
+      }
+    },
+    "key": "arccos",
+    "names": [
+      "arccos"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o cotangente",
+        "alternative": "arco cotangente de um divertido??o",
+        "short": "arco cotangente"
+      }
+    },
+    "key": "arccot",
+    "names": [
+      "arccot"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inverso s o cosecant divertido??o",
+        "alternative": "arco s o cosecant divertido??o",
+        "short": "arco s o cosecant"
+      }
+    },
+    "key": "arccsc",
+    "names": [
+      "arccsc"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o secante",
+        "alternative": "arco secante divertido??o",
+        "short": "arco secante"
+      }
+    },
+    "key": "arcsec",
+    "names": [
+      "arcsec"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o seno",
+        "alternative": "arco seno divertido??o",
+        "short": "arco seno"
+      }
+    },
+    "key": "arcsin",
+    "names": [
+      "arcsin"
+    ]
+  },
+  {
+    "category": "Cyclometric",
+    "mappings": {
+      "default": {
+        "default": "inversa da fun??o tangente",
+        "alternative": "arco tangente divertido??o",
+        "short": "arco tangente"
+      }
+    },
+    "key": "arctan",
+    "names": [
+      "arctan"
+    ]
+  }
+]

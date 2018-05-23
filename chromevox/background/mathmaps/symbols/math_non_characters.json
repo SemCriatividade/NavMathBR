@@ -1,0 +1,244 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas h mais de duas hora de letra grega pi",
+        "alternative": "itálico pequenas h mais de dois pi",
+        "short": "itálico h mais de dois pi"
+      }
+    },
+    "key": "210F"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "l b símbolo de barra",
+        "short": "l b barra"
+      }
+    },
+    "key": "2114"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "numero de sinal",
+        "alternative": "numero",
+        "short": "numero"
+      }
+    },
+    "key": "2116"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "copyright gravação de som"
+      }
+    },
+    "key": "2117"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "receita de tomar"
+      }
+    },
+    "key": "211E"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "resposta"
+      }
+    },
+    "key": "211F"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "de serviço marca"
+      }
+    },
+    "key": "2120"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "telefone sinal",
+        "alternative": "t e l símbolo"
+      }
+    },
+    "key": "2121"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "marca assinar",
+        "alternative": "marca",
+        "short": "marca"
+      }
+    },
+    "key": "2122"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "versículo"
+      }
+    },
+    "key": "2123"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "onça sinal",
+        "alternative": "onça",
+        "short": "onça"
+      }
+    },
+    "key": "2125"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "ohm sinal",
+        "alternative": "ohm",
+        "short": "ohm"
+      }
+    },
+    "key": "2126"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "ohm invertido sinal",
+        "alternative": "mho",
+        "short": "ohm invertido"
+      }
+    },
+    "key": "2127"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "kelvin sinal",
+        "alternative": "graus kelvin",
+        "short": "kelvin"
+      }
+    },
+    "key": "212A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "angstrom sinal",
+        "alternative": "angstrom unidade",
+        "short": "angstrom"
+      }
+    },
+    "key": "212B"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "estimado símbolo",
+        "short": "estimado"
+      }
+    },
+    "key": "212E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "virou-se com f maiúsculo",
+        "alternative": "virou-f",
+        "short": "virou-cap f"
+      }
+    },
+    "key": "2132"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "fonte de informação"
+      }
+    },
+    "key": "2139"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "rodado capital q",
+        "short": "rodado cap q"
+      }
+    },
+    "key": "213A"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "fac-símile sinal"
+      }
+    },
+    "key": "213B"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "virou-se, sans-serif capital g",
+        "short": "virou-se, sans-serif cap g"
+      }
+    },
+    "key": "2141"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "virou-se, sans-serif capital l",
+        "short": "virou-se, sans-serif cap l"
+      }
+    },
+    "key": "2142"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "invertida, sans-serif capital l",
+        "short": "invertida, sans-serif cap l"
+      }
+    },
+    "key": "2143"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "virou-se, sans-serif capital y",
+        "short": "virou-se, sans-serif cap y"
+      }
+    },
+    "key": "2144"
+  }
+]

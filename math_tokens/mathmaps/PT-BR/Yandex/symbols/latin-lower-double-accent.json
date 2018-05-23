@@ -1,0 +1,686 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com trema e macron",
+        "alternative": "letra latina minúscula u duplo overdot overbar",
+        "short": "u duplo overdot overbar"
+      }
+    },
+    "key": "01D6",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com trema e aguda",
+        "alternative": "letra latina minúscula u duplo overdot aguda",
+        "short": "u duplo overdot aguda"
+      }
+    },
+    "key": "01D8",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com trema e caron",
+        "alternative": "letra latina minúscula u duplo overdot hacek",
+        "short": "u duplo overdot caron"
+      }
+    },
+    "key": "01DA",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com trema e sepultura",
+        "alternative": "letra latina minúscula u duplo overdot sepultura",
+        "short": "u duplo overdot sepultura"
+      }
+    },
+    "key": "01DC",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula um com trema e macron",
+        "alternative": "letra latina minúscula um duplo overdot overbar",
+        "short": "um casal overdot overbar"
+      }
+    },
+    "key": "01DF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um ponto acima e macron",
+        "alternative": "letra latina minúscula um ponto overbar",
+        "short": "um overdot overbar"
+      }
+    },
+    "key": "01E1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com ogonek e macron",
+        "alternative": "letra latina minúscula o ogonek overbar",
+        "short": "o ogonek overbar"
+      }
+    },
+    "key": "01ED",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com anel acima e aguda",
+        "alternative": "letra latina minúscula um anel acima aguda",
+        "short": "um anel acima aguda"
+      }
+    },
+    "key": "01FB",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula o com trema e macron",
+        "alternative": "letra latina minúscula o casal overdot overbar",
+        "short": "o casal overdot overbar"
+      }
+    },
+    "key": "022B",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com til e macron",
+        "alternative": "letra latina minúscula o til overbar",
+        "short": "o til overbar"
+      }
+    },
+    "key": "022D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o ponto acima e macron",
+        "alternative": "letra latina minúscula o overdot overbar",
+        "short": "o overdot overbar"
+      }
+    },
+    "key": "0231",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula c com cedilha e aguda",
+        "alternative": "letra latina minúscula c cedilha aguda",
+        "short": "c cedilha aguda"
+      }
+    },
+    "key": "1E09",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com macron e sepultura",
+        "alternative": "letra latina minúscula e overbar sepultura",
+        "short": "e overbar sepultura"
+      }
+    },
+    "key": "1E15",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com macron e aguda",
+        "alternative": "letra latina minúscula e overbar aguda",
+        "short": "e overbar aguda"
+      }
+    },
+    "key": "1E17",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com cedilha e breve",
+        "alternative": "letra latina minúscula e cedilha breve",
+        "short": "e cedilha breve"
+      }
+    },
+    "key": "1E1D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula eu com trema e aguda",
+        "alternative": "letra latina minúscula eu dobro overdot aguda",
+        "short": "eu dobro overdot aguda"
+      }
+    },
+    "key": "1E2F",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula l com dot abaixo e macron",
+        "alternative": "letra latina minúscula l underdot overbar",
+        "short": "l underdot overbar"
+      }
+    },
+    "key": "1E39",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com til e aguda",
+        "alternative": "letra latina minúscula o til aguda",
+        "short": "o til aguda"
+      }
+    },
+    "key": "1E4D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com til e trema",
+        "alternative": "letra latina minúscula o til duplo overdot",
+        "short": "o til duplo overdot"
+      }
+    },
+    "key": "1E4F",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o macron e sepultura",
+        "alternative": "letra latina minúscula o overbar sepultura",
+        "short": "o overbar sepultura"
+      }
+    },
+    "key": "1E51",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o macron e aguda",
+        "alternative": "letra latina minúscula o overbar aguda",
+        "short": "o overbar aguda"
+      }
+    },
+    "key": "1E53",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula r com o ponto abaixo e macron",
+        "alternative": "letra latina minúscula r underdot overbar",
+        "short": "r underdot overbar"
+      }
+    },
+    "key": "1E5D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s aguda e ponto acima",
+        "alternative": "letra latina minúscula s aguda overdot",
+        "short": "s aguda overdot"
+      }
+    },
+    "key": "1E65",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com caron e o ponto acima",
+        "alternative": "letra latina minúscula s caron overdot",
+        "short": "s caron overdot"
+      }
+    },
+    "key": "1E67",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com o ponto abaixo e ponto acima",
+        "alternative": "letra latina minúscula s underdot overdot",
+        "short": "s underdot overdot"
+      }
+    },
+    "key": "1E69",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com til e aguda",
+        "alternative": "letra latina minúscula u til aguda",
+        "short": "u til aguda"
+      }
+    },
+    "key": "1E79",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com macron e trema",
+        "alternative": "letra latina minúscula u overbar duplo overdot",
+        "short": "u overbar duplo overdot"
+      }
+    },
+    "key": "1E7B",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um acento circunflexo e agudo",
+        "alternative": "letra latina minúscula um chapéu aguda",
+        "short": "um chapéu aguda"
+      }
+    },
+    "key": "1EA5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um acento circunflexo e grave",
+        "alternative": "letra latina minúscula um chapéu de sepultura",
+        "short": "um chapéu de sepultura"
+      }
+    },
+    "key": "1EA7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um acento circunflexo e o gancho acima",
+        "alternative": "letra latina minúscula um chapéu de gancho acima",
+        "short": "um chapéu de gancho acima"
+      }
+    },
+    "key": "1EA9",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um acento circunflexo e til",
+        "alternative": "letra latina minúscula um chapéu til",
+        "short": "um chapéu til"
+      }
+    },
+    "key": "1EAB",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um acento circunflexo e o ponto abaixo",
+        "alternative": "letra latina minúscula um chapéu underdot",
+        "short": "um chapéu underdot"
+      }
+    },
+    "key": "1EAD",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um breve e aguda",
+        "alternative": "letra latina minúscula um breve aguda",
+        "short": "uma breve aguda"
+      }
+    },
+    "key": "1EAF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um breve e grave",
+        "alternative": "letra latina minúscula um breve sepultura",
+        "short": "uma breve sepultura"
+      }
+    },
+    "key": "1EB1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um breve e gancho acima",
+        "alternative": "letra latina minúscula um breve gancho acima",
+        "short": "uma breve gancho acima"
+      }
+    },
+    "key": "1EB3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um breve e til",
+        "alternative": "letra latina minúscula um breve til",
+        "short": "uma breve til"
+      }
+    },
+    "key": "1EB5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com um breve e o ponto abaixo",
+        "alternative": "letra latina minúscula um breve underdot",
+        "short": "uma breve underdot"
+      }
+    },
+    "key": "1EB7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com acento circunflexo e agudo",
+        "alternative": "letra latina minúscula e chapéu aguda",
+        "short": "e chapéu aguda"
+      }
+    },
+    "key": "1EBF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com acento circunflexo e grave",
+        "alternative": "letra latina minúscula e chapéu de sepultura",
+        "short": "e chapéu de sepultura"
+      }
+    },
+    "key": "1EC1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com acento circunflexo e o gancho acima",
+        "alternative": "letra latina minúscula e chapéu de gancho acima",
+        "short": "e chapéu de gancho acima"
+      }
+    },
+    "key": "1EC3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com acento circunflexo e til",
+        "alternative": "letra latina minúscula e chapéu til",
+        "short": "e til chapéu"
+      }
+    },
+    "key": "1EC5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e com acento circunflexo e o ponto abaixo",
+        "alternative": "letra latina minúscula e chapéu underdot",
+        "short": "e chapéu underdot"
+      }
+    },
+    "key": "1EC7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com acento circunflexo e agudo",
+        "alternative": "letra latina minúscula o chapéu aguda",
+        "short": "o chapéu aguda"
+      }
+    },
+    "key": "1ED1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com acento circunflexo e grave",
+        "alternative": "letra latina minúscula o chapéu de sepultura",
+        "short": "o chapéu de sepultura"
+      }
+    },
+    "key": "1ED3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o acento circunflexo e o gancho acima",
+        "alternative": "letra latina minúscula o chapéu gancho acima",
+        "short": "o chapéu de gancho acima"
+      }
+    },
+    "key": "1ED5",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com acento circunflexo e til",
+        "alternative": "letra latina minúscula o til chapéu",
+        "short": "o til chapéu"
+      }
+    },
+    "key": "1ED7",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o acento circunflexo e o ponto abaixo",
+        "alternative": "letra latina minúscula o chapéu underdot",
+        "short": "o chapéu underdot"
+      }
+    },
+    "key": "1ED9",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com chifre e aguda",
+        "alternative": "letra latina minúscula o primeiro-aguda",
+        "short": "o primeiro-aguda"
+      }
+    },
+    "key": "1EDB",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com chifre e sepultura",
+        "alternative": "letra latina minúscula, ó morte prime",
+        "short": "o primeiro-túmulo"
+      }
+    },
+    "key": "1EDD",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o chifre e o gancho acima",
+        "alternative": "letra latina minúscula o gancho acima prime",
+        "short": "o gancho acima prime"
+      }
+    },
+    "key": "1EDF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s com chifre e til",
+        "alternative": "letra latina minúscula o til prime",
+        "short": "o primeiro-til"
+      }
+    },
+    "key": "1EE1",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula com o chifre e o ponto abaixo",
+        "alternative": "letra latina minúscula o primeiro-underdot",
+        "short": "o primeiro-underdot"
+      }
+    },
+    "key": "1EE3",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com chifre e aguda",
+        "alternative": "letra latina minúscula u aguda prime",
+        "short": "u aguda prime"
+      }
+    },
+    "key": "1EE9",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com chifre e sepultura",
+        "alternative": "letra latina minúscula u sepultura prime",
+        "short": "u primeiro-túmulo"
+      }
+    },
+    "key": "1EEB",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com chifre e gancho acima",
+        "alternative": "letra latina minúscula u gancho acima prime",
+        "short": "u gancho acima prime"
+      }
+    },
+    "key": "1EED",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com chifre e til",
+        "alternative": "letra latina minúscula u til prime",
+        "short": "u til prime"
+      }
+    },
+    "key": "1EEF",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u com chifre e o ponto abaixo",
+        "alternative": "letra latina minúscula u underdot prime",
+        "short": "u underdot prime"
+      }
+    },
+    "key": "1EF1",
+    "names": []
+  }
+]

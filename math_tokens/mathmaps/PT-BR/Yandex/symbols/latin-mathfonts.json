@@ -1,0 +1,6052 @@
+[
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito maiúsculo",
+        "alternative": "negrito maiúsculo",
+        "short": "negrito boné"
+      }
+    },
+    "key": "1D400"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital b",
+        "alternative": "negrito capital b",
+        "short": "negrito cap b"
+      }
+    },
+    "key": "1D401"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital c",
+        "alternative": "negrito capital c",
+        "short": "negrito pac c"
+      }
+    },
+    "key": "1D402"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital d",
+        "alternative": "negrito capital d",
+        "short": "negrito cap d\u0027"
+      }
+    },
+    "key": "1D403"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática maiúscula e negrito",
+        "alternative": "negrito e maiúsculo",
+        "short": "negrito pac e"
+      }
+    },
+    "key": "1D404"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital f",
+        "alternative": "negrito capital f",
+        "short": "negrito cap f"
+      }
+    },
+    "key": "1D405"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital g",
+        "alternative": "negrito capital g",
+        "short": "negrito cap g"
+      }
+    },
+    "key": "1D406"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito maiúscula h",
+        "alternative": "negrito maiúscula h",
+        "short": "negrito pac h"
+      }
+    },
+    "key": "1D407"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital i",
+        "alternative": "negrito capital i",
+        "short": "negrito cap i"
+      }
+    },
+    "key": "1D408"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital j",
+        "alternative": "negrito capital j",
+        "short": "negrito cap j"
+      }
+    },
+    "key": "1D409"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital k",
+        "alternative": "negrito capital k",
+        "short": "negrito cap k"
+      }
+    },
+    "key": "1D40A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital l",
+        "alternative": "negrito capital l",
+        "short": "negrito cap l"
+      }
+    },
+    "key": "1D40B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital m",
+        "alternative": "negrito capital m",
+        "short": "negrito cap m"
+      }
+    },
+    "key": "1D40C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital n",
+        "alternative": "negrito capital n",
+        "short": "negrito cap n"
+      }
+    },
+    "key": "1D40D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital s",
+        "alternative": "negrito capital s",
+        "short": "negrito cap s"
+      }
+    },
+    "key": "1D40E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital p",
+        "alternative": "negrito capital p",
+        "short": "negrito pac p"
+      }
+    },
+    "key": "1D40F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital q",
+        "alternative": "negrito capital q",
+        "short": "negrito cap q"
+      }
+    },
+    "key": "1D410"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital r",
+        "alternative": "negrito capital r",
+        "short": "negrito pac r"
+      }
+    },
+    "key": "1D411"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital s",
+        "alternative": "negrito capital s",
+        "short": "negrito cap s"
+      }
+    },
+    "key": "1D412"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital t",
+        "alternative": "negrito capital t",
+        "short": "negrito cap t"
+      }
+    },
+    "key": "1D413"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito maiúscula u",
+        "alternative": "negrito maiúscula u",
+        "short": "negrito cap u"
+      }
+    },
+    "key": "1D414"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital v",
+        "alternative": "negrito capital v",
+        "short": "negrito cap v"
+      }
+    },
+    "key": "1D415"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital w",
+        "alternative": "negrito capital w",
+        "short": "negrito cap w"
+      }
+    },
+    "key": "1D416"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital x",
+        "alternative": "negrito capital x",
+        "short": "negrito cap x"
+      }
+    },
+    "key": "1D417"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital y",
+        "alternative": "negrito capital y",
+        "short": "negrito cap y"
+      }
+    },
+    "key": "1D418"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito capital z",
+        "alternative": "negrito capital z",
+        "short": "negrito cap z"
+      }
+    },
+    "key": "1D419"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno",
+        "alternative": "negrito pequeno",
+        "short": "negrito um"
+      }
+    },
+    "key": "1D41A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno b",
+        "alternative": "negrito pequeno b",
+        "short": "negrito b"
+      }
+    },
+    "key": "1D41B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno c",
+        "alternative": "negrito pequeno c",
+        "short": "negrito c"
+      }
+    },
+    "key": "1D41C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequena d",
+        "alternative": "negrito pequena d",
+        "short": "negrito d"
+      }
+    },
+    "key": "1D41D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenas e",
+        "alternative": "negrito pequenas e",
+        "short": "negrito e"
+      }
+    },
+    "key": "1D41E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito f pequenos",
+        "alternative": "negrito f pequenos",
+        "short": "negrito f"
+      }
+    },
+    "key": "1D41F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno g",
+        "alternative": "negrito pequeno g",
+        "short": "negrito g"
+      }
+    },
+    "key": "1D420"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenas h",
+        "alternative": "negrito pequenas h",
+        "short": "negrito h"
+      }
+    },
+    "key": "1D421"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno eu",
+        "alternative": "negrito pequeno eu",
+        "short": "i negrito"
+      }
+    },
+    "key": "1D422"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenas j",
+        "alternative": "negrito pequenas j",
+        "short": "negrito j"
+      }
+    },
+    "key": "1D423"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito k pequeno",
+        "alternative": "negrito k pequeno",
+        "short": "negrito k"
+      }
+    },
+    "key": "1D424"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito l",
+        "alternative": "negrito l",
+        "short": "negrito l"
+      }
+    },
+    "key": "1D425"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno m",
+        "alternative": "negrito pequeno m",
+        "short": "negrito m"
+      }
+    },
+    "key": "1D426"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno n",
+        "alternative": "negrito pequeno n",
+        "short": "negrito n"
+      }
+    },
+    "key": "1D427"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno o",
+        "alternative": "negrito pequeno o",
+        "short": "negrito o"
+      }
+    },
+    "key": "1D428"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenos p",
+        "alternative": "negrito pequenos p",
+        "short": "negrito p"
+      }
+    },
+    "key": "1D429"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno q",
+        "alternative": "negrito pequeno q",
+        "short": "negrito q"
+      }
+    },
+    "key": "1D42A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno r",
+        "alternative": "negrito pequeno r",
+        "short": "negrito r"
+      }
+    },
+    "key": "1D42B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno s",
+        "alternative": "negrito pequeno s",
+        "short": "negrito s"
+      }
+    },
+    "key": "1D42C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno t",
+        "alternative": "negrito pequeno t",
+        "short": "negrito t"
+      }
+    },
+    "key": "1D42D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenas u",
+        "alternative": "negrito pequenas u",
+        "short": "negrito u"
+      }
+    },
+    "key": "1D42E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno v",
+        "alternative": "negrito pequeno v",
+        "short": "negrito v"
+      }
+    },
+    "key": "1D42F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequena w",
+        "alternative": "negrito pequena w",
+        "short": "negrito w"
+      }
+    },
+    "key": "1D430"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno x",
+        "alternative": "negrito pequeno x",
+        "short": "negrito x"
+      }
+    },
+    "key": "1D431"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequeno y",
+        "alternative": "negrito pequeno y",
+        "short": "negrito y"
+      }
+    },
+    "key": "1D432"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito pequenas z",
+        "alternative": "negrito pequenas z",
+        "short": "negrito z"
+      }
+    },
+    "key": "1D433"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital",
+        "alternative": "itálico do capital de uma",
+        "short": "itálico boné"
+      }
+    },
+    "key": "1D434"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital b",
+        "alternative": "itálico capital b",
+        "short": "itálico cap b"
+      }
+    },
+    "key": "1D435"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital c",
+        "alternative": "itálico capital c",
+        "short": "itálico pac c"
+      }
+    },
+    "key": "1D436"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital d",
+        "alternative": "itálico capital d",
+        "short": "itálico cap d\u0027"
+      }
+    },
+    "key": "1D437"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital e",
+        "alternative": "itálico capital e",
+        "short": "itálico pac e"
+      }
+    },
+    "key": "1D438"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital f",
+        "alternative": "itálico capital f",
+        "short": "itálico cap f"
+      }
+    },
+    "key": "1D439"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital g",
+        "alternative": "itálico capital g",
+        "short": "itálico cap g"
+      }
+    },
+    "key": "1D43A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital h",
+        "alternative": "itálico capital h",
+        "short": "itálico pac h"
+      }
+    },
+    "key": "1D43B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital i",
+        "alternative": "itálico capital i",
+        "short": "itálico cap i"
+      }
+    },
+    "key": "1D43C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital j",
+        "alternative": "itálico capital j",
+        "short": "itálico cap j"
+      }
+    },
+    "key": "1D43D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital k",
+        "alternative": "itálico capital k",
+        "short": "itálico cap k"
+      }
+    },
+    "key": "1D43E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital l",
+        "alternative": "itálico capital l",
+        "short": "itálico cap l"
+      }
+    },
+    "key": "1D43F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital m",
+        "alternative": "itálico capital m",
+        "short": "itálico cap m"
+      }
+    },
+    "key": "1D440"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital n",
+        "alternative": "itálico capital n",
+        "short": "itálico cap n"
+      }
+    },
+    "key": "1D441"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital s",
+        "alternative": "itálico capital s",
+        "short": "itálico cap s"
+      }
+    },
+    "key": "1D442"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital p",
+        "alternative": "itálico capital p",
+        "short": "itálico pac p"
+      }
+    },
+    "key": "1D443"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital q",
+        "alternative": "itálico capital q",
+        "short": "itálico cap q"
+      }
+    },
+    "key": "1D444"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital r",
+        "alternative": "itálico capital r",
+        "short": "itálico pac r"
+      }
+    },
+    "key": "1D445"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital s",
+        "alternative": "itálico capital s",
+        "short": "itálico cap s"
+      }
+    },
+    "key": "1D446"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital t",
+        "alternative": "itálico capital t",
+        "short": "itálico cap t"
+      }
+    },
+    "key": "1D447"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital de u",
+        "alternative": "itálico capital de u",
+        "short": "itálico cap u"
+      }
+    },
+    "key": "1D448"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital v",
+        "alternative": "itálico capital v",
+        "short": "itálico cap v"
+      }
+    },
+    "key": "1D449"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital w",
+        "alternative": "itálico capital w",
+        "short": "itálico cap w"
+      }
+    },
+    "key": "1D44A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital x",
+        "alternative": "itálico capital x",
+        "short": "itálico cap x"
+      }
+    },
+    "key": "1D44B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital y",
+        "alternative": "itálico capital y",
+        "short": "itálico cap y"
+      }
+    },
+    "key": "1D44C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico capital z",
+        "alternative": "itálico capital z",
+        "short": "itálico cap z"
+      }
+    },
+    "key": "1D44D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno",
+        "alternative": "itálico pequeno",
+        "short": "itálico um"
+      }
+    },
+    "key": "1D44E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno b",
+        "alternative": "itálico pequeno b",
+        "short": "itálico b"
+      }
+    },
+    "key": "1D44F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno c",
+        "alternative": "itálico pequeno c",
+        "short": "itálico c"
+      }
+    },
+    "key": "1D450"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequena d",
+        "alternative": "itálico pequena d",
+        "short": "itálico d"
+      }
+    },
+    "key": "1D451"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas e",
+        "alternative": "itálico pequenas e",
+        "short": "itálico e"
+      }
+    },
+    "key": "1D452"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico f pequenos",
+        "alternative": "itálico f pequenos",
+        "short": "itálico f"
+      }
+    },
+    "key": "1D453"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno g",
+        "alternative": "itálico pequeno g",
+        "short": "itálico g"
+      }
+    },
+    "key": "1D454"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno eu",
+        "alternative": "itálico pequeno eu",
+        "short": "itálico eu"
+      }
+    },
+    "key": "1D456"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas j",
+        "alternative": "itálico pequenas j",
+        "short": "itálico j"
+      }
+    },
+    "key": "1D457"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico k pequeno",
+        "alternative": "itálico k pequeno",
+        "short": "itálico k"
+      }
+    },
+    "key": "1D458"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico l",
+        "alternative": "itálico l",
+        "short": "itálico l"
+      }
+    },
+    "key": "1D459"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno m",
+        "alternative": "itálico pequeno m",
+        "short": "itálico m"
+      }
+    },
+    "key": "1D45A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno n",
+        "alternative": "itálico pequeno n",
+        "short": "itálico n"
+      }
+    },
+    "key": "1D45B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno o",
+        "alternative": "itálico pequeno o",
+        "short": "o itálico"
+      }
+    },
+    "key": "1D45C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenos p",
+        "alternative": "itálico pequenos p",
+        "short": "itálico p"
+      }
+    },
+    "key": "1D45D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno q",
+        "alternative": "itálico pequeno q",
+        "short": "itálico q"
+      }
+    },
+    "key": "1D45E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno r",
+        "alternative": "itálico pequeno r",
+        "short": "itálico r"
+      }
+    },
+    "key": "1D45F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno s",
+        "alternative": "itálico pequeno s",
+        "short": "itálico s"
+      }
+    },
+    "key": "1D460"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno t",
+        "alternative": "itálico pequeno t",
+        "short": "itálico t"
+      }
+    },
+    "key": "1D461"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas u",
+        "alternative": "itálico pequenas u",
+        "short": "itálico u"
+      }
+    },
+    "key": "1D462"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno v",
+        "alternative": "itálico pequeno v",
+        "short": "itálico v"
+      }
+    },
+    "key": "1D463"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequena w",
+        "alternative": "itálico pequena w",
+        "short": "itálico w"
+      }
+    },
+    "key": "1D464"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno x",
+        "alternative": "itálico pequeno x",
+        "short": "itálico x"
+      }
+    },
+    "key": "1D465"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno y",
+        "alternative": "itálico pequeno y",
+        "short": "itálico y"
+      }
+    },
+    "key": "1D466"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas z",
+        "alternative": "itálico pequenas z",
+        "short": "itálico z"
+      }
+    },
+    "key": "1D467"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital de uma",
+        "alternative": "script de capital de uma",
+        "short": "script de um"
+      }
+    },
+    "key": "1D49C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital c",
+        "alternative": "script de capital c",
+        "short": "script c"
+      }
+    },
+    "key": "1D49E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital d",
+        "alternative": "script de capital d",
+        "short": "script d"
+      }
+    },
+    "key": "1D49F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital de g",
+        "alternative": "script de capital de g",
+        "short": "script g"
+      }
+    },
+    "key": "1D4A2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital j",
+        "alternative": "script de capital j",
+        "short": "script j"
+      }
+    },
+    "key": "1D4A5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital k",
+        "alternative": "script de capital k",
+        "short": "script k"
+      }
+    },
+    "key": "1D4A6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital n",
+        "alternative": "script de capital n",
+        "short": "script n"
+      }
+    },
+    "key": "1D4A9"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital s",
+        "alternative": "script de capital s",
+        "short": "o script"
+      }
+    },
+    "key": "1D4AA"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital p",
+        "alternative": "script de capital p",
+        "short": "script p"
+      }
+    },
+    "key": "1D4AB"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital q",
+        "alternative": "script de capital q",
+        "short": "script p"
+      }
+    },
+    "key": "1D4AC"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital s",
+        "alternative": "script de capital s",
+        "short": "script s"
+      }
+    },
+    "key": "1D4AE"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital t",
+        "alternative": "script de capital t",
+        "short": "script t"
+      }
+    },
+    "key": "1D4AF"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital de u",
+        "alternative": "script de capital de u",
+        "short": "script u"
+      }
+    },
+    "key": "1D4B0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital v",
+        "alternative": "script de capital v",
+        "short": "script v"
+      }
+    },
+    "key": "1D4B1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital de w",
+        "alternative": "script de capital de w",
+        "short": "script w"
+      }
+    },
+    "key": "1D4B2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital x",
+        "alternative": "script capital x",
+        "short": "script x"
+      }
+    },
+    "key": "1D4B3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script de capital y",
+        "alternative": "script de capital y",
+        "short": "script y"
+      }
+    },
+    "key": "1D4B4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática script capital z",
+        "alternative": "script de capital z",
+        "short": "script z"
+      }
+    },
+    "key": "1D4B5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script um pequeno",
+        "alternative": "script um pequeno",
+        "short": "script de um"
+      }
+    },
+    "key": "1D4B6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno b",
+        "alternative": "script de pequeno b",
+        "short": "script b"
+      }
+    },
+    "key": "1D4B7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno c",
+        "alternative": "script de pequeno c",
+        "short": "script c"
+      }
+    },
+    "key": "1D4B8"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno d",
+        "alternative": "script de pequeno d",
+        "short": "script d"
+      }
+    },
+    "key": "1D4B9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script f pequenos",
+        "alternative": "script f pequenos",
+        "short": "script f"
+      }
+    },
+    "key": "1D4BB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequenas h",
+        "alternative": "script pequenas h",
+        "short": "script h"
+      }
+    },
+    "key": "1D4BD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno eu",
+        "alternative": "script pequeno eu",
+        "short": "script que eu"
+      }
+    },
+    "key": "1D4BE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequenas j",
+        "alternative": "script pequenas j",
+        "short": "script j"
+      }
+    },
+    "key": "1D4BF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script k pequeno",
+        "alternative": "script k pequeno",
+        "short": "script k"
+      }
+    },
+    "key": "1D4C0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script l",
+        "alternative": "script l",
+        "short": "script l"
+      }
+    },
+    "key": "1D4C1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno m",
+        "alternative": "script de pequeno m",
+        "short": "script m"
+      }
+    },
+    "key": "1D4C2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno n",
+        "alternative": "script pequeno n",
+        "short": "script n"
+      }
+    },
+    "key": "1D4C3"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequenos p",
+        "alternative": "script pequenos p",
+        "short": "script p"
+      }
+    },
+    "key": "1D4C5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno q",
+        "alternative": "script de pequeno q",
+        "short": "script p"
+      }
+    },
+    "key": "1D4C6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno r",
+        "alternative": "script de pequeno r",
+        "short": "script r"
+      }
+    },
+    "key": "1D4C7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno s",
+        "alternative": "script de pequeno s",
+        "short": "script s"
+      }
+    },
+    "key": "1D4C8"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno t",
+        "alternative": "script de pequeno t",
+        "short": "script t"
+      }
+    },
+    "key": "1D4C9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequenas u",
+        "alternative": "script pequenas u",
+        "short": "script u"
+      }
+    },
+    "key": "1D4CA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno v",
+        "alternative": "script de pequeno v",
+        "short": "script v"
+      }
+    },
+    "key": "1D4CB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequena w",
+        "alternative": "script pequena w",
+        "short": "script w"
+      }
+    },
+    "key": "1D4CC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script de pequeno x",
+        "alternative": "script de pequeno x",
+        "short": "script x"
+      }
+    },
+    "key": "1D4CD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequeno y",
+        "alternative": "script de pequeno y",
+        "short": "script y"
+      }
+    },
+    "key": "1D4CE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática script pequenas z",
+        "alternative": "script pequenas z",
+        "short": "script z"
+      }
+    },
+    "key": "1D4CF"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de uma",
+        "alternative": "negrito script de capital de uma",
+        "short": "negrito um script pac"
+      }
+    },
+    "key": "1D4D0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital b",
+        "alternative": "negrito script de capital b",
+        "short": "negrito script pac b"
+      }
+    },
+    "key": "1D4D1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital c",
+        "alternative": "negrito script de capital c",
+        "short": "negrito script pac c"
+      }
+    },
+    "key": "1D4D2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital d",
+        "alternative": "negrito script de capital d",
+        "short": "negrito script de cap d\u0027"
+      }
+    },
+    "key": "1D4D3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital e",
+        "alternative": "negrito script de capital e",
+        "short": "negrito script pac e"
+      }
+    },
+    "key": "1D4D4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital f",
+        "alternative": "negrito script de capital f",
+        "short": "negrito script pac f"
+      }
+    },
+    "key": "1D4D5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de g",
+        "alternative": "negrito script de capital de g",
+        "short": "negrito script pac g"
+      }
+    },
+    "key": "1D4D6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital h",
+        "alternative": "negrito script de capital h",
+        "short": "negrito script pac h"
+      }
+    },
+    "key": "1D4D7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital i",
+        "alternative": "negrito script de capital i",
+        "short": "negrito script pac que eu"
+      }
+    },
+    "key": "1D4D8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital j",
+        "alternative": "negrito script de capital j",
+        "short": "negrito script pac j"
+      }
+    },
+    "key": "1D4D9"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital k",
+        "alternative": "negrito script de capital k",
+        "short": "negrito script pac k"
+      }
+    },
+    "key": "1D4DA"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de l",
+        "alternative": "negrito script de capital de l",
+        "short": "negrito script pac l"
+      }
+    },
+    "key": "1D4DB"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital m",
+        "alternative": "negrito script capital m",
+        "short": "negrito script cap m"
+      }
+    },
+    "key": "1D4DC"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital n",
+        "alternative": "negrito script de capital n",
+        "short": "negrito script pac n"
+      }
+    },
+    "key": "1D4DD"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital s",
+        "alternative": "negrito script capital s",
+        "short": "negrito o script pac"
+      }
+    },
+    "key": "1D4DE"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital p",
+        "alternative": "negrito script de capital p",
+        "short": "negrito script pac p"
+      }
+    },
+    "key": "1D4DF"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital q",
+        "alternative": "negrito script capital q",
+        "short": "negrito script pac p"
+      }
+    },
+    "key": "1D4E0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de r",
+        "alternative": "negrito script de capital de r",
+        "short": "negrito script pac r"
+      }
+    },
+    "key": "1D4E1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital s",
+        "alternative": "negrito script capital s",
+        "short": "negrito script cap s"
+      }
+    },
+    "key": "1D4E2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital t",
+        "alternative": "negrito script de capital t",
+        "short": "negrito script pac t"
+      }
+    },
+    "key": "1D4E3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de u",
+        "alternative": "negrito script de capital de u",
+        "short": "negrito script pac u"
+      }
+    },
+    "key": "1D4E4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital v",
+        "alternative": "negrito script capital v",
+        "short": "negrito script cap v"
+      }
+    },
+    "key": "1D4E5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital de w",
+        "alternative": "negrito script de capital de w",
+        "short": "negrito script pac w"
+      }
+    },
+    "key": "1D4E6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital x",
+        "alternative": "negrito script capital x",
+        "short": "negrito script cap x"
+      }
+    },
+    "key": "1D4E7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de capital y",
+        "alternative": "negrito script de capital y",
+        "short": "negrito script pac y"
+      }
+    },
+    "key": "1D4E8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script capital z",
+        "alternative": "negrito script capital z",
+        "short": "negrito script pac z"
+      }
+    },
+    "key": "1D4E9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script um pequeno",
+        "alternative": "negrito script um pequeno",
+        "short": "negrito script de um"
+      }
+    },
+    "key": "1D4EA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno b",
+        "alternative": "negrito script pequeno b",
+        "short": "negrito script b"
+      }
+    },
+    "key": "1D4EB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno c",
+        "alternative": "negrito script pequeno c",
+        "short": "negrito script c"
+      }
+    },
+    "key": "1D4EC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno d",
+        "alternative": "negrito script pequeno d",
+        "short": "negrito script d"
+      }
+    },
+    "key": "1D4ED"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de pequenas e",
+        "alternative": "negrito script de pequenas e",
+        "short": "negrito script e"
+      }
+    },
+    "key": "1D4EE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script f pequenos",
+        "alternative": "negrito script f pequenos",
+        "short": "negrito script f"
+      }
+    },
+    "key": "1D4EF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno g",
+        "alternative": "negrito script pequeno g",
+        "short": "negrito script g"
+      }
+    },
+    "key": "1D4F0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequenas h",
+        "alternative": "negrito script pequenas h",
+        "short": "negrito script h"
+      }
+    },
+    "key": "1D4F1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno eu",
+        "alternative": "negrito script pequeno eu",
+        "short": "negrito script eu"
+      }
+    },
+    "key": "1D4F2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequenas j",
+        "alternative": "negrito script pequenas j",
+        "short": "negrito script j"
+      }
+    },
+    "key": "1D4F3"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script k pequeno",
+        "alternative": "negrito script k pequeno",
+        "short": "negrito script k"
+      }
+    },
+    "key": "1D4F4"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script l",
+        "alternative": "negrito script l",
+        "short": "negrito script l"
+      }
+    },
+    "key": "1D4F5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno m",
+        "alternative": "negrito script pequeno m",
+        "short": "negrito script m"
+      }
+    },
+    "key": "1D4F6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno n",
+        "alternative": "negrito script pequeno n",
+        "short": "negrito script n"
+      }
+    },
+    "key": "1D4F7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno o",
+        "alternative": "negrito script pequeno o",
+        "short": "negrito o script"
+      }
+    },
+    "key": "1D4F8"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequenos p",
+        "alternative": "negrito script pequenos p",
+        "short": "negrito script p"
+      }
+    },
+    "key": "1D4F9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno q",
+        "alternative": "negrito script pequeno q",
+        "short": "negrito script q"
+      }
+    },
+    "key": "1D4FA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno r",
+        "alternative": "negrito script pequeno r",
+        "short": "negrito script r"
+      }
+    },
+    "key": "1D4FB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno s",
+        "alternative": "negrito script pequeno s",
+        "short": "negrito script s"
+      }
+    },
+    "key": "1D4FC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno t",
+        "alternative": "negrito script pequeno t",
+        "short": "negrito script t"
+      }
+    },
+    "key": "1D4FD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequenas u",
+        "alternative": "negrito script pequenas u",
+        "short": "negrito script u"
+      }
+    },
+    "key": "1D4FE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno v",
+        "alternative": "negrito script pequeno v",
+        "short": "negrito script v"
+      }
+    },
+    "key": "1D4FF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequena w",
+        "alternative": "negrito script pequena w",
+        "short": "negrito script w"
+      }
+    },
+    "key": "1D500"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script de pequeno x",
+        "alternative": "negrito script de pequeno x",
+        "short": "negrito script x"
+      }
+    },
+    "key": "1D501"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequeno y",
+        "alternative": "negrito script pequeno y",
+        "short": "negrito script y"
+      }
+    },
+    "key": "1D502"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito script pequenas z",
+        "alternative": "negrito script pequenas z",
+        "short": "negrito script z"
+      }
+    },
+    "key": "1D503"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur de capital de uma",
+        "alternative": "fraktur de capital de uma",
+        "short": "fraktur boné"
+      }
+    },
+    "key": "1D504"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur de capital b",
+        "alternative": "fraktur de capital b",
+        "short": "fraktur cap b"
+      }
+    },
+    "key": "1D505"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital d",
+        "alternative": "fraktur capital d",
+        "short": "fraktur cap d\u0027"
+      }
+    },
+    "key": "1D507"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital e",
+        "alternative": "fraktur capital e",
+        "short": "fraktur pac e"
+      }
+    },
+    "key": "1D508"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital f",
+        "alternative": "fraktur capital f",
+        "short": "fraktur cap f"
+      }
+    },
+    "key": "1D509"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital g",
+        "alternative": "fraktur capital g",
+        "short": "fraktur cap g"
+      }
+    },
+    "key": "1D50A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital j",
+        "alternative": "fraktur capital j",
+        "short": "fraktur cap j"
+      }
+    },
+    "key": "1D50D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital k",
+        "alternative": "fraktur capital k",
+        "short": "fraktur cap k"
+      }
+    },
+    "key": "1D50E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital l",
+        "alternative": "fraktur capital l",
+        "short": "fraktur cap l"
+      }
+    },
+    "key": "1D50F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital m",
+        "alternative": "fraktur capital m",
+        "short": "fraktur cap m"
+      }
+    },
+    "key": "1D510"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital n",
+        "alternative": "fraktur capital n",
+        "short": "fraktur cap n"
+      }
+    },
+    "key": "1D511"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital s",
+        "alternative": "fraktur capital s",
+        "short": "fraktur cap s"
+      }
+    },
+    "key": "1D512"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital p",
+        "alternative": "fraktur capital p",
+        "short": "fraktur pac p"
+      }
+    },
+    "key": "1D513"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital q",
+        "alternative": "fraktur capital q",
+        "short": "fraktur cap q"
+      }
+    },
+    "key": "1D514"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital s",
+        "alternative": "fraktur capital s",
+        "short": "fraktur cap s"
+      }
+    },
+    "key": "1D516"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital t",
+        "alternative": "fraktur capital t",
+        "short": "fraktur cap t"
+      }
+    },
+    "key": "1D517"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur de capital de u",
+        "alternative": "fraktur de capital de u",
+        "short": "fraktur cap u"
+      }
+    },
+    "key": "1D518"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital v",
+        "alternative": "fraktur capital v",
+        "short": "fraktur cap v"
+      }
+    },
+    "key": "1D519"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital w",
+        "alternative": "fraktur capital w",
+        "short": "fraktur cap w"
+      }
+    },
+    "key": "1D51A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital x",
+        "alternative": "fraktur capital x",
+        "short": "fraktur cap x"
+      }
+    },
+    "key": "1D51B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur capital y",
+        "alternative": "fraktur capital y",
+        "short": "fraktur cap y"
+      }
+    },
+    "key": "1D51C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno",
+        "alternative": "fraktur pequeno",
+        "short": "uma fraktur"
+      }
+    },
+    "key": "1D51E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno b",
+        "alternative": "fraktur pequeno b",
+        "short": "fraktur b"
+      }
+    },
+    "key": "1D51F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno c",
+        "alternative": "fraktur pequeno c",
+        "short": "fraktur c"
+      }
+    },
+    "key": "1D520"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequena d",
+        "alternative": "fraktur pequena d",
+        "short": "fraktur d"
+      }
+    },
+    "key": "1D521"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur de pequenas e",
+        "alternative": "fraktur de pequenas e",
+        "short": "fraktur e"
+      }
+    },
+    "key": "1D522"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur f pequenos",
+        "alternative": "fraktur f pequenos",
+        "short": "fraktur f"
+      }
+    },
+    "key": "1D523"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno g",
+        "alternative": "fraktur pequeno g",
+        "short": "fraktur g"
+      }
+    },
+    "key": "1D524"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequenas h",
+        "alternative": "fraktur pequenas h",
+        "short": "fraktur h"
+      }
+    },
+    "key": "1D525"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno eu",
+        "alternative": "fraktur pequeno eu",
+        "short": "fraktur eu"
+      }
+    },
+    "key": "1D526"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequenas j",
+        "alternative": "fraktur pequenas j",
+        "short": "fraktur j"
+      }
+    },
+    "key": "1D527"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur k pequeno",
+        "alternative": "fraktur k pequeno",
+        "short": "fraktur k"
+      }
+    },
+    "key": "1D528"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur l",
+        "alternative": "fraktur l",
+        "short": "fraktur l"
+      }
+    },
+    "key": "1D529"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno m",
+        "alternative": "fraktur pequeno m",
+        "short": "fraktur m"
+      }
+    },
+    "key": "1D52A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno n",
+        "alternative": "fraktur pequeno n",
+        "short": "fraktur n"
+      }
+    },
+    "key": "1D52B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno o",
+        "alternative": "fraktur pequeno o",
+        "short": "fraktur o"
+      }
+    },
+    "key": "1D52C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequenos p",
+        "alternative": "fraktur pequenos p",
+        "short": "fraktur p"
+      }
+    },
+    "key": "1D52D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno q",
+        "alternative": "fraktur pequeno q",
+        "short": "fraktur q"
+      }
+    },
+    "key": "1D52E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno r",
+        "alternative": "fraktur pequeno r",
+        "short": "fraktur r"
+      }
+    },
+    "key": "1D52F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno s",
+        "alternative": "fraktur pequeno s",
+        "short": "fraktur s"
+      }
+    },
+    "key": "1D530"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno t",
+        "alternative": "fraktur pequeno t",
+        "short": "fraktur t"
+      }
+    },
+    "key": "1D531"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequenas u",
+        "alternative": "fraktur pequenas u",
+        "short": "fraktur u"
+      }
+    },
+    "key": "1D532"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno v",
+        "alternative": "fraktur pequeno v",
+        "short": "fraktur v"
+      }
+    },
+    "key": "1D533"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequena w",
+        "alternative": "fraktur pequena w",
+        "short": "fraktur w"
+      }
+    },
+    "key": "1D534"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno x",
+        "alternative": "fraktur pequeno x",
+        "short": "fraktur x"
+      }
+    },
+    "key": "1D535"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequeno y",
+        "alternative": "fraktur pequeno y",
+        "short": "fraktur y"
+      }
+    },
+    "key": "1D536"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática fraktur pequenas z",
+        "alternative": "fraktur pequenas z",
+        "short": "fraktur z"
+      }
+    },
+    "key": "1D537"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital",
+        "alternative": "casal atingiu a capital",
+        "short": "duplo atingiu um cap"
+      }
+    },
+    "key": "1D538"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital b",
+        "alternative": "casal atingiu a capital b",
+        "short": "duplo atingiu cap b"
+      }
+    },
+    "key": "1D539"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital d",
+        "alternative": "casal atingiu a capital d",
+        "short": "duplo atingiu cap d\u0027"
+      }
+    },
+    "key": "1D53B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital e",
+        "alternative": "casal atingiu a capital e",
+        "short": "duplo atingiu pac e"
+      }
+    },
+    "key": "1D53C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital f",
+        "alternative": "casal atingiu a capital f",
+        "short": "duplo atingiu cap f"
+      }
+    },
+    "key": "1D53D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital g",
+        "alternative": "casal atingiu a capital g",
+        "short": "duplo atingiu cap g"
+      }
+    },
+    "key": "1D53E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital i",
+        "alternative": "casal atingiu a capital i",
+        "short": "duplo atingiu cap i"
+      }
+    },
+    "key": "1D540"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital j",
+        "alternative": "casal atingiu a capital j",
+        "short": "duplo atingiu cap j"
+      }
+    },
+    "key": "1D541"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital k",
+        "alternative": "casal atingiu a capital k",
+        "short": "duplo atingiu cap k"
+      }
+    },
+    "key": "1D542"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital de l",
+        "alternative": "casal atingiu a capital de l",
+        "short": "duplo atingiu cap l"
+      }
+    },
+    "key": "1D543"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital m",
+        "alternative": "casal atingiu a capital m",
+        "short": "duplo atingiu cap m"
+      }
+    },
+    "key": "1D544"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital s",
+        "alternative": "casal atingiu a capital s",
+        "short": "duplo atingiu cap s"
+      }
+    },
+    "key": "1D546"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital s",
+        "alternative": "casal atingiu a capital s",
+        "short": "duplo atingiu cap s"
+      }
+    },
+    "key": "1D54A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital t",
+        "alternative": "casal atingiu a capital t",
+        "short": "duplo atingiu cap t"
+      }
+    },
+    "key": "1D54B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital de u",
+        "alternative": "casal atingiu a capital de u",
+        "short": "duplo atingiu cap u"
+      }
+    },
+    "key": "1D54C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital v",
+        "alternative": "casal atingiu a capital v",
+        "short": "duplo atingiu cap v"
+      }
+    },
+    "key": "1D54D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital w",
+        "alternative": "casal atingiu a capital w",
+        "short": "duplo atingiu cap w"
+      }
+    },
+    "key": "1D54E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital x",
+        "alternative": "casal atingiu a capital x",
+        "short": "duplo atingiu cap x"
+      }
+    },
+    "key": "1D54F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital y",
+        "alternative": "casal atingiu a capital y",
+        "short": "duplo atingiu cap y"
+      }
+    },
+    "key": "1D550"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu uma pequena",
+        "alternative": "duplo atingiu uma pequena",
+        "short": "dupla bateu"
+      }
+    },
+    "key": "1D552"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno b",
+        "alternative": "duplo atingiu pequeno b",
+        "short": "duplo atingiu b"
+      }
+    },
+    "key": "1D553"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno c",
+        "alternative": "duplo atingiu pequeno c",
+        "short": "duplo atingiu c"
+      }
+    },
+    "key": "1D554"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno d",
+        "alternative": "duplo atingiu pequeno d",
+        "short": "duplo atingido d"
+      }
+    },
+    "key": "1D555"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu pequenas e",
+        "alternative": "duplo atingiu pequenas e",
+        "short": "duplo atingido e"
+      }
+    },
+    "key": "1D556"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu f pequenos",
+        "alternative": "duplo atingiu f pequenos",
+        "short": "duplo atingiu f"
+      }
+    },
+    "key": "1D557"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a pequena g",
+        "alternative": "casal atingiu a pequena g",
+        "short": "duplo atingiu g"
+      }
+    },
+    "key": "1D558"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a pequena h",
+        "alternative": "duplo atingiu pequenas h",
+        "short": "duplo atingiu h"
+      }
+    },
+    "key": "1D559"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno eu",
+        "alternative": "duplo atingiu pequeno eu",
+        "short": "duplo atingiu i"
+      }
+    },
+    "key": "1D55A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a pequena j",
+        "alternative": "casal atingiu a pequena j",
+        "short": "duplo atingiu j"
+      }
+    },
+    "key": "1D55B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno k",
+        "alternative": "duplo atingiu k pequeno",
+        "short": "duplo atingiu k"
+      }
+    },
+    "key": "1D55C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu l",
+        "alternative": "duplo atingiu l",
+        "short": "duplo atingiu l"
+      }
+    },
+    "key": "1D55D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno m",
+        "alternative": "dupla atingiu o pequeno m",
+        "short": "duplo atingiu m"
+      }
+    },
+    "key": "1D55E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno n",
+        "alternative": "duplo atingiu pequeno n",
+        "short": "dupla atingiu o n"
+      }
+    },
+    "key": "1D55F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno",
+        "alternative": "dupla atingiu o pequeno",
+        "short": "dupla atingiu o"
+      }
+    },
+    "key": "1D560"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu pequenos p",
+        "alternative": "duplo atingiu pequenos p",
+        "short": "duplo atingiu p"
+      }
+    },
+    "key": "1D561"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu pequeno q",
+        "alternative": "duplo atingiu pequeno q",
+        "short": "duplo atingiu q"
+      }
+    },
+    "key": "1D562"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno r",
+        "alternative": "dupla atingiu o pequeno r",
+        "short": "duplo atingiu r"
+      }
+    },
+    "key": "1D563"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno s",
+        "alternative": "duplo atingiu pequeno s",
+        "short": "duplo atingiu s"
+      }
+    },
+    "key": "1D564"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno t",
+        "alternative": "duplo atingiu pequeno t",
+        "short": "duplo atingiu t"
+      }
+    },
+    "key": "1D565"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu pequenas u",
+        "alternative": "duplo atingiu pequenas u",
+        "short": "duplo atingiu u"
+      }
+    },
+    "key": "1D566"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno v",
+        "alternative": "dupla atingiu o pequeno v",
+        "short": "duplo atingiu v"
+      }
+    },
+    "key": "1D567"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a pequena w",
+        "alternative": "duplo atingiu pequenas w",
+        "short": "duplo atingiu w"
+      }
+    },
+    "key": "1D568"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno x",
+        "alternative": "dupla atingiu o pequeno x",
+        "short": "duplo atingiu x"
+      }
+    },
+    "key": "1D569"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o pequeno y",
+        "alternative": "duplo atingiu pequeno y",
+        "short": "duplo atingiu y"
+      }
+    },
+    "key": "1D56A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu pequenas z",
+        "alternative": "duplo atingiu pequenas z",
+        "short": "duplo atingiu z"
+      }
+    },
+    "key": "1D56B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur de capital de uma",
+        "alternative": "negrito fraktur de capital de uma",
+        "short": "negrito fraktur boné"
+      }
+    },
+    "key": "1D56C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur de capital b",
+        "alternative": "negrito fraktur de capital b",
+        "short": "negrito fraktur cap b"
+      }
+    },
+    "key": "1D56D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital c",
+        "alternative": "negrito fraktur capital c",
+        "short": "negrito fraktur pac c"
+      }
+    },
+    "key": "1D56E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital d",
+        "alternative": "negrito fraktur capital d",
+        "short": "negrito fraktur cap d\u0027"
+      }
+    },
+    "key": "1D56F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital e",
+        "alternative": "negrito fraktur capital e",
+        "short": "negrito fraktur pac e"
+      }
+    },
+    "key": "1D570"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital f",
+        "alternative": "negrito fraktur capital f",
+        "short": "negrito fraktur cap f"
+      }
+    },
+    "key": "1D571"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital g",
+        "alternative": "negrito fraktur capital g",
+        "short": "negrito fraktur cap g"
+      }
+    },
+    "key": "1D572"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital h",
+        "alternative": "negrito fraktur capital h",
+        "short": "negrito fraktur pac h"
+      }
+    },
+    "key": "1D573"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital i",
+        "alternative": "negrito fraktur capital i",
+        "short": "negrito fraktur cap i"
+      }
+    },
+    "key": "1D574"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital j",
+        "alternative": "negrito fraktur capital j",
+        "short": "negrito fraktur cap j"
+      }
+    },
+    "key": "1D575"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital k",
+        "alternative": "negrito fraktur capital k",
+        "short": "negrito fraktur cap k"
+      }
+    },
+    "key": "1D576"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital l",
+        "alternative": "negrito fraktur capital l",
+        "short": "negrito fraktur cap l"
+      }
+    },
+    "key": "1D577"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital m",
+        "alternative": "negrito fraktur capital m",
+        "short": "negrito fraktur cap m"
+      }
+    },
+    "key": "1D578"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital n",
+        "alternative": "negrito fraktur capital n",
+        "short": "negrito fraktur cap n"
+      }
+    },
+    "key": "1D579"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital s",
+        "alternative": "negrito fraktur capital s",
+        "short": "negrito fraktur cap s"
+      }
+    },
+    "key": "1D57A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital p",
+        "alternative": "negrito fraktur capital p",
+        "short": "negrito fraktur pac p"
+      }
+    },
+    "key": "1D57B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital q",
+        "alternative": "negrito fraktur capital q",
+        "short": "negrito fraktur cap q"
+      }
+    },
+    "key": "1D57C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur de capital de r",
+        "alternative": "negrito fraktur de capital de r",
+        "short": "negrito fraktur pac r"
+      }
+    },
+    "key": "1D57D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital s",
+        "alternative": "negrito fraktur capital s",
+        "short": "negrito fraktur cap s"
+      }
+    },
+    "key": "1D57E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital t",
+        "alternative": "negrito fraktur capital t",
+        "short": "negrito fraktur cap t"
+      }
+    },
+    "key": "1D57F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur de capital de u",
+        "alternative": "negrito fraktur de capital de u",
+        "short": "negrito fraktur cap u"
+      }
+    },
+    "key": "1D580"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital v",
+        "alternative": "negrito fraktur capital v",
+        "short": "negrito fraktur cap v"
+      }
+    },
+    "key": "1D581"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital w",
+        "alternative": "negrito fraktur capital w",
+        "short": "negrito fraktur cap w"
+      }
+    },
+    "key": "1D582"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital x",
+        "alternative": "negrito fraktur capital x",
+        "short": "negrito fraktur cap x"
+      }
+    },
+    "key": "1D583"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital y",
+        "alternative": "negrito fraktur capital y",
+        "short": "negrito fraktur cap y"
+      }
+    },
+    "key": "1D584"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur capital z",
+        "alternative": "negrito fraktur capital z",
+        "short": "negrito fraktur cap z"
+      }
+    },
+    "key": "1D585"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno",
+        "alternative": "negrito fraktur pequeno",
+        "short": "negrito fraktur um"
+      }
+    },
+    "key": "1D586"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno b",
+        "alternative": "negrito fraktur pequeno b",
+        "short": "negrito fraktur b"
+      }
+    },
+    "key": "1D587"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno c",
+        "alternative": "negrito fraktur pequeno c",
+        "short": "negrito fraktur c"
+      }
+    },
+    "key": "1D588"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequena d",
+        "alternative": "negrito fraktur pequena d",
+        "short": "negrito fraktur d"
+      }
+    },
+    "key": "1D589"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur de pequenas e",
+        "alternative": "negrito fraktur de pequenas e",
+        "short": "negrito fraktur e"
+      }
+    },
+    "key": "1D58A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur f pequenos",
+        "alternative": "negrito fraktur f pequenos",
+        "short": "negrito fraktur f"
+      }
+    },
+    "key": "1D58B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno g",
+        "alternative": "negrito fraktur pequeno g",
+        "short": "negrito fraktur g"
+      }
+    },
+    "key": "1D58C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequenas h",
+        "alternative": "negrito fraktur pequenas h",
+        "short": "negrito fraktur h"
+      }
+    },
+    "key": "1D58D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno eu",
+        "alternative": "negrito fraktur pequeno eu",
+        "short": "negrito fraktur eu"
+      }
+    },
+    "key": "1D58E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequenas j",
+        "alternative": "negrito fraktur pequenas j",
+        "short": "negrito fraktur j"
+      }
+    },
+    "key": "1D58F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur k pequeno",
+        "alternative": "negrito fraktur k pequeno",
+        "short": "negrito fraktur k"
+      }
+    },
+    "key": "1D590"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur l",
+        "alternative": "negrito fraktur l",
+        "short": "negrito fraktur l"
+      }
+    },
+    "key": "1D591"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno m",
+        "alternative": "negrito fraktur pequeno m",
+        "short": "negrito fraktur m"
+      }
+    },
+    "key": "1D592"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno n",
+        "alternative": "negrito fraktur pequeno n",
+        "short": "negrito fraktur n"
+      }
+    },
+    "key": "1D593"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno o",
+        "alternative": "negrito fraktur pequeno o",
+        "short": "negrito fraktur o"
+      }
+    },
+    "key": "1D594"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequenos p",
+        "alternative": "negrito fraktur pequenos p",
+        "short": "negrito fraktur p"
+      }
+    },
+    "key": "1D595"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno q",
+        "alternative": "negrito fraktur pequeno q",
+        "short": "negrito fraktur q"
+      }
+    },
+    "key": "1D596"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno r",
+        "alternative": "negrito fraktur pequeno r",
+        "short": "negrito fraktur r"
+      }
+    },
+    "key": "1D597"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno s",
+        "alternative": "negrito fraktur pequeno s",
+        "short": "negrito fraktur s"
+      }
+    },
+    "key": "1D598"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno t",
+        "alternative": "negrito fraktur pequeno t",
+        "short": "negrito fraktur t"
+      }
+    },
+    "key": "1D599"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequenas u",
+        "alternative": "negrito fraktur pequenas u",
+        "short": "negrito fraktur u"
+      }
+    },
+    "key": "1D59A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno v",
+        "alternative": "negrito fraktur pequeno v",
+        "short": "negrito fraktur v"
+      }
+    },
+    "key": "1D59B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequena w",
+        "alternative": "negrito fraktur pequena w",
+        "short": "negrito fraktur w"
+      }
+    },
+    "key": "1D59C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno x",
+        "alternative": "negrito fraktur pequeno x",
+        "short": "negrito fraktur x"
+      }
+    },
+    "key": "1D59D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequeno y",
+        "alternative": "negrito fraktur pequeno y",
+        "short": "negrito fraktur y"
+      }
+    },
+    "key": "1D59E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito fraktur pequenas z",
+        "alternative": "negrito fraktur pequenas z",
+        "short": "negrito fraktur z"
+      }
+    },
+    "key": "1D59F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital",
+        "alternative": "sans serif capital",
+        "short": "sans serif boné"
+      }
+    },
+    "key": "1D5A0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital b",
+        "alternative": "sans serif capital b",
+        "short": "sans serif cap b"
+      }
+    },
+    "key": "1D5A1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital c",
+        "alternative": "sans serif capital c",
+        "short": "sans serif pac c"
+      }
+    },
+    "key": "1D5A2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital d",
+        "alternative": "sans serif capital d",
+        "short": "sans serif cap d\u0027"
+      }
+    },
+    "key": "1D5A3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital e",
+        "alternative": "sans serif capital e",
+        "short": "sans serif pac e"
+      }
+    },
+    "key": "1D5A4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital f",
+        "alternative": "sans serif capital f",
+        "short": "sans serif cap f"
+      }
+    },
+    "key": "1D5A5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital g",
+        "alternative": "sans serif capital g",
+        "short": "sans serif cap g"
+      }
+    },
+    "key": "1D5A6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital h",
+        "alternative": "sans serif capital h",
+        "short": "sans serif pac h"
+      }
+    },
+    "key": "1D5A7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital i",
+        "alternative": "sans serif capital i",
+        "short": "sans serif cap i"
+      }
+    },
+    "key": "1D5A8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital j",
+        "alternative": "sans serif capital j",
+        "short": "sans serif cap j"
+      }
+    },
+    "key": "1D5A9"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital k",
+        "alternative": "sans serif capital k",
+        "short": "sans serif cap k"
+      }
+    },
+    "key": "1D5AA"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital l",
+        "alternative": "sans serif capital l",
+        "short": "sans serif cap l"
+      }
+    },
+    "key": "1D5AB"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital m",
+        "alternative": "sans serif capital m",
+        "short": "sans serif cap m"
+      }
+    },
+    "key": "1D5AC"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital n",
+        "alternative": "sans serif capital n",
+        "short": "sans serif cap n"
+      }
+    },
+    "key": "1D5AD"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital s",
+        "alternative": "sans serif capital s",
+        "short": "sans serif cap s"
+      }
+    },
+    "key": "1D5AE"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital p",
+        "alternative": "sans serif capital p",
+        "short": "sans serif pac p"
+      }
+    },
+    "key": "1D5AF"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital q",
+        "alternative": "sans serif capital q",
+        "short": "sans serif cap q"
+      }
+    },
+    "key": "1D5B0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital r",
+        "alternative": "sans serif capital r",
+        "short": "sans serif pac r"
+      }
+    },
+    "key": "1D5B1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital s",
+        "alternative": "sans serif capital s",
+        "short": "sans serif cap s"
+      }
+    },
+    "key": "1D5B2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital t",
+        "alternative": "sans serif capital t",
+        "short": "sans serif cap t"
+      }
+    },
+    "key": "1D5B3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital de u",
+        "alternative": "sans serif capital de u",
+        "short": "sans serif cap u"
+      }
+    },
+    "key": "1D5B4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital v",
+        "alternative": "sans serif capital v",
+        "short": "sans serif cap v"
+      }
+    },
+    "key": "1D5B5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital w",
+        "alternative": "sans serif capital w",
+        "short": "sans serif cap w"
+      }
+    },
+    "key": "1D5B6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital x",
+        "alternative": "sans serif capital x",
+        "short": "sans serif cap x"
+      }
+    },
+    "key": "1D5B7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital y",
+        "alternative": "sans serif capital y",
+        "short": "sans serif cap y"
+      }
+    },
+    "key": "1D5B8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif capital z",
+        "alternative": "sans serif capital z",
+        "short": "sans serif cap z"
+      }
+    },
+    "key": "1D5B9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno",
+        "alternative": "sans serif pequeno",
+        "short": "sans serif um"
+      }
+    },
+    "key": "1D5BA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno b",
+        "alternative": "sans serif pequeno b",
+        "short": "sans serif b"
+      }
+    },
+    "key": "1D5BB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno c",
+        "alternative": "sans serif pequeno c",
+        "short": "sans serif c"
+      }
+    },
+    "key": "1D5BC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequena d",
+        "alternative": "sans serif pequena d",
+        "short": "sans serif d"
+      }
+    },
+    "key": "1D5BD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenas e",
+        "alternative": "sans serif pequenas e",
+        "short": "sans serif e"
+      }
+    },
+    "key": "1D5BE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif f pequenos",
+        "alternative": "sans serif f pequenos",
+        "short": "sans serif f"
+      }
+    },
+    "key": "1D5BF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno g",
+        "alternative": "sans serif pequeno g",
+        "short": "sans serif g"
+      }
+    },
+    "key": "1D5C0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenas h",
+        "alternative": "sans serif pequenas h",
+        "short": "sans serif h"
+      }
+    },
+    "key": "1D5C1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno eu",
+        "alternative": "sans serif pequeno eu",
+        "short": "sans serif eu"
+      }
+    },
+    "key": "1D5C2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenas j",
+        "alternative": "sans serif pequenas j",
+        "short": "sans serif j"
+      }
+    },
+    "key": "1D5C3"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif k pequeno",
+        "alternative": "sans serif k pequeno",
+        "short": "sans serif k"
+      }
+    },
+    "key": "1D5C4"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif l",
+        "alternative": "sans serif l",
+        "short": "sans serif l"
+      }
+    },
+    "key": "1D5C5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno m",
+        "alternative": "sans serif pequeno m",
+        "short": "sans serif m"
+      }
+    },
+    "key": "1D5C6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno n",
+        "alternative": "sans serif pequeno n",
+        "short": "sans serif n"
+      }
+    },
+    "key": "1D5C7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno o",
+        "alternative": "sans serif pequeno o",
+        "short": "sans serif o"
+      }
+    },
+    "key": "1D5C8"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenos p",
+        "alternative": "sans serif pequenos p",
+        "short": "sans serif p"
+      }
+    },
+    "key": "1D5C9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno q",
+        "alternative": "sans serif pequeno q",
+        "short": "sans serif q"
+      }
+    },
+    "key": "1D5CA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno r",
+        "alternative": "sans serif pequeno r",
+        "short": "sans serif r"
+      }
+    },
+    "key": "1D5CB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno s",
+        "alternative": "sans serif pequeno s",
+        "short": "sans serif s"
+      }
+    },
+    "key": "1D5CC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno t",
+        "alternative": "sans serif pequeno t",
+        "short": "sans serif t"
+      }
+    },
+    "key": "1D5CD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenas u",
+        "alternative": "sans serif pequenas u",
+        "short": "sans serif u"
+      }
+    },
+    "key": "1D5CE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno v",
+        "alternative": "sans serif pequeno v",
+        "short": "sans serif v"
+      }
+    },
+    "key": "1D5CF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequena w",
+        "alternative": "sans serif pequena w",
+        "short": "sans serif w"
+      }
+    },
+    "key": "1D5D0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno x",
+        "alternative": "sans serif pequeno x",
+        "short": "sans serif x"
+      }
+    },
+    "key": "1D5D1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequeno y",
+        "alternative": "sans serif pequeno y",
+        "short": "sans serif y"
+      }
+    },
+    "key": "1D5D2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif pequenas z",
+        "alternative": "sans serif pequenas z",
+        "short": "sans serif z"
+      }
+    },
+    "key": "1D5D3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif, negrito, maiúsculo",
+        "alternative": "sans serif, negrito, maiúsculo",
+        "short": "sans serif bold boné"
+      }
+    },
+    "key": "1D5D4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital b",
+        "alternative": "sans serif bold capital b",
+        "short": "sans serif bold cap b"
+      }
+    },
+    "key": "1D5D5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital c",
+        "alternative": "sans serif bold capital c",
+        "short": "sans serif bold pac c"
+      }
+    },
+    "key": "1D5D6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital d",
+        "alternative": "sans serif bold capital d",
+        "short": "sans serif bold cap d\u0027"
+      }
+    },
+    "key": "1D5D7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif, negrito e maiúsculo",
+        "alternative": "sans serif, negrito e maiúsculo",
+        "short": "sans serif bold pac e"
+      }
+    },
+    "key": "1D5D8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital f",
+        "alternative": "sans serif bold capital f",
+        "short": "sans serif bold cap f"
+      }
+    },
+    "key": "1D5D9"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital g",
+        "alternative": "sans serif bold capital g",
+        "short": "sans serif bold cap g"
+      }
+    },
+    "key": "1D5DA"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif, negrito, maiúscula h",
+        "alternative": "sans serif, negrito, maiúscula h",
+        "short": "sans serif bold pac h"
+      }
+    },
+    "key": "1D5DB"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital i",
+        "alternative": "sans serif bold capital i",
+        "short": "sans serif bold cap i"
+      }
+    },
+    "key": "1D5DC"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital j",
+        "alternative": "sans serif bold capital j",
+        "short": "sans serif bold cap j"
+      }
+    },
+    "key": "1D5DD"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital k",
+        "alternative": "sans serif bold capital k",
+        "short": "sans serif bold cap k"
+      }
+    },
+    "key": "1D5DE"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital l",
+        "alternative": "sans serif bold capital l",
+        "short": "sans serif bold cap l"
+      }
+    },
+    "key": "1D5DF"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital m",
+        "alternative": "sans serif bold capital m",
+        "short": "sans serif bold cap m"
+      }
+    },
+    "key": "1D5E0"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital n",
+        "alternative": "sans serif bold capital n",
+        "short": "sans serif bold cap n"
+      }
+    },
+    "key": "1D5E1"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital s",
+        "alternative": "sans serif bold capital s",
+        "short": "sans serif bold cap s"
+      }
+    },
+    "key": "1D5E2"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital p",
+        "alternative": "sans serif bold capital p",
+        "short": "sans serif bold pac p"
+      }
+    },
+    "key": "1D5E3"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital q",
+        "alternative": "sans serif bold capital q",
+        "short": "sans serif bold cap q"
+      }
+    },
+    "key": "1D5E4"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital r",
+        "alternative": "sans serif bold capital r",
+        "short": "sans serif bold pac r"
+      }
+    },
+    "key": "1D5E5"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital s",
+        "alternative": "sans serif bold capital s",
+        "short": "sans serif bold cap s"
+      }
+    },
+    "key": "1D5E6"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital t",
+        "alternative": "sans serif bold capital t",
+        "short": "sans serif bold cap t"
+      }
+    },
+    "key": "1D5E7"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif, negrito, maiúscula u",
+        "alternative": "sans serif, negrito, maiúscula u",
+        "short": "sans serif bold cap u"
+      }
+    },
+    "key": "1D5E8"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital v",
+        "alternative": "sans serif bold capital v",
+        "short": "sans serif bold cap v"
+      }
+    },
+    "key": "1D5E9"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital w",
+        "alternative": "sans serif bold capital w",
+        "short": "sans serif bold cap w"
+      }
+    },
+    "key": "1D5EA"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital x",
+        "alternative": "sans serif bold capital x",
+        "short": "sans serif bold cap x"
+      }
+    },
+    "key": "1D5EB"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital y",
+        "alternative": "sans serif bold capital y",
+        "short": "sans serif bold cap y"
+      }
+    },
+    "key": "1D5EC"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold capital z",
+        "alternative": "sans serif bold capital z",
+        "short": "sans serif bold cap z"
+      }
+    },
+    "key": "1D5ED"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno",
+        "alternative": "sans serif bold pequeno",
+        "short": "sans serif bold uma"
+      }
+    },
+    "key": "1D5EE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno b",
+        "alternative": "sans serif bold pequeno b",
+        "short": "sans serif bold b"
+      }
+    },
+    "key": "1D5EF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno c",
+        "alternative": "sans serif bold pequeno c",
+        "short": "sans serif bold c"
+      }
+    },
+    "key": "1D5F0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequena d",
+        "alternative": "sans serif bold pequena d",
+        "short": "sans serif bold d"
+      }
+    },
+    "key": "1D5F1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenas e",
+        "alternative": "sans serif bold pequenas e",
+        "short": "sans serif, negrito e"
+      }
+    },
+    "key": "1D5F2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold f pequenos",
+        "alternative": "sans serif bold f pequenos",
+        "short": "sans serif bold f"
+      }
+    },
+    "key": "1D5F3"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno g",
+        "alternative": "sans serif bold pequeno g",
+        "short": "sans serif bold g"
+      }
+    },
+    "key": "1D5F4"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenas h",
+        "alternative": "sans serif bold pequenas h",
+        "short": "sans serif bold h"
+      }
+    },
+    "key": "1D5F5"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno eu",
+        "alternative": "sans serif bold pequeno eu",
+        "short": "sans serif bold eu"
+      }
+    },
+    "key": "1D5F6"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenas j",
+        "alternative": "sans serif bold pequenas j",
+        "short": "sans serif bold j"
+      }
+    },
+    "key": "1D5F7"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold k pequeno",
+        "alternative": "sans serif bold k pequeno",
+        "short": "sans serif bold k"
+      }
+    },
+    "key": "1D5F8"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold l",
+        "alternative": "sans serif bold l",
+        "short": "sans serif bold l"
+      }
+    },
+    "key": "1D5F9"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno m",
+        "alternative": "sans serif bold pequeno m",
+        "short": "sans serif bold m"
+      }
+    },
+    "key": "1D5FA"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno n",
+        "alternative": "sans serif bold pequeno n",
+        "short": "sans serif bold n"
+      }
+    },
+    "key": "1D5FB"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno o",
+        "alternative": "sans serif bold pequeno o",
+        "short": "sans serif bold s"
+      }
+    },
+    "key": "1D5FC"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenos p",
+        "alternative": "sans serif bold pequenos p",
+        "short": "sans serif bold p"
+      }
+    },
+    "key": "1D5FD"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno q",
+        "alternative": "sans serif bold pequeno q",
+        "short": "sans serif bold q"
+      }
+    },
+    "key": "1D5FE"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno r",
+        "alternative": "sans serif bold pequeno r",
+        "short": "sans serif bold r"
+      }
+    },
+    "key": "1D5FF"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno s",
+        "alternative": "sans serif bold pequeno s",
+        "short": "sans serif bold s"
+      }
+    },
+    "key": "1D600"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno t",
+        "alternative": "sans serif bold pequeno t",
+        "short": "sans serif bold t"
+      }
+    },
+    "key": "1D601"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenas u",
+        "alternative": "sans serif bold pequenas u",
+        "short": "sans serif bold u"
+      }
+    },
+    "key": "1D602"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno v",
+        "alternative": "sans serif bold pequeno v",
+        "short": "sans serif bold v"
+      }
+    },
+    "key": "1D603"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequena w",
+        "alternative": "sans serif bold pequena w",
+        "short": "sans serif bold w"
+      }
+    },
+    "key": "1D604"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno x",
+        "alternative": "sans serif bold pequeno x",
+        "short": "sans serif bold x"
+      }
+    },
+    "key": "1D605"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequeno y",
+        "alternative": "sans serif bold pequeno y",
+        "short": "sans serif bold y"
+      }
+    },
+    "key": "1D606"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold pequenas z",
+        "alternative": "sans serif bold pequenas z",
+        "short": "sans serif bold z"
+      }
+    },
+    "key": "1D607"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital",
+        "alternative": "sans serif itálico capital",
+        "short": "sans serif itálico boné"
+      }
+    },
+    "key": "1D608"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital b",
+        "alternative": "sans serif itálico capital b",
+        "short": "sans serif itálico cap b"
+      }
+    },
+    "key": "1D609"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital c",
+        "alternative": "sans serif itálico capital c",
+        "short": "sans serif itálico pac c"
+      }
+    },
+    "key": "1D60A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital d",
+        "alternative": "sans serif itálico capital d",
+        "short": "sans serif itálico cap d\u0027"
+      }
+    },
+    "key": "1D60B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital e",
+        "alternative": "sans serif itálico capital e",
+        "short": "sans serif itálico pac e"
+      }
+    },
+    "key": "1D60C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital f",
+        "alternative": "sans serif itálico capital f",
+        "short": "sans serif itálico cap f"
+      }
+    },
+    "key": "1D60D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital g",
+        "alternative": "sans serif itálico capital g",
+        "short": "sans serif itálico cap g"
+      }
+    },
+    "key": "1D60E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital h",
+        "alternative": "sans serif itálico capital h",
+        "short": "sans serif itálico pac h"
+      }
+    },
+    "key": "1D60F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital i",
+        "alternative": "sans serif itálico capital i",
+        "short": "sans serif itálico cap i"
+      }
+    },
+    "key": "1D610"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital j",
+        "alternative": "sans serif itálico capital j",
+        "short": "sans serif itálico cap j"
+      }
+    },
+    "key": "1D611"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital k",
+        "alternative": "sans serif itálico capital k",
+        "short": "sans serif itálico cap k"
+      }
+    },
+    "key": "1D612"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital l",
+        "alternative": "sans serif itálico capital l",
+        "short": "sans serif itálico cap l"
+      }
+    },
+    "key": "1D613"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital m",
+        "alternative": "sans serif itálico capital m",
+        "short": "sans serif itálico cap m"
+      }
+    },
+    "key": "1D614"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital n",
+        "alternative": "sans serif itálico capital n",
+        "short": "sans serif itálico cap n"
+      }
+    },
+    "key": "1D615"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital s",
+        "alternative": "sans serif itálico capital s",
+        "short": "sans serif itálico cap s"
+      }
+    },
+    "key": "1D616"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital p",
+        "alternative": "sans serif itálico capital p",
+        "short": "sans serif itálico pac p"
+      }
+    },
+    "key": "1D617"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital q",
+        "alternative": "sans serif itálico capital q",
+        "short": "sans serif itálico cap q"
+      }
+    },
+    "key": "1D618"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital r",
+        "alternative": "sans serif itálico capital r",
+        "short": "sans serif itálico pac r"
+      }
+    },
+    "key": "1D619"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital s",
+        "alternative": "sans serif itálico capital s",
+        "short": "sans serif itálico cap s"
+      }
+    },
+    "key": "1D61A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital t",
+        "alternative": "sans serif itálico capital t",
+        "short": "sans serif itálico cap t"
+      }
+    },
+    "key": "1D61B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital de u",
+        "alternative": "sans serif itálico capital de u",
+        "short": "sans serif itálico cap u"
+      }
+    },
+    "key": "1D61C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital v",
+        "alternative": "sans serif itálico capital v",
+        "short": "sans serif itálico cap v"
+      }
+    },
+    "key": "1D61D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital w",
+        "alternative": "sans serif itálico capital w",
+        "short": "sans serif itálico cap w"
+      }
+    },
+    "key": "1D61E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital x",
+        "alternative": "sans serif itálico capital x",
+        "short": "sans serif itálico cap x"
+      }
+    },
+    "key": "1D61F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital y",
+        "alternative": "sans serif itálico capital y",
+        "short": "sans serif itálico cap y"
+      }
+    },
+    "key": "1D620"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico capital z",
+        "alternative": "sans serif itálico capital z",
+        "short": "sans serif itálico cap z"
+      }
+    },
+    "key": "1D621"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno",
+        "alternative": "sans serif itálico pequeno",
+        "short": "sans serif itálico um"
+      }
+    },
+    "key": "1D622"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno b",
+        "alternative": "sans serif itálico pequeno b",
+        "short": "sans serif itálico b"
+      }
+    },
+    "key": "1D623"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno c",
+        "alternative": "sans serif itálico pequeno c",
+        "short": "sans serif itálico c"
+      }
+    },
+    "key": "1D624"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequena d",
+        "alternative": "sans serif itálico pequena d",
+        "short": "sans serif itálico d"
+      }
+    },
+    "key": "1D625"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenas e",
+        "alternative": "sans serif itálico pequenas e",
+        "short": "sans serif itálico e"
+      }
+    },
+    "key": "1D626"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico f pequenos",
+        "alternative": "sans serif itálico f pequenos",
+        "short": "sans serif itálico f"
+      }
+    },
+    "key": "1D627"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno g",
+        "alternative": "sans serif itálico pequeno g",
+        "short": "sans serif itálico g"
+      }
+    },
+    "key": "1D628"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenas h",
+        "alternative": "sans serif itálico pequenas h",
+        "short": "sans serif itálico h"
+      }
+    },
+    "key": "1D629"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno eu",
+        "alternative": "sans serif itálico pequeno eu",
+        "short": "sans serif itálico eu"
+      }
+    },
+    "key": "1D62A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenas j",
+        "alternative": "sans serif itálico pequenas j",
+        "short": "sans serif itálico j"
+      }
+    },
+    "key": "1D62B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico k pequeno",
+        "alternative": "sans serif itálico k pequeno",
+        "short": "sans serif itálico k"
+      }
+    },
+    "key": "1D62C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico l",
+        "alternative": "sans serif itálico l",
+        "short": "sans serif itálico l"
+      }
+    },
+    "key": "1D62D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno m",
+        "alternative": "sans serif itálico pequeno m",
+        "short": "sans serif itálico m"
+      }
+    },
+    "key": "1D62E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno n",
+        "alternative": "sans serif itálico pequeno n",
+        "short": "sans serif itálico n"
+      }
+    },
+    "key": "1D62F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno o",
+        "alternative": "sans serif itálico pequeno o",
+        "short": "sans serif itálico s"
+      }
+    },
+    "key": "1D630"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenos p",
+        "alternative": "sans serif itálico pequenos p",
+        "short": "sans serif itálico p"
+      }
+    },
+    "key": "1D631"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno q",
+        "alternative": "sans serif itálico pequeno q",
+        "short": "sans serif itálico q"
+      }
+    },
+    "key": "1D632"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno r",
+        "alternative": "sans serif itálico pequeno r",
+        "short": "sans serif itálico r"
+      }
+    },
+    "key": "1D633"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno s",
+        "alternative": "sans serif itálico pequeno s",
+        "short": "sans serif itálico s"
+      }
+    },
+    "key": "1D634"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno t",
+        "alternative": "sans serif itálico pequeno t",
+        "short": "sans serif itálico t"
+      }
+    },
+    "key": "1D635"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenas u",
+        "alternative": "sans serif itálico pequenas u",
+        "short": "sans serif itálico u"
+      }
+    },
+    "key": "1D636"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno v",
+        "alternative": "sans serif itálico pequeno v",
+        "short": "sans serif itálico v"
+      }
+    },
+    "key": "1D637"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequena w",
+        "alternative": "sans serif itálico pequena w",
+        "short": "sans serif itálico w"
+      }
+    },
+    "key": "1D638"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno x",
+        "alternative": "sans serif itálico pequeno x",
+        "short": "sans serif itálico x"
+      }
+    },
+    "key": "1D639"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequeno y",
+        "alternative": "sans serif itálico pequeno y",
+        "short": "sans serif itálico y"
+      }
+    },
+    "key": "1D63A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif itálico pequenas z",
+        "alternative": "sans serif itálico pequenas z",
+        "short": "sans serif itálico z"
+      }
+    },
+    "key": "1D63B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática não proporcional ao capital",
+        "alternative": "não proporcional ao capital",
+        "short": "monoespaçada boné"
+      }
+    },
+    "key": "1D670"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada de capital b",
+        "alternative": "não proporcional de capital b",
+        "short": "monoespaçada cap b"
+      }
+    },
+    "key": "1D671"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital c",
+        "alternative": "não proporcional de capital c",
+        "short": "monoespaçada pac c"
+      }
+    },
+    "key": "1D672"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital d",
+        "alternative": "não proporcional de capital d",
+        "short": "monoespaçada cap d\u0027"
+      }
+    },
+    "key": "1D673"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital e",
+        "alternative": "não proporcional de capital e",
+        "short": "monoespaçada pac e"
+      }
+    },
+    "key": "1D674"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital f",
+        "alternative": "não proporcional de capital f",
+        "short": "monoespaçada cap f"
+      }
+    },
+    "key": "1D675"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital g",
+        "alternative": "não proporcional de capital de g",
+        "short": "monoespaçada cap g"
+      }
+    },
+    "key": "1D676"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital h",
+        "alternative": "não proporcional de capital h",
+        "short": "monoespaçada pac h"
+      }
+    },
+    "key": "1D677"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital i",
+        "alternative": "não proporcional de capital i",
+        "short": "monoespaçada cap i"
+      }
+    },
+    "key": "1D678"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital j",
+        "alternative": "não proporcional de capital j",
+        "short": "monoespaçada cap j"
+      }
+    },
+    "key": "1D679"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital k",
+        "alternative": "não proporcional de capital k",
+        "short": "monoespaçada cap k"
+      }
+    },
+    "key": "1D67A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital l",
+        "alternative": "não proporcional de capital de l",
+        "short": "monoespaçada cap l"
+      }
+    },
+    "key": "1D67B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital m",
+        "alternative": "monoespaçada capital m",
+        "short": "monoespaçada cap m"
+      }
+    },
+    "key": "1D67C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital n",
+        "alternative": "não proporcional de capital n",
+        "short": "monoespaçada cap n"
+      }
+    },
+    "key": "1D67D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital s",
+        "alternative": "monoespaçada capital s",
+        "short": "monoespaçada cap s"
+      }
+    },
+    "key": "1D67E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital p",
+        "alternative": "monoespaçada capital p",
+        "short": "monoespaçada pac p"
+      }
+    },
+    "key": "1D67F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital q",
+        "alternative": "monoespaçada capital q",
+        "short": "monoespaçada cap q"
+      }
+    },
+    "key": "1D680"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada de capital de r",
+        "alternative": "não proporcional de capital de r",
+        "short": "monoespaçada pac r"
+      }
+    },
+    "key": "1D681"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital s",
+        "alternative": "monoespaçada capital s",
+        "short": "monoespaçada cap s"
+      }
+    },
+    "key": "1D682"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital t",
+        "alternative": "não proporcional de capital t",
+        "short": "monoespaçada cap t"
+      }
+    },
+    "key": "1D683"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada de capital de u",
+        "alternative": "não proporcional de capital de u",
+        "short": "monoespaçada cap u"
+      }
+    },
+    "key": "1D684"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital v",
+        "alternative": "monoespaçada capital v",
+        "short": "monoespaçada cap v"
+      }
+    },
+    "key": "1D685"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital w",
+        "alternative": "monoespaçada capital w",
+        "short": "monoespaçada cap w"
+      }
+    },
+    "key": "1D686"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital x",
+        "alternative": "monoespaçada capital x",
+        "short": "monoespaçada cap x"
+      }
+    },
+    "key": "1D687"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital y",
+        "alternative": "não proporcional de capital y",
+        "short": "monoespaçada cap y"
+      }
+    },
+    "key": "1D688"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada capital z",
+        "alternative": "monoespaçada capital z",
+        "short": "monoespaçada cap z"
+      }
+    },
+    "key": "1D689"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno",
+        "alternative": "monoespaçada pequeno",
+        "short": "monoespaçada um"
+      }
+    },
+    "key": "1D68A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno b",
+        "alternative": "monoespaçada pequeno b",
+        "short": "monoespaçada b"
+      }
+    },
+    "key": "1D68B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno c",
+        "alternative": "monoespaçada pequeno c",
+        "short": "monoespaçada c"
+      }
+    },
+    "key": "1D68C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequena d",
+        "alternative": "monoespaçada pequena d",
+        "short": "monoespaçada d"
+      }
+    },
+    "key": "1D68D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada de pequenas e",
+        "alternative": "não proporcional de pequenas e",
+        "short": "não proporcional e"
+      }
+    },
+    "key": "1D68E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada f pequenos",
+        "alternative": "monoespaçada f pequenos",
+        "short": "monoespaçada f"
+      }
+    },
+    "key": "1D68F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno g",
+        "alternative": "monoespaçada pequeno g",
+        "short": "monoespaçada g"
+      }
+    },
+    "key": "1D690"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequenas h",
+        "alternative": "monoespaçada pequenas h",
+        "short": "monoespaçada h"
+      }
+    },
+    "key": "1D691"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno eu",
+        "alternative": "monoespaçada pequeno eu",
+        "short": "monoespaçada eu"
+      }
+    },
+    "key": "1D692"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequenas j",
+        "alternative": "monoespaçada pequenas j",
+        "short": "monoespaçada j"
+      }
+    },
+    "key": "1D693"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada k pequeno",
+        "alternative": "não proporcional k pequeno",
+        "short": "não proporcional k"
+      }
+    },
+    "key": "1D694"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada l",
+        "alternative": "monoespaçada l",
+        "short": "monoespaçada l"
+      }
+    },
+    "key": "1D695"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno m",
+        "alternative": "monoespaçada pequeno m",
+        "short": "monoespaçada m"
+      }
+    },
+    "key": "1D696"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno n",
+        "alternative": "monoespaçada pequeno n",
+        "short": "monoespaçada n"
+      }
+    },
+    "key": "1D697"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno o",
+        "alternative": "monoespaçada pequeno o",
+        "short": "monoespaçada o"
+      }
+    },
+    "key": "1D698"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequenos p",
+        "alternative": "monoespaçada pequenos p",
+        "short": "monoespaçada p"
+      }
+    },
+    "key": "1D699"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno q",
+        "alternative": "monoespaçada pequeno q",
+        "short": "monoespaçada q"
+      }
+    },
+    "key": "1D69A"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno r",
+        "alternative": "monoespaçada pequeno r",
+        "short": "monoespaçada r"
+      }
+    },
+    "key": "1D69B"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno s",
+        "alternative": "monoespaçada pequeno s",
+        "short": "monoespaçada s"
+      }
+    },
+    "key": "1D69C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno t",
+        "alternative": "monoespaçada pequeno t",
+        "short": "monoespaçada t"
+      }
+    },
+    "key": "1D69D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequenas u",
+        "alternative": "monoespaçada pequenas u",
+        "short": "monoespaçada u"
+      }
+    },
+    "key": "1D69E"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno v",
+        "alternative": "monoespaçada pequeno v",
+        "short": "monoespaçada v"
+      }
+    },
+    "key": "1D69F"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequena w",
+        "alternative": "monoespaçada pequena w",
+        "short": "monoespaçada w"
+      }
+    },
+    "key": "1D6A0"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno x",
+        "alternative": "monoespaçada pequeno x",
+        "short": "monoespaçada x"
+      }
+    },
+    "key": "1D6A1"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequeno y",
+        "alternative": "monoespaçada pequeno y",
+        "short": "monoespaçada y"
+      }
+    },
+    "key": "1D6A2"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada pequenas z",
+        "alternative": "monoespaçada pequenas z",
+        "short": "monoespaçada z"
+      }
+    },
+    "key": "1D6A3"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno sem pingo eu",
+        "alternative": "itálico pequeno sem pingo eu",
+        "short": "itálico sem pingo eu"
+      }
+    },
+    "key": "1D6A4"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequeno sem ponto j",
+        "alternative": "itálico pequeno sem ponto j",
+        "short": "itálico sem ponto j"
+      }
+    },
+    "key": "1D6A5"
+  }
+]

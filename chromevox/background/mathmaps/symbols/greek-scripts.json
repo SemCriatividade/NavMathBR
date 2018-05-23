@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pequeno capital gama",
+        "alternative": "letra grega gama",
+        "short": "small cap gama"
+      }
+    },
+    "key": "1D26",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pequeno capital lamda",
+        "alternative": "letra grega lamda",
+        "short": "small cap lamda"
+      }
+    },
+    "key": "1D27",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pequeno capital de pi",
+        "alternative": "letra grega pi",
+        "short": "small cap pi"
+      }
+    },
+    "key": "1D28",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pequeno capital rho",
+        "alternative": "letra grega rho",
+        "short": "small cap rho"
+      }
+    },
+    "key": "1D29",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra grega pequeno capital psi",
+        "alternative": "letra grega psi",
+        "short": "small cap psi"
+      }
+    },
+    "key": "1D2A",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "modificador de letra minúscula grega gama",
+        "alternative": "letra grega sobrescrito gama",
+        "short": "sobrescrito gama"
+      }
+    },
+    "key": "1D5E",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "modificador de letra minúscula grega phi",
+        "alternative": "letra grega sobrescrito phi",
+        "short": "sobrescrito phi"
+      }
+    },
+    "key": "1D60",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "grego subscrito pequena carta beta",
+        "alternative": "",
+        "short": "índice beta"
+      }
+    },
+    "key": "1D66",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "grego subscrito pequena carta de gama",
+        "alternative": "letra grega gama",
+        "short": "índice de gama"
+      }
+    },
+    "key": "1D67",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "grego subscrito pequena carta rho",
+        "alternative": "letra grega rho",
+        "short": "subscrito rho"
+      }
+    },
+    "key": "1D68",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "grego subscrito pequena letra phi",
+        "alternative": "letra grega phi",
+        "short": "subscrito phi"
+      }
+    },
+    "key": "1D69",
+    "names": []
+  },
+  {
+    "category": "Lm",
+    "mappings": {
+      "default": {
+        "default": "grego subscrito pequena letra chi",
+        "alternative": "letra grega chi",
+        "short": "índice chi"
+      }
+    },
+    "key": "1D6A",
+    "names": []
+  }
+]

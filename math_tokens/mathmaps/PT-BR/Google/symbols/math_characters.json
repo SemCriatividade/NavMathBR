@@ -1,0 +1,386 @@
+[
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital matemático duplicado c",
+                "alternative": "Capitais duplos c",
+                "short": "Boné duplo c"
+            }
+        },
+        "key": "2102"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Script g pequeno",
+                "short": "Script g"
+            }
+        },
+        "key": "210A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital h",
+                "alternative": "Script h",
+                "short": "Script cap h"
+            }
+        },
+        "key": "210B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Letra preta capital h",
+                "alternative": "Letra preta h",
+                "short": "Letra preta cap"
+            }
+        },
+        "key": "210C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital duplo atingido h",
+                "alternative": "Double Bloqueado h",
+                "short": "Boné duplo"
+            }
+        },
+        "key": "210D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena h",
+                "alternative": "Italic small h",
+                "short": "Itálico h"
+            },
+            "physics": {
+                "default": "planck constant"
+            }
+        },
+        "key": "210E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital i",
+                "alternative": "Script i",
+                "short": "Script cap i"
+            }
+        },
+        "key": "2110"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Black Letter Capital i",
+                "alternative": "Letra preta i",
+                "short": "Black letter cap i"
+            }
+        },
+        "key": "2111"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital l",
+                "alternative": "Script l",
+                "short": "Script cap l"
+            }
+        },
+        "key": "2112"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Script small l",
+                "short": "Script l"
+            }
+        },
+        "key": "2113"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital Duplo Duplo",
+                "alternative": "Duplo golpe",
+                "short": "Boné duplo"
+            }
+        },
+        "key": "2115"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Script capital p",
+                "alternative": "Script p",
+                "short": "Script cap p"
+            }
+        },
+        "key": "2118"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital duplo p",
+                "alternative": "Duplo golpe",
+                "short": "Boné duplo"
+            }
+        },
+        "key": "2119"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital duplo ganho q",
+                "alternative": "Duplo golpeado q",
+                "short": "Cap de dupla batida q"
+            }
+        },
+        "key": "211A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital r",
+                "alternative": "Script r",
+                "short": "Script cap r"
+            }
+        },
+        "key": "211B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Letra preta r",
+                "alternative": "Letra preta r",
+                "short": "Letra preta cap"
+            }
+        },
+        "key": "211C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital duplo",
+                "alternative": "Duplo golpe",
+                "short": "Cap de duplo golpe"
+            }
+        },
+        "key": "211D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital Duplo Duplo",
+                "alternative": "Duplo golpe",
+                "short": "Toque duplo z"
+            }
+        },
+        "key": "2124"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Letra preta z",
+                "alternative": "Letra preta z",
+                "short": "Letra preta z"
+            }
+        },
+        "key": "2128"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital b",
+                "alternative": "Script b",
+                "short": "Script cap b"
+            }
+        },
+        "key": "212C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Letra preta capital c",
+                "alternative": "Letra negra c",
+                "short": "Cap de letra preta c"
+            }
+        },
+        "key": "212D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Script small e",
+                "short": "Script e"
+            }
+        },
+        "key": "212F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital e",
+                "alternative": "Script e",
+                "short": "Script cap e"
+            }
+        },
+        "key": "2130"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital f",
+                "alternative": "Script f",
+                "short": "Script cap f"
+            }
+        },
+        "key": "2131"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Script capital m",
+                "alternative": "Script m",
+                "short": "Script cap m"
+            }
+        },
+        "key": "2133"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Script small o",
+                "short": "Script o"
+            }
+        },
+        "key": "2134"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Duplo golpeio pequeno",
+                "short": "Duplo golpeio pi"
+            }
+        },
+        "key": "213C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Double shot small gamma",
+                "short": "Gama de duplo golpe"
+            }
+        },
+        "key": "213D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Dupla taxa de capital",
+                "short": "Dupla golpeada"
+            }
+        },
+        "key": "213E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital de capital duplo",
+                "short": "Boné duplo"
+            }
+        },
+        "key": "213F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Soma dupla e atingida"
+            }
+        },
+        "key": "2140"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico de capital duplo",
+                "short": "Tampa itálica de duplo golpe"
+            }
+        },
+        "key": "2145"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Duplo toque de itálico pequeno d",
+                "short": "Double ironic d"
+            }
+        },
+        "key": "2146"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Duplo golpe em itálico pequeno e",
+                "short": "Itálico de duplo golpe"
+            }
+        },
+        "key": "2147"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Duplo toque em itálico pequeno i",
+                "short": "Duplo itálico it"
+            }
+        },
+        "key": "2148"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Duplo ímpeto em itálico pequeno j",
+                "short": "Double ironic j"
+            }
+        },
+        "key": "2149"
+    }
+]

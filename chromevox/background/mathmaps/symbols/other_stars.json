@@ -1,0 +1,529 @@
+[
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "expoente decimal símbolo"
+      }
+    },
+    "key": "23E8"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "estrela negra"
+      }
+    },
+    "key": "2605"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "estrela branca"
+      }
+    },
+    "key": "2606"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "meio círculo branco",
+        "short": "círculo branco"
+      }
+    },
+    "key": "26AA"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "meio círculo preto",
+        "short": "círculo preto"
+      }
+    },
+    "key": "26AB"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "branco pesado marca de seleção",
+        "short": "verificação branca"
+      }
+    },
+    "key": "2705"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "marca de seleção",
+        "short": "seleção"
+      }
+    },
+    "key": "2713"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesados marca de seleção",
+        "short": "pesado de seleção"
+      }
+    },
+    "key": "2714"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "a multiplicação x"
+      }
+    },
+    "key": "2715"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado multiplicação x"
+      }
+    },
+    "key": "2716"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "cédula x"
+      }
+    },
+    "key": "2717"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado cédula x"
+      }
+    },
+    "key": "2718"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "abrir o centro de cruz"
+      }
+    },
+    "key": "271B"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado de centro aberto cruz"
+      }
+    },
+    "key": "271C"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "cruz de malta"
+      }
+    },
+    "key": "2720"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "estrela de davi"
+      }
+    },
+    "key": "2721"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "quatro lágrima falava asterisco"
+      }
+    },
+    "key": "2722"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "quatro balão falava asterisco"
+      }
+    },
+    "key": "2723"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado de quatro balão falava asterisco"
+      }
+    },
+    "key": "2724"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "quatro club falava asterisco"
+      }
+    },
+    "key": "2725"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "preto de quatro pontas da estrela"
+      }
+    },
+    "key": "2726"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "branca de quatro pontas da estrela"
+      }
+    },
+    "key": "2727"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "brilha"
+      }
+    },
+    "key": "2728"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "o estresse descrito estrela branca"
+      }
+    },
+    "key": "2729"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "círculo branco estrelas"
+      }
+    },
+    "key": "272A"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "abrir o centro de estrela negra"
+      }
+    },
+    "key": "272B"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "preto centro de estrela branca"
+      }
+    },
+    "key": "272C"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "delineado preto estrelas"
+      }
+    },
+    "key": "272D"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado delineado preto estrelas"
+      }
+    },
+    "key": "272E"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "catavento estrelas"
+      }
+    },
+    "key": "272F"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "sombreado branco estrelas"
+      }
+    },
+    "key": "2730"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado asterisco"
+      }
+    },
+    "key": "2731"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "centro aberto asterisk"
+      }
+    },
+    "key": "2732"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "oito falava asterisco"
+      }
+    },
+    "key": "2733"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "oito pontas de estrela negra"
+      }
+    },
+    "key": "2734"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "oito pontas catavento estrelas"
+      }
+    },
+    "key": "2735"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "seis pontas black star"
+      }
+    },
+    "key": "2736"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "doze pontas de estrela negra"
+      }
+    },
+    "key": "2739"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "dezesseis pontas asterisco"
+      }
+    },
+    "key": "273A"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "lágrima falava asterisco"
+      }
+    },
+    "key": "273B"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "abrir o centro de lágrima falava asterisco"
+      }
+    },
+    "key": "273C"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesada lágrima falava asterisco"
+      }
+    },
+    "key": "273D"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "seis petalled preto e branco florette"
+      }
+    },
+    "key": "273E"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "preto florette"
+      }
+    },
+    "key": "273F"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "branco florette"
+      }
+    },
+    "key": "2740"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "oito petalled delineado preto florette"
+      }
+    },
+    "key": "2741"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "círculo de centro aberto de oito pontas estrela"
+      }
+    },
+    "key": "2742"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesada lágrima falava catavento asterisco"
+      }
+    },
+    "key": "2743"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "floco de neve"
+      }
+    },
+    "key": "2744"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "apertado trifoliate floco de neve"
+      }
+    },
+    "key": "2745"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado chevron floco de neve"
+      }
+    },
+    "key": "2746"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "brilho"
+      }
+    },
+    "key": "2747"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado brilho"
+      }
+    },
+    "key": "2748"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "balão falava asterisco"
+      }
+    },
+    "key": "2749"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "oito lágrima falava hélice asterisco"
+      }
+    },
+    "key": "274A"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "pesado oito lágrima falava hélice asterisco"
+      }
+    },
+    "key": "274B"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "cruz marcos"
+      }
+    },
+    "key": "274C"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "sombreado círculo branco"
+      }
+    },
+    "key": "274D"
+  }
+]

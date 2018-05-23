@@ -1,0 +1,2210 @@
+[
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula de um túmulo com",
+        "alternative": "latina carta capital a sepultura",
+        "short": "tampa de um túmulo"
+      }
+    },
+    "key": "00C0",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra a com acento agudo",
+        "alternative": "latina letra maiúscula uma aguda",
+        "short": "tampa de uma aguda"
+      }
+    },
+    "key": "00C1",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a com acento circunflexo",
+        "alternative": "latina letra maiúscula de um chapéu",
+        "short": "boné chapéu"
+      }
+    },
+    "key": "00C2",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula, com til",
+        "alternative": "latina carta capital um til",
+        "short": "tampa de um til"
+      }
+    },
+    "key": "00C3",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a com trema",
+        "alternative": "latina carta capital a dupla overdot",
+        "short": "cap duplo overdot"
+      }
+    },
+    "key": "00C4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula com anel acima",
+        "alternative": "latina letra maiúscula de um anel",
+        "short": "tampa de um anel"
+      }
+    },
+    "key": "00C5",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula c cedilha",
+        "alternative": "latina letra maiúscula c cedilha",
+        "short": "pac c cedilha"
+      }
+    },
+    "key": "00C7",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com o sepultura",
+        "alternative": "latina letra maiúscula e sepultura",
+        "short": "pac e sepultura"
+      }
+    },
+    "key": "00C8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com aguda",
+        "alternative": "latina letra maiúscula e aguda",
+        "short": "pac e aguda"
+      }
+    },
+    "key": "00C9",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina e maiúsculo com circunflexo",
+        "alternative": "latina letra maiúscula e chapéu",
+        "short": "de boné e chapéu"
+      }
+    },
+    "key": "00CA",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina e maiúsculo com trema",
+        "alternative": "latina letra maiúscula e duplo overdot",
+        "short": "tampa e dupla overdot"
+      }
+    },
+    "key": "00CB",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com grave",
+        "alternative": "latim i (letra sepultura",
+        "short": "cap i-túmulo"
+      }
+    },
+    "key": "00CC",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i (letra com acento agudo",
+        "alternative": "latim i (letra aguda",
+        "short": "cap i aguda"
+      }
+    },
+    "key": "00CD",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com circunflexo",
+        "alternative": "latim i (letra chapéu",
+        "short": "cap i chapéu"
+      }
+    },
+    "key": "00CE",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com trema",
+        "alternative": "latim i (letra duplo overdot",
+        "short": "cap i duplo overdot"
+      }
+    },
+    "key": "00CF",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n til",
+        "alternative": "latina letra maiúscula n til",
+        "short": "pac n til"
+      }
+    },
+    "key": "00D1",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com grave",
+        "alternative": "latina letra maiúscula, ó morte",
+        "short": "cap ó morte"
+      }
+    },
+    "key": "00D2",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com aguda",
+        "alternative": "latino-carta capital o agudo",
+        "short": "cap s aguda"
+      }
+    },
+    "key": "00D3",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com acento circunflexo",
+        "alternative": "latino-carta capital o chapéu",
+        "short": "cap o chapéu"
+      }
+    },
+    "key": "00D4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o, com til",
+        "alternative": "latino-carta capital o til",
+        "short": "cap s til"
+      }
+    },
+    "key": "00D5",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com trema",
+        "alternative": "latino-carta capital o casal overdot",
+        "short": "cap o casal overdot"
+      }
+    },
+    "key": "00D6",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com grave",
+        "alternative": "latino-u maiúsculo sepultura",
+        "short": "cap u sepultura"
+      }
+    },
+    "key": "00D9",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra u com acento agudo",
+        "alternative": "latino-u maiúsculo aguda",
+        "short": "cap u aguda"
+      }
+    },
+    "key": "00DA",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com circunflexo",
+        "alternative": "latino-u maiúsculo chapéu",
+        "short": "boné chapéu u"
+      }
+    },
+    "key": "00DB",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com trema",
+        "alternative": "latino-u maiúsculo duplo overdot",
+        "short": "cap u o dobro overdot"
+      }
+    },
+    "key": "00DC",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y aguda",
+        "alternative": "latina letra maiúscula y aguda",
+        "short": "cap y aguda"
+      }
+    },
+    "key": "00DD",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a macron",
+        "alternative": "latina carta capital a overbar",
+        "short": "tampa de um overbar"
+      }
+    },
+    "key": "0100",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital carta com um breve",
+        "alternative": "latina letra maiúscula uma breve",
+        "short": "tampa de um breve"
+      }
+    },
+    "key": "0102",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a com ogonek",
+        "alternative": "latina carta capital a ogonek",
+        "short": "tampa de um ogonek"
+      }
+    },
+    "key": "0104",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra c com acento agudo",
+        "alternative": "latina letra maiúscula c aguda",
+        "short": "pac c aguda"
+      }
+    },
+    "key": "0106",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra c com circunflexo",
+        "alternative": "latina letra maiúscula c chapéu",
+        "short": "boné chapéu c"
+      }
+    },
+    "key": "0108",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra c com o ponto acima",
+        "alternative": "latina letra maiúscula c overdot",
+        "short": "pac c overdot"
+      }
+    },
+    "key": "010A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra c com caron",
+        "alternative": "latina letra maiúscula c hacek",
+        "short": "pac c caron"
+      }
+    },
+    "key": "010C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com caron",
+        "alternative": "latino-letra d hacek",
+        "short": "cap d\u0027caron"
+      }
+    },
+    "key": "010E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com macron",
+        "alternative": "latina letra maiúscula e overbar",
+        "short": "pac e overbar"
+      }
+    },
+    "key": "0112",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com breve",
+        "alternative": "latina letra maiúscula e breve",
+        "short": "pac e breve"
+      }
+    },
+    "key": "0114",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com o ponto acima",
+        "alternative": "latina letra maiúscula e overdot",
+        "short": "pac e overdot"
+      }
+    },
+    "key": "0116",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com ogonek",
+        "alternative": "latina letra maiúscula e ogonek",
+        "short": "pac e ogonek"
+      }
+    },
+    "key": "0118",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com caron",
+        "alternative": "latina letra maiúscula e hacek",
+        "short": "pac e caron"
+      }
+    },
+    "key": "011A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com acento circunflexo",
+        "alternative": "latino-letra g chapéu",
+        "short": "cap g chapéu"
+      }
+    },
+    "key": "011C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g, com breve",
+        "alternative": "latino-letra g breve",
+        "short": "cap g breve"
+      }
+    },
+    "key": "011E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com o ponto acima",
+        "alternative": "latino-letra g overdot",
+        "short": "cap g overdot"
+      }
+    },
+    "key": "0120",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com cedilha",
+        "alternative": "latino-letra g cedilha",
+        "short": "cap g cedilha"
+      }
+    },
+    "key": "0122",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com acento circunflexo",
+        "alternative": "latina letra maiúscula h chapéu",
+        "short": "pac h o chapéu"
+      }
+    },
+    "key": "0124",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i (letra com til",
+        "alternative": "latim i (letra til",
+        "short": "cap i til"
+      }
+    },
+    "key": "0128",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com macron",
+        "alternative": "latim i (letra overbar",
+        "short": "cap i overbar"
+      }
+    },
+    "key": "012A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com breve",
+        "alternative": "latim i (letra breve",
+        "short": "cap i breve"
+      }
+    },
+    "key": "012C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com ogonek",
+        "alternative": "latim i (letra ogonek",
+        "short": "cap i ogonek"
+      }
+    },
+    "key": "012E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com ponto acima",
+        "alternative": "latim i (letra overdot",
+        "short": "cap i overdot"
+      }
+    },
+    "key": "0130",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital acento circunflexo letra j",
+        "alternative": "latina (letra j chapéu",
+        "short": "cap j chapéu"
+      }
+    },
+    "key": "0134",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra \" k \" com cedilha",
+        "alternative": "latina letra maiúscula k cedilha",
+        "short": "cap k cedilha"
+      }
+    },
+    "key": "0136",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula l aguda",
+        "alternative": "latina letra maiúscula l aguda",
+        "short": "cap l aguda"
+      }
+    },
+    "key": "0139",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital a letra \" l \" com cedilha",
+        "alternative": "latina letra maiúscula l cedilha",
+        "short": "cap l cedilha"
+      }
+    },
+    "key": "013B",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula l com caron",
+        "alternative": "latina letra maiúscula l hacek",
+        "short": "cap l caron"
+      }
+    },
+    "key": "013D",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula l com meio ponto",
+        "alternative": "latina letra maiúscula l de meio ponto",
+        "short": "cap l de meio ponto"
+      }
+    },
+    "key": "013F",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n aguda",
+        "alternative": "latina letra maiúscula n aguda",
+        "short": "pac n aguda"
+      }
+    },
+    "key": "0143",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com cedilha",
+        "alternative": "latina letra maiúscula n cedilha",
+        "short": "pac n cedilha"
+      }
+    },
+    "key": "0145",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com caron",
+        "alternative": "latina letra maiúscula n hacek",
+        "short": "pac n caron"
+      }
+    },
+    "key": "0147",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-carta capital o macron",
+        "alternative": "latino-carta capital o overbar",
+        "short": "cap s overbar"
+      }
+    },
+    "key": "014C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com breve",
+        "alternative": "latina letra maiúscula s breve",
+        "short": "cap s breve"
+      }
+    },
+    "key": "014E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com duplo aguda",
+        "alternative": "latino-carta capital o casal aguda",
+        "short": "cap o casal aguda"
+      }
+    },
+    "key": "0150",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula r aguda",
+        "alternative": "latina letra maiúscula r aguda",
+        "short": "pac r aguda"
+      }
+    },
+    "key": "0154",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com cedilha",
+        "alternative": "latina letra maiúscula r cedilha",
+        "short": "pac r cedilha"
+      }
+    },
+    "key": "0156",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com caron",
+        "alternative": "latina letra maiúscula r hacek",
+        "short": "pac r caron"
+      }
+    },
+    "key": "0158",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s aguda",
+        "alternative": "latina letra maiúscula s aguda",
+        "short": "cap s aguda"
+      }
+    },
+    "key": "015A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com acento circunflexo",
+        "alternative": "latina letra maiúscula s hat",
+        "short": "cap s hat"
+      }
+    },
+    "key": "015C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com cedilha",
+        "alternative": "latina letra maiúscula s cedilha",
+        "short": "cap s cedilha"
+      }
+    },
+    "key": "015E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com caron",
+        "alternative": "latina letra maiúscula s hacek",
+        "short": "cap s caron"
+      }
+    },
+    "key": "0160",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com cedilha",
+        "alternative": "latina letra t maiúscula cedilha",
+        "short": "cap t cedilha"
+      }
+    },
+    "key": "0162",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com caron",
+        "alternative": "latina letra t maiúscula hacek",
+        "short": "cap t caron"
+      }
+    },
+    "key": "0164",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra u com til",
+        "alternative": "latina letra maiúscula u til",
+        "short": "cap u til"
+      }
+    },
+    "key": "0168",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com macron",
+        "alternative": "latino-u maiúsculo overbar",
+        "short": "cap u overbar"
+      }
+    },
+    "key": "016A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com breve",
+        "alternative": "latino-u maiúsculo breve",
+        "short": "cap u breve"
+      }
+    },
+    "key": "016C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com anel acima",
+        "alternative": "latino-u maiúsculo anel",
+        "short": "cap u anel"
+      }
+    },
+    "key": "016E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com duplo aguda",
+        "alternative": "latino-u maiúsculo duplo aguda",
+        "short": "cap u o dobro aguda"
+      }
+    },
+    "key": "0170",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com ogonek",
+        "alternative": "latino-u maiúsculo ogonek",
+        "short": "cap u ogonek"
+      }
+    },
+    "key": "0172",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com acento circunflexo",
+        "alternative": "latina capital letra w hat",
+        "short": "cap w hat"
+      }
+    },
+    "key": "0174",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital y minúsculo com circunflexo",
+        "alternative": "latina letra maiúscula y chapéu",
+        "short": "cap y chapéu"
+      }
+    },
+    "key": "0176",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital y minúsculo com trema",
+        "alternative": "latina letra maiúscula y duplo overdot",
+        "short": "cap y duplo overdot"
+      }
+    },
+    "key": "0178",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com aguda",
+        "alternative": "latina capital letra z aguda",
+        "short": "cap z aguda"
+      }
+    },
+    "key": "0179",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com o ponto acima",
+        "alternative": "latina capital letra z overdot",
+        "short": "cap z overdot"
+      }
+    },
+    "key": "017B",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com caron",
+        "alternative": "latina capital letra z hacek",
+        "short": "cap z caron"
+      }
+    },
+    "key": "017D",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a com caron",
+        "alternative": "latina carta capital a hacek",
+        "short": "boné caron"
+      }
+    },
+    "key": "01CD",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com caron",
+        "alternative": "latim i (letra hacek",
+        "short": "cap i caron"
+      }
+    },
+    "key": "01CF",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com caron",
+        "alternative": "latino-carta capital o hacek",
+        "short": "cap s caron"
+      }
+    },
+    "key": "01D1",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com caron",
+        "alternative": "latino-u maiúsculo hacek",
+        "short": "cap u caron"
+      }
+    },
+    "key": "01D3",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com caron",
+        "alternative": "latino-letra g hacek",
+        "short": "cap g caron"
+      }
+    },
+    "key": "01E6",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra k com caron",
+        "alternative": "latina letra maiúscula k hacek",
+        "short": "cap k caron"
+      }
+    },
+    "key": "01E8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com ogonek",
+        "alternative": "latino-carta capital o ogonek",
+        "short": "cap s ogonek"
+      }
+    },
+    "key": "01EA",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com aguda",
+        "alternative": "latino-letra g agudo",
+        "short": "cap g agudo"
+      }
+    },
+    "key": "01F4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra n, com grave",
+        "alternative": "latina letra maiúscula n sepultura",
+        "short": "pac n sepultura"
+      }
+    },
+    "key": "01F8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula, um com cama de sepultura",
+        "alternative": "latina carta capital a dupla sepultura",
+        "short": "tampa de um túmulo duplo"
+      }
+    },
+    "key": "0200",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina carta capital a com invertido breve",
+        "alternative": "latina letra maiúscula uma invertido breve",
+        "short": "tampa invertida breve"
+      }
+    },
+    "key": "0202",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com o dobro de sepultura",
+        "alternative": "latina letra maiúscula e duplo túmulo",
+        "short": "pac e duplo túmulo"
+      }
+    },
+    "key": "0204",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com invertido breve",
+        "alternative": "latina letra maiúscula e invertido breve",
+        "short": "pac e invertido breve"
+      }
+    },
+    "key": "0206",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com duplo túmulo",
+        "alternative": "latim i (letra duplo túmulo",
+        "short": "cap i duplo túmulo"
+      }
+    },
+    "key": "0208",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com invertido breve",
+        "alternative": "latim i (letra invertida breve",
+        "short": "cap i invertido breve"
+      }
+    },
+    "key": "020A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com duplo túmulo",
+        "alternative": "latino-carta capital o duplo túmulo",
+        "short": "cap o duplo túmulo"
+      }
+    },
+    "key": "020C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com invertido breve",
+        "alternative": "latina letra maiúscula s invertido breve",
+        "short": "cap s invertido breve"
+      }
+    },
+    "key": "020E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com dupla sepultura",
+        "alternative": "latina letra maiúscula r duplo túmulo",
+        "short": "pac r duplo túmulo"
+      }
+    },
+    "key": "0210",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com invertido breve",
+        "alternative": "latina letra maiúscula r invertido breve",
+        "short": "pac r invertido breve"
+      }
+    },
+    "key": "0212",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com duplo túmulo",
+        "alternative": "latino-u maiúsculo duplo túmulo",
+        "short": "cap u duplo túmulo"
+      }
+    },
+    "key": "0214",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com invertido breve",
+        "alternative": "latina letra u invertida breve",
+        "short": "cap u invertido breve"
+      }
+    },
+    "key": "0216",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula s com uma vírgula abaixo",
+        "alternative": "latina letra maiúscula s vírgula abaixo",
+        "short": "cap s vírgula abaixo"
+      }
+    },
+    "key": "0218",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com uma vírgula abaixo",
+        "alternative": "latina letra t maiúscula vírgula abaixo",
+        "short": "cap t vírgula abaixo"
+      }
+    },
+    "key": "021A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h caron",
+        "alternative": "",
+        "short": "pac h caron"
+      }
+    },
+    "key": "021E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula com um ponto acima",
+        "alternative": "latina carta capital a overdot",
+        "short": "tampa de um overdot"
+      }
+    },
+    "key": "0226",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com cedilha",
+        "alternative": "latina letra maiúscula e cedilha",
+        "short": "pac e cedilha"
+      }
+    },
+    "key": "0228",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com o ponto acima",
+        "alternative": "latino-carta capital o overdot",
+        "short": "cap s overdot"
+      }
+    },
+    "key": "022E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com macron",
+        "alternative": "latina letra maiúscula y overbar",
+        "short": "cap y overbar"
+      }
+    },
+    "key": "0232",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula com anel abaixo",
+        "alternative": "latina letra maiúscula de um anel abaixo",
+        "short": "tampa de um anel abaixo"
+      }
+    },
+    "key": "1E00",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra b com o ponto acima",
+        "alternative": "latino-letra b overdot",
+        "short": "cap b overdot"
+      }
+    },
+    "key": "1E02",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra b com o ponto abaixo",
+        "alternative": "latino-letra b underdot",
+        "short": "cap b underdot"
+      }
+    },
+    "key": "1E04",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra b com a linha abaixo",
+        "alternative": "latino-letra b sublinhado",
+        "short": "cap b sublinhado"
+      }
+    },
+    "key": "1E06",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com o ponto acima",
+        "alternative": "latino-letra d overdot",
+        "short": "cap d\u0027overdot"
+      }
+    },
+    "key": "1E0A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com um ponto abaixo",
+        "alternative": "latino-letra d underdot",
+        "short": "cap d\u0027underdot"
+      }
+    },
+    "key": "1E0C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com a linha abaixo",
+        "alternative": "latino-letra d sublinhado",
+        "short": "cap d\u0027sublinhado"
+      }
+    },
+    "key": "1E0E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com cedilha",
+        "alternative": "latino-letra d cedilha",
+        "short": "cap d\u0027cedilha"
+      }
+    },
+    "key": "1E10",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra d com acento circunflexo abaixo",
+        "alternative": "latino-letra d underhat",
+        "short": "cap d\u0027underhat"
+      }
+    },
+    "key": "1E12",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina e maiúsculo com circunflexo abaixo",
+        "alternative": "latina letra maiúscula e underhat",
+        "short": "pac e underhat"
+      }
+    },
+    "key": "1E18",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com til abaixo",
+        "alternative": "latina letra maiúscula e til abaixo",
+        "short": "pac e til abaixo"
+      }
+    },
+    "key": "1E1A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra f de capital com o ponto acima",
+        "alternative": "latino-letra f de capital overdot",
+        "short": "cap f overdot"
+      }
+    },
+    "key": "1E1E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra g com macron",
+        "alternative": "latino-letra g overbar",
+        "short": "cap g overbar"
+      }
+    },
+    "key": "1E20",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com o ponto acima",
+        "alternative": "latina letra maiúscula h overdot",
+        "short": "pac h overdot"
+      }
+    },
+    "key": "1E22",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com o ponto abaixo",
+        "alternative": "latina letra maiúscula h underdot",
+        "short": "pac h underdot"
+      }
+    },
+    "key": "1E24",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com trema",
+        "alternative": "latina letra maiúscula h duplo overdot",
+        "short": "pac h o dobro overdot"
+      }
+    },
+    "key": "1E26",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com cedilha",
+        "alternative": "latina letra maiúscula h cedilha",
+        "short": "pac h cedilha"
+      }
+    },
+    "key": "1E28",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula h com breve abaixo",
+        "alternative": "latina letra maiúscula h abaixo breve",
+        "short": "pac h abaixo breve"
+      }
+    },
+    "key": "1E2A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i (letra com til abaixo",
+        "alternative": "latim i (letra til abaixo",
+        "short": "cap i til abaixo"
+      }
+    },
+    "key": "1E2C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra \" k \" com acento agudo",
+        "alternative": "latina letra maiúscula k aguda",
+        "short": "cap k aguda"
+      }
+    },
+    "key": "1E30",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra k com o ponto abaixo",
+        "alternative": "latina letra maiúscula k underdot",
+        "short": "cap k underdot"
+      }
+    },
+    "key": "1E32",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra k com a linha abaixo",
+        "alternative": "latina letra maiúscula k sublinhado",
+        "short": "cap k sublinhado"
+      }
+    },
+    "key": "1E34",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula l com o ponto abaixo",
+        "alternative": "latina letra maiúscula l underdot",
+        "short": "cap l underdot"
+      }
+    },
+    "key": "1E36",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula l com linha abaixo",
+        "alternative": "latina letra maiúscula l sublinhado",
+        "short": "cap l sublinhado"
+      }
+    },
+    "key": "1E3A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital a letra \"l\", com acento circunflexo abaixo",
+        "alternative": "latina letra maiúscula l underhat",
+        "short": "cap l underhat"
+      }
+    },
+    "key": "1E3C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula m aguda",
+        "alternative": "latina letra maiúscula m aguda",
+        "short": "cap m aguda"
+      }
+    },
+    "key": "1E3E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula m com o ponto acima",
+        "alternative": "latina letra maiúscula m overdot",
+        "short": "cap m overdot"
+      }
+    },
+    "key": "1E40",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula m com o ponto abaixo",
+        "alternative": "latina letra maiúscula m underdot",
+        "short": "cap m underdot"
+      }
+    },
+    "key": "1E42",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com o ponto acima",
+        "alternative": "latina letra maiúscula n overdot",
+        "short": "pac n overdot"
+      }
+    },
+    "key": "1E44",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com o ponto abaixo",
+        "alternative": "latina letra maiúscula n underdot",
+        "short": "pac n underdot"
+      }
+    },
+    "key": "1E46",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com a linha abaixo",
+        "alternative": "latina letra maiúscula n sublinhado",
+        "short": "pac n sublinhado"
+      }
+    },
+    "key": "1E48",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula n com acento circunflexo abaixo",
+        "alternative": "latina letra maiúscula n underhat",
+        "short": "pac n underhat"
+      }
+    },
+    "key": "1E4A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula p aguda",
+        "alternative": "latina letra maiúscula p aguda",
+        "short": "pac p aguda"
+      }
+    },
+    "key": "1E54",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-letra p com o ponto acima",
+        "alternative": "latina letra maiúscula p overdot",
+        "short": "pac p overdot"
+      }
+    },
+    "key": "1E56",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com o ponto acima",
+        "alternative": "latina letra maiúscula r overdot",
+        "short": "pac r overdot"
+      }
+    },
+    "key": "1E58",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com o ponto abaixo",
+        "alternative": "latina letra maiúscula r underdot",
+        "short": "pac r underdot"
+      }
+    },
+    "key": "1E5A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra r com a linha abaixo",
+        "alternative": "latina letra maiúscula r sublinhado",
+        "short": "pac r sublinhado"
+      }
+    },
+    "key": "1E5E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra s com o ponto acima",
+        "alternative": "latina letra maiúscula s overdot",
+        "short": "cap s overdot"
+      }
+    },
+    "key": "1E60",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra s com o ponto abaixo",
+        "alternative": "latina letra maiúscula s underdot",
+        "short": "cap s underdot"
+      }
+    },
+    "key": "1E62",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com o ponto acima",
+        "alternative": "latina letra t maiúscula overdot",
+        "short": "cap t overdot"
+      }
+    },
+    "key": "1E6A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com o ponto abaixo",
+        "alternative": "latina letra t maiúscula underdot",
+        "short": "cap t underdot"
+      }
+    },
+    "key": "1E6C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra t maiúscula com a linha abaixo",
+        "alternative": "latina letra t maiúscula sublinhado",
+        "short": "cap t sublinhado"
+      }
+    },
+    "key": "1E6E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-t maiúsculo com circunflexo abaixo",
+        "alternative": "latina letra t maiúscula underhat",
+        "short": "cap t underhat"
+      }
+    },
+    "key": "1E70",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com trema abaixo",
+        "alternative": "latino-u maiúsculo duplo underdot",
+        "short": "cap u o dobro underdot"
+      }
+    },
+    "key": "1E72",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra u com til abaixo",
+        "alternative": "latina letra maiúscula u til abaixo",
+        "short": "cap u til abaixo"
+      }
+    },
+    "key": "1E74",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com circunflexo abaixo",
+        "alternative": "latino-u maiúsculo underhat",
+        "short": "cap u underhat"
+      }
+    },
+    "key": "1E76",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula, com til v",
+        "alternative": "latina letra maiúscula v til",
+        "short": "cap v til"
+      }
+    },
+    "key": "1E7C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra v com o ponto abaixo",
+        "alternative": "latina letra maiúscula v underdot",
+        "short": "cap v underdot"
+      }
+    },
+    "key": "1E7E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com grave",
+        "alternative": "latina capital letra w sepultura",
+        "short": "cap w sepultura"
+      }
+    },
+    "key": "1E80",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com aguda",
+        "alternative": "latina capital letra w aguda",
+        "short": "cap w aguda"
+      }
+    },
+    "key": "1E82",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com trema",
+        "alternative": "latina capital letra w duplo overdot",
+        "short": "cap w duplo overdot"
+      }
+    },
+    "key": "1E84",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com o ponto acima",
+        "alternative": "latina capital letra w overdot",
+        "short": "cap w overdot"
+      }
+    },
+    "key": "1E86",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra w com o ponto abaixo",
+        "alternative": "latina capital letra w underdot",
+        "short": "cap w underdot"
+      }
+    },
+    "key": "1E88",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula x com ponto acima",
+        "alternative": "latina letra maiúscula x overdot",
+        "short": "cap x overdot"
+      }
+    },
+    "key": "1E8A",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula x com trema",
+        "alternative": "latina letra maiúscula x de dupla overdot",
+        "short": "cap x de dupla overdot"
+      }
+    },
+    "key": "1E8C",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com o ponto acima",
+        "alternative": "latina letra maiúscula y overdot",
+        "short": "cap y overdot"
+      }
+    },
+    "key": "1E8E",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com acento circunflexo",
+        "alternative": "latina capital acento circunflexo letra z",
+        "short": "cap z acento circunflexo"
+      }
+    },
+    "key": "1E90",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com o ponto abaixo",
+        "alternative": "latina capital letra z underdot",
+        "short": "cap z underdot"
+      }
+    },
+    "key": "1E92",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra z com a linha abaixo",
+        "alternative": "latina capital letra z barra inferior",
+        "short": "cap z barra inferior"
+      }
+    },
+    "key": "1E94",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula com um ponto abaixo",
+        "alternative": "latina letra maiúscula com uma underdot",
+        "short": "tampa do underdot"
+      }
+    },
+    "key": "1EA0",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula com um gancho acima",
+        "alternative": "latina carta capital um gancho",
+        "short": "tampa do gancho"
+      }
+    },
+    "key": "1EA2",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com o ponto abaixo",
+        "alternative": "latina letra maiúscula e underdot",
+        "short": "pac e underdot"
+      }
+    },
+    "key": "1EB8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com o gancho acima",
+        "alternative": "latina letra maiúscula e gancho",
+        "short": "pac e gancho"
+      }
+    },
+    "key": "1EBA",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula e com til",
+        "alternative": "latina letra maiúscula e til",
+        "short": "pac e til"
+      }
+    },
+    "key": "1EBC",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com gancho acima",
+        "alternative": "latim i (letra gancho",
+        "short": "cap eu gancho"
+      }
+    },
+    "key": "1EC8",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latim i maiúsculo com ponto abaixo",
+        "alternative": "latim i (letra underdot",
+        "short": "cap i underdot"
+      }
+    },
+    "key": "1ECA",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com o ponto abaixo",
+        "alternative": "latino-carta capital o underdot",
+        "short": "cap s underdot"
+      }
+    },
+    "key": "1ECC",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina capital letra o com o gancho acima",
+        "alternative": "latino-carta capital o gancho",
+        "short": "cap o gancho"
+      }
+    },
+    "key": "1ECE",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com ponto abaixo",
+        "alternative": "latino-u maiúsculo underdot",
+        "short": "cap u underdot"
+      }
+    },
+    "key": "1EE4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latino-u maiúsculo com gancho acima",
+        "alternative": "latino-u maiúsculo gancho",
+        "short": "cap u gancho"
+      }
+    },
+    "key": "1EE6",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com grave",
+        "alternative": "latina letra maiúscula y sepultura",
+        "short": "cap y sepultura"
+      }
+    },
+    "key": "1EF2",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com o ponto abaixo",
+        "alternative": "latina letra maiúscula y underdot",
+        "short": "cap y underdot"
+      }
+    },
+    "key": "1EF4",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com o gancho acima",
+        "alternative": "latina letra maiúscula y gancho",
+        "short": "cap y gancho"
+      }
+    },
+    "key": "1EF6",
+    "names": []
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "latina letra maiúscula y com til",
+        "alternative": "latina letra maiúscula y til",
+        "short": "cap y til"
+      }
+    },
+    "key": "1EF8",
+    "names": []
+  }
+]

@@ -1,0 +1,395 @@
+[
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "espaço",
+        "short": ""
+      }
+    },
+    "key": "0020"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "espaço sem quebra",
+        "alternative": "não separável",
+        "short": ""
+      }
+    },
+    "key": "00A0"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "macio hífen",
+        "short": ""
+      }
+    },
+    "key": "00AD"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "pt quad",
+        "short": ""
+      }
+    },
+    "key": "2000"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "em quad",
+        "short": ""
+      }
+    },
+    "key": "2001"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "espaço en",
+        "short": ""
+      }
+    },
+    "key": "2002"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "em espaço",
+        "short": ""
+      }
+    },
+    "key": "2003"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "três por espaço duplo",
+        "short": ""
+      }
+    },
+    "key": "2004"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "quatro por espaço duplo",
+        "short": ""
+      }
+    },
+    "key": "2005"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "seis por espaço duplo",
+        "short": ""
+      }
+    },
+    "key": "2006"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "figura espaço",
+        "short": ""
+      }
+    },
+    "key": "2007"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "pontuação espaço",
+        "short": ""
+      }
+    },
+    "key": "2008"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "espaço fino",
+        "short": ""
+      }
+    },
+    "key": "2009"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "cabelo espaço",
+        "short": ""
+      }
+    },
+    "key": "200A"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "zero de espaço de largura",
+        "short": ""
+      }
+    },
+    "key": "200B"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "largura zero não joiner",
+        "short": ""
+      }
+    },
+    "key": "200C"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "largura zero joiner"
+      }
+    },
+    "key": "200D"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da esquerda para a direita marca"
+      }
+    },
+    "key": "200E"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da direita para a esquerda marca"
+      }
+    },
+    "key": "200F"
+  },
+  {
+    "category": "Zl",
+    "mappings": {
+      "default": {
+        "default": "linha separadora"
+      }
+    },
+    "key": "2028"
+  },
+  {
+    "category": "Zp",
+    "mappings": {
+      "default": {
+        "default": "separador de parágrafo"
+      }
+    },
+    "key": "2029"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da esquerda para a direita incorporação"
+      }
+    },
+    "key": "202A"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da direita para a esquerda incorporação"
+      }
+    },
+    "key": "202B"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "pop direcional de formatação"
+      }
+    },
+    "key": "202C"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da esquerda para a direita substituir"
+      }
+    },
+    "key": "202D"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "da direita para a esquerda substituir"
+      }
+    },
+    "key": "202E"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "estreito não quebra",
+        "short": ""
+      }
+    },
+    "key": "202F"
+  },
+  {
+    "category": "Zs",
+    "mappings": {
+      "default": {
+        "default": "médio-matemática espaço",
+        "short": ""
+      }
+    },
+    "key": "205F"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "palavra joiner"
+      }
+    },
+    "key": "2060"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "aplicação de função",
+        "short": "de"
+      }
+    },
+    "key": "2061"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "invisível vezes",
+        "short": "vezes"
+      }
+    },
+    "key": "2062"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "invisível separador",
+        "short": "separador de"
+      }
+    },
+    "key": "2063"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "invisível plus",
+        "short": "mais"
+      }
+    },
+    "key": "2064"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "inibir a troca simétrica"
+      }
+    },
+    "key": "206A"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "activar simétrica troca"
+      }
+    },
+    "key": "206B"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "nacional dígitos formas"
+      }
+    },
+    "key": "206E"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "nominal dígitos formas"
+      }
+    },
+    "key": "206F"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "zero largura não quebra",
+        "alternative": "marca de ordem de byte"
+      }
+    },
+    "key": "FEFF"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "interlinear anotação de âncora"
+      }
+    },
+    "key": "FFF9"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "interlinear anotação de separação"
+      }
+    },
+    "key": "FFFA"
+  },
+  {
+    "category": "Cf",
+    "mappings": {
+      "default": {
+        "default": "interlinear anotação terminator"
+      }
+    },
+    "key": "FFFB"
+  }
+]

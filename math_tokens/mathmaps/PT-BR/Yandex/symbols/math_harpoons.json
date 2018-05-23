@@ -1,0 +1,510 @@
+[
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com o bocal para cima",
+        "short": "esquerda arpão com farpa até"
+      }
+    },
+    "key": "21BC"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com o bocal para baixo",
+        "short": "esquerda arpão com o bocal para baixo"
+      }
+    },
+    "key": "21BD"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com barb rightwards",
+        "short": "até o arpão com farpa de direito"
+      }
+    },
+    "key": "21BE"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com barb leftwards",
+        "short": "até o arpão com barb esquerda"
+      }
+    },
+    "key": "21BF"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com o bocal para cima",
+        "short": "direito arpão com farpa até"
+      }
+    },
+    "key": "21C0"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com o bocal para baixo",
+        "short": "direito arpão com o bocal para baixo"
+      }
+    },
+    "key": "21C1"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com barb rightwards",
+        "short": "para baixo arpão com farpa de direito"
+      }
+    },
+    "key": "21C2"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com barb leftwards",
+        "short": "para baixo arpão com barb esquerda"
+      }
+    },
+    "key": "21C3"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão sobre rightwards arpão",
+        "short": "esquerda arpão direito de arpão"
+      }
+    },
+    "key": "21CB"
+  },
+  {
+    "category": "So",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão sobre leftwards arpão",
+        "short": "direito arpão mais de esquerda arpão"
+      }
+    },
+    "key": "21CC"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "esquerda farpa até certo farpa para baixo arpão"
+      }
+    },
+    "key": "294A"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "esquerda farpa de baixo para a direita farpa até arpão"
+      }
+    },
+    "key": "294B"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "até farpa de direito para baixo barb esquerda arpão"
+      }
+    },
+    "key": "294C"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "até farpa para a esquerda para barb direito de arpão"
+      }
+    },
+    "key": "294D"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "esquerda farpa até certo farpa até arpão"
+      }
+    },
+    "key": "294E"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "até farpa de direito para baixo barb direito de arpão"
+      }
+    },
+    "key": "294F"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "da esquerda para mangueira para baixo da direita para mangueira para baixo arpão"
+      }
+    },
+    "key": "2950"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "até farpa para a esquerda para barb esquerda arpão"
+      }
+    },
+    "key": "2951"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com farpa até a barra",
+        "short": "esquerda arpão com farpa até a barra"
+      }
+    },
+    "key": "2952"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com farpa até a barra",
+        "short": "direito arpão com farpa até a barra"
+      }
+    },
+    "key": "2953"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com farpa de direito da barra",
+        "short": "até o arpão com farpa de direito da barra"
+      }
+    },
+    "key": "2954"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com farpa de direito da barra",
+        "short": "para baixo arpão com farpa de direito da barra"
+      }
+    },
+    "key": "2955"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com o bocal para baixo a barra de",
+        "short": "esquerda arpão com o bocal para baixo a barra de"
+      }
+    },
+    "key": "2956"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com o bocal para baixo a barra de",
+        "short": "direito arpão com o bocal para baixo a barra de"
+      }
+    },
+    "key": "2957"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com a farpa da esquerda para a barra de",
+        "short": "até o arpão com a farpa da esquerda para a barra de"
+      }
+    },
+    "key": "2958"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com a farpa da esquerda para a barra de",
+        "short": "para baixo arpão com a farpa da esquerda para a barra de"
+      }
+    },
+    "key": "2959"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com barb cima da barra",
+        "short": "esquerda arpão com barb cima da barra"
+      }
+    },
+    "key": "295A"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com barb cima da barra",
+        "short": "direito arpão com barb cima da barra"
+      }
+    },
+    "key": "295B"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com farpa de direito da barra de",
+        "short": "até o arpão com farpa de direito da barra de"
+      }
+    },
+    "key": "295C"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com farpa de direito da barra de",
+        "short": "para baixo arpão com farpa de direito da barra de"
+      }
+    },
+    "key": "295D"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com o bocal para baixo da barra de",
+        "short": "esquerda arpão com o bocal para baixo da barra de"
+      }
+    },
+    "key": "295E"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com o bocal para baixo da barra de",
+        "short": "direito arpão com o bocal para baixo da barra de"
+      }
+    },
+    "key": "295F"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com barb esquerda da barra",
+        "short": "até o arpão com barb esquerda da barra"
+      }
+    },
+    "key": "2960"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com barb esquerda da barra",
+        "short": "para baixo arpão com barb esquerda da barra"
+      }
+    },
+    "key": "2961"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com barb acima leftwards arpão com o bocal para baixo",
+        "short": "esquerda arpão com farpa até acima, à esquerda arpão com o bocal para baixo"
+      }
+    },
+    "key": "2962"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com farpa de esquerda ao lado para cima arpão com farpa de direito",
+        "short": "até o arpão com farpa de esquerda ao lado até o arpão com farpa de direito"
+      }
+    },
+    "key": "2963"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com barb acima rightwards arpão com o bocal para baixo",
+        "short": "direito arpão com farpa até acima, à direita arpão com o bocal para baixo"
+      }
+    },
+    "key": "2964"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com farpa de esquerda ao lado para baixo arpão com farpa de direito",
+        "short": "para baixo arpão com farpa de esquerda ao lado para baixo arpão com farpa de direito"
+      }
+    },
+    "key": "2965"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com barb acima rightwards arpão com farpa até",
+        "short": "esquerda arpão com farpa até acima, à direita arpão com farpa até"
+      }
+    },
+    "key": "2966"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com barb acima rightwards arpão com o bocal para baixo",
+        "short": "esquerda arpão com o bocal para baixo, acima, à direita arpão com o bocal para baixo"
+      }
+    },
+    "key": "2967"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com barb acima leftwards arpão com farpa até",
+        "short": "direito arpão com farpa até acima, à esquerda arpão com farpa até"
+      }
+    },
+    "key": "2968"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com barb acima leftwards arpão com o bocal para baixo",
+        "short": "direito arpão com o bocal para baixo, acima, à esquerda arpão com o bocal para baixo"
+      }
+    },
+    "key": "2969"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com barb acima traço longo",
+        "short": "esquerda arpão com barb acima traço longo"
+      }
+    },
+    "key": "296A"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "leftwards arpão com o caule abaixo de um traço longo",
+        "short": "esquerda arpão com o caule abaixo de um traço longo"
+      }
+    },
+    "key": "296B"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com barb acima traço longo",
+        "short": "direito arpão com barb acima traço longo"
+      }
+    },
+    "key": "296C"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "rightwards arpão com o caule abaixo de um traço longo",
+        "short": "direito arpão com o caule abaixo de um traço longo"
+      }
+    },
+    "key": "296D"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para cima arpão com farpa de esquerda ao lado para baixo arpão com farpa de direito",
+        "short": "até o arpão com farpa de esquerda ao lado para baixo arpão com farpa de direito"
+      }
+    },
+    "key": "296E"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo arpão com farpa de esquerda ao lado para cima arpão com farpa de direito",
+        "short": "para baixo arpão com farpa de esquerda ao lado até o arpão com farpa de direito"
+      }
+    },
+    "key": "296F"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "esquerda rabo de peixe"
+      }
+    },
+    "key": "297C"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "direito de rabo de peixe"
+      }
+    },
+    "key": "297D"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "até rabo de peixe"
+      }
+    },
+    "key": "297E"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "para baixo, rabo de peixe"
+      }
+    },
+    "key": "297F"
+  }
+]

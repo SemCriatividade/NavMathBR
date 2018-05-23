@@ -1,0 +1,678 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0061",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina a",
+                "alternative": "",
+                "short": "uma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0062",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b",
+                "alternative": "",
+                "short": "B"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0063",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina c",
+                "alternative": "",
+                "short": "C"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0064",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d",
+                "alternative": "",
+                "short": "D"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0065",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e",
+                "alternative": "",
+                "short": "E"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0066",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina f",
+                "alternative": "",
+                "short": "F"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0067",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g",
+                "alternative": "",
+                "short": "G"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0068",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h",
+                "alternative": "",
+                "short": "H"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0069",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i",
+                "alternative": "",
+                "short": "Eu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina j",
+                "alternative": "",
+                "short": "J"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina k",
+                "alternative": "",
+                "short": "K"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l",
+                "alternative": "",
+                "short": "eu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m",
+                "alternative": "",
+                "short": "M"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n",
+                "alternative": "",
+                "short": "N"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "006F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o",
+                "alternative": "",
+                "short": "O"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0070",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p",
+                "alternative": "",
+                "short": "P"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0071",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina q",
+                "alternative": "",
+                "short": "Q"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0072",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r",
+                "alternative": "",
+                "short": "R"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0073",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina s",
+                "alternative": "",
+                "short": "S"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0074",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t",
+                "alternative": "",
+                "short": "T"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0075",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina você",
+                "alternative": "",
+                "short": "você"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0076",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina v",
+                "alternative": "",
+                "short": "V"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0077",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina w",
+                "alternative": "",
+                "short": "W"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0078",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina x",
+                "alternative": "",
+                "short": "X"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0079",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina y",
+                "alternative": "",
+                "short": "Y"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "007A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z",
+                "alternative": "",
+                "short": "Z"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF41",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin",
+                "alternative": "",
+                "short": "uma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF42",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "B"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF43",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "C"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF44",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latino-larga",
+                "alternative": "",
+                "short": "D"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF45",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "E"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF46",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "F"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF47",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "G"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF48",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina de largura completa",
+                "alternative": "",
+                "short": "H"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF49",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "Eu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "J"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Fullwidth latin small letter k",
+                "alternative": "",
+                "short": "K"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula de latin",
+                "alternative": "",
+                "short": "eu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "M"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "N"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF4F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina de tamanho completo",
+                "alternative": "",
+                "short": "O"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF50",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "P"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF51",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina de tamanho completo q",
+                "alternative": "",
+                "short": "Q"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF52",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Fullwidth latin small letter r",
+                "alternative": "",
+                "short": "R"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF53",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin",
+                "alternative": "",
+                "short": "S"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF54",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin de largura total",
+                "alternative": "",
+                "short": "T"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF55",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina",
+                "alternative": "",
+                "short": "você"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF56",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra minúscula latin pequena",
+                "alternative": "",
+                "short": "V"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF57",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina de tamanho completo w",
+                "alternative": "",
+                "short": "W"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF58",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Grande letra pequena latina x",
+                "alternative": "",
+                "short": "X"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF59",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina de tamanho completo y",
+                "alternative": "",
+                "short": "Y"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "FF5A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Fullwidth latin small letter z",
+                "alternative": "",
+                "short": "Z"
+            }
+        }
+    }
+]

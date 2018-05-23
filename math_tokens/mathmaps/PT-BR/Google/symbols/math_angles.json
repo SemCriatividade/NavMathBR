@@ -1,0 +1,218 @@
+[
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo recto com arco"
+            }
+        },
+        "key": "22BE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo reto com a seta de ziguezague para baixo"
+            }
+        },
+        "key": "237C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo tridimensional"
+            }
+        },
+        "key": "27C0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido de abertura esquerda"
+            }
+        },
+        "key": "299B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Variante de ângulo reto com quadrado"
+            }
+        },
+        "key": "299C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Mede o ângulo direito com ponto"
+            }
+        },
+        "key": "299D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo com s dentro"
+            }
+        },
+        "key": "299E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo agudo"
+            }
+        },
+        "key": "299F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo esférico abertura esquerda"
+            }
+        },
+        "key": "29A0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo esférico de abertura"
+            }
+        },
+        "key": "29A1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo girado"
+            }
+        },
+        "key": "29A2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo invertido"
+            }
+        },
+        "key": "29A3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo com barra inferior"
+            }
+        },
+        "key": "29A4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo invertido com barra inferior"
+            }
+        },
+        "key": "29A5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo oblíquo de abertura"
+            }
+        },
+        "key": "29A6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo oblíquo abrindo"
+            }
+        },
+        "key": "29A7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para cima e para a direita"
+            }
+        },
+        "key": "29A8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para cima e para a esquerda"
+            }
+        },
+        "key": "29A9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para baixo e para a direita"
+            }
+        },
+        "key": "29AA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para baixo e para a esquerda"
+            }
+        },
+        "key": "29AB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para a direita e para cima"
+            }
+        },
+        "key": "29AC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para a esquerda e para cima"
+            }
+        },
+        "key": "29AD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para a direita e para baixo"
+            }
+        },
+        "key": "29AE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Ângulo medido com o braço aberto terminando na seta apontando para a esquerda e para baixo"
+            }
+        },
+        "key": "29AF"
+    }
+]

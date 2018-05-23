@@ -1,0 +1,2485 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com sepultura",
+                "alternative": "Letra pequena latina um túmulo",
+                "short": "um tumulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com aguda",
+                "alternative": "Letra pequena latina aguda",
+                "short": "Uma aguda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com circunflexo",
+                "alternative": "Letra pequena latina um chapéu",
+                "short": "um chapéu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde",
+                "alternative": "Letra pequena latina e tilde",
+                "short": "Um tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com diaerese",
+                "alternative": "Letra pequena latina um overdot duplo",
+                "short": "Um overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com anel acima",
+                "alternative": "Letra pequena latina um anel",
+                "short": "um anel"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin c com cedilha",
+                "alternative": "Latin small letter c cedilla",
+                "short": "C cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com túmulo",
+                "alternative": "Pequena letra e túmulo latino",
+                "short": "E túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00E9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com aguda",
+                "alternative": "Pequena letra e aguda latina",
+                "short": "E agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00EA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra e latin com circunflexo",
+                "alternative": "Letra pequena latina e chapéu",
+                "short": "E hat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00EB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena e latin com diaerese",
+                "alternative": "Letra pequena latina e sobredote dupla",
+                "short": "E duplo sobredote"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00EC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com túmulo",
+                "alternative": "Latin small letter i grave",
+                "short": "Eu grave"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00ED",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com aguda",
+                "alternative": "Letra pequena latina i aguda",
+                "short": "Eu agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00EE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena com circunflexo",
+                "alternative": "Letra pequena latina i hat",
+                "short": "Eu, Chapéu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00EF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com diaerese",
+                "alternative": "Letra pequena latina i overdot duplo",
+                "short": "Eu duplico"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com tilde",
+                "alternative": "Latin small letter n tilde",
+                "short": "N tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com túmulo",
+                "alternative": "Letra pequena latina o túmulo",
+                "short": "O túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com aguda",
+                "alternative": "Letra pequena latina o aguda",
+                "short": "O agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com circunflexo",
+                "alternative": "Letra pequena oval latin",
+                "short": "O chapéu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde",
+                "alternative": "Letra pequena latina ou tilde",
+                "short": "O tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra latina com diaerese",
+                "alternative": "Letra pequena latina o overdot duplo",
+                "short": "O overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00F9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com túmulo",
+                "alternative": "Letra latina pequena u túmulo",
+                "short": "Tú sepultura"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00FA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com aguda",
+                "alternative": "Letra pequena latina u aguda",
+                "short": "Você é agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00FB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena com circunflexo",
+                "alternative": "Letra pequena latina u hat",
+                "short": "Você"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00FC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com diaerese",
+                "alternative": "Letra pequena latina u sobredote duplo",
+                "short": "Você é o dobre demais"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00FD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com aguda",
+                "alternative": "Letra pequena latina e aguda",
+                "short": "E agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "00FF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com diaerese",
+                "alternative": "Letra pequena latina e sobredote duplo",
+                "short": "Sobredote duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0101",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com macron",
+                "alternative": "Letra pequena latina uma barra overbar",
+                "short": "Um overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0103",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra latina com breve",
+                "alternative": "Letra pequena latina um breve",
+                "short": "Um breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0105",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena com ogonek",
+                "alternative": "Latin small letter a ogonek",
+                "short": "Um ogonek"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0107",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina c com aguda",
+                "alternative": "Latin small letter c acute",
+                "short": "C agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0109",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin pequena letra c com circunflexo",
+                "alternative": "Chapéu pequeno latino da letra c",
+                "short": "bate-papo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "010B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina c com ponto acima",
+                "alternative": "Letra latina pequena letra c",
+                "short": "C overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "010D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin c com caron",
+                "alternative": "Letra pequena latina ckk",
+                "short": "C caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "010F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com Caron",
+                "alternative": "Letra pequena latina d hacek",
+                "short": "D caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0113",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com macron",
+                "alternative": "Pequena letra latina e overbar",
+                "short": "E overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0115",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra e latina com breve",
+                "alternative": "Latin small letter e breve",
+                "short": "E breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0117",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com ponto acima",
+                "alternative": "Letra e ponto pequeno latino",
+                "short": "E overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0119",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra e latin com ogonek",
+                "alternative": "Latin small letter e ogonek",
+                "short": "E ogonek"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "011B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena e latin com caron",
+                "alternative": "Letra pequena e latina latin",
+                "short": "E caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "011D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com circunflexo",
+                "alternative": "Letra latina pequeno letra g",
+                "short": "G hat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "011F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com breve",
+                "alternative": "Latin small letter g breve",
+                "short": "G breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0121",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com ponto acima",
+                "alternative": "Letra pequena latina g dot",
+                "short": "G overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0123",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com cedilha",
+                "alternative": "Latin letra pequena g cedilla",
+                "short": "G cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0125",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com circunflexo",
+                "alternative": "Letra pequena latina H Hat",
+                "short": "H Hat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0129",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com tilde",
+                "alternative": "Letra pequena latina i tilde",
+                "short": "Eu tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "012B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com macron",
+                "alternative": "Letra pequena latina i overbar",
+                "short": "Eu overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "012D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com breve",
+                "alternative": "Latin small letter i breve",
+                "short": "Eu breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "012F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ogonek",
+                "alternative": "Latin small letter i ogonek",
+                "short": "Eu ogonek"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0131",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina sem pontos i",
+                "alternative": "Letra pequena latina sem pontos i",
+                "short": "Sem pedaços"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0135",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin small letter j circumflex",
+                "alternative": "Letra pequena latin j hat",
+                "short": "J hat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0137",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin pequena letra k com cedilha",
+                "alternative": "Latin small letter k cedilla",
+                "short": "K cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "013A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com aguda",
+                "alternative": "Letra pequena latina l aguda",
+                "short": "L agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "013C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com cedila",
+                "alternative": "Latin small letter l cedilla",
+                "short": "L cedilha"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "013E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com caron",
+                "alternative": "Letra pequena latina lkkk",
+                "short": "L caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0140",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com ponto médio",
+                "alternative": "Latin small letter l middle dot",
+                "short": "L ponto médio"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0144",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com aguda",
+                "alternative": "Letra pequena latina n aguda",
+                "short": "N agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0146",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com cedila",
+                "alternative": "Letra pequena latin n cedilla",
+                "short": "N cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0148",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin n com caron",
+                "alternative": "Letra pequena latin nkk",
+                "short": "N caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "014D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena o macron",
+                "alternative": "Letra pequena latina o overbar",
+                "short": "O overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "014F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com breve",
+                "alternative": "Latin small letter o breve",
+                "short": "O breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0151",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com duplo agudo",
+                "alternative": "Letra pequena latina o aguda dupla",
+                "short": "O duplo agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0155",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com aguda",
+                "alternative": "Letra pequena latina r aguda",
+                "short": "R agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0157",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com cedila",
+                "alternative": "Letra pequena latin r cedilla",
+                "short": "R cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0159",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin r com caron",
+                "alternative": "Letra pequena latin r hacek",
+                "short": "R caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "015B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com aguda",
+                "alternative": "Letra pequena latina aguda",
+                "short": "É aguda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "015D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com circunflexo",
+                "alternative": "Chapéu de letra pequena latina",
+                "short": "Chapéu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "015F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com cedila",
+                "alternative": "Latin small letter s cedilla",
+                "short": "S cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0161",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Latin small letter s with caron",
+                "alternative": "Letra latina pequena letra",
+                "short": "S caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0163",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com cedilha",
+                "alternative": "Letra latina pequena letrina",
+                "short": "T cedilha"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0165",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com Caron",
+                "alternative": "Letra pequena latina tkk",
+                "short": "T caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0169",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde",
+                "alternative": "Letra pequena latina u tilde",
+                "short": "Tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "016B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina você com macron",
+                "alternative": "Letra pequena latina você está sobrebarque",
+                "short": "Você está superado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "016D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina u com breve",
+                "alternative": "Pequena letra latina u breve",
+                "short": "U breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "016F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com anel acima",
+                "alternative": "Letra pequena latina você toca",
+                "short": "Você toca"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0171",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina u com duplo agudo",
+                "alternative": "Letra latina pequena u aguda dupla",
+                "short": "Você é dobrável"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0173",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ogonek",
+                "alternative": "Letra pequena latina u ogonek",
+                "short": "U ogonek"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0175",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com circunflexo",
+                "alternative": "Letra pequena latina w",
+                "short": "o que"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0177",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com circunflexo",
+                "alternative": "Cartaz pequeno e letra latin",
+                "short": "Chapéu"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "017A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com aguda",
+                "alternative": "Letra pequena latina aguda z",
+                "short": "Z agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "017C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com ponto acima",
+                "alternative": "Letra pequena latina z dot",
+                "short": "Z overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "017E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com caron",
+                "alternative": "Letra pequena latina z hacek",
+                "short": "Z caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01CE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com caron",
+                "alternative": "Letra pequena latina a makesk",
+                "short": "Um caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01D0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com Caron",
+                "alternative": "Letra pequena latina i hacek",
+                "short": "Eu caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01D2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com caron",
+                "alternative": "Letra pequena latina okk",
+                "short": "O caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01D4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com caron",
+                "alternative": "Letra pequena latina ukk",
+                "short": "Uonon"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01E7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com caron",
+                "alternative": "Letra pequena latina gkk",
+                "short": "G caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01E9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin k com caron",
+                "alternative": "Letra latina pequena kkk",
+                "short": "K caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01EB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com ogonek",
+                "alternative": "Letra latina pequena o ogonek",
+                "short": "O ogonek"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01F0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin j com caron",
+                "alternative": "Letra pequena latina jkk",
+                "short": "J caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01F5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina g com aguda",
+                "alternative": "Pequena letra g latina aguda",
+                "short": "G aguda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "01F9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com túmulo",
+                "alternative": "Latin small letter n grave",
+                "short": "N túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0201",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina a com túmulo duplo",
+                "alternative": "Letra pequena latina um túmulo duplo",
+                "short": "Um túmulo duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0203",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina a com breve invertida",
+                "alternative": "Letra pequena latina um breve invertido",
+                "short": "Um breve invertido"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0205",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com duplo túmulo",
+                "alternative": "Letra pequena latina e dupla sepultura",
+                "short": "E duplo túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0207",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com breve invertida",
+                "alternative": "Letra pequena latin e breve invertida",
+                "short": "E breve invertido"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0209",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com túmulo duplo",
+                "alternative": "Letra pequena latina i dobro do túmulo",
+                "short": "Eu dobro do túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "020B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com breve invertida",
+                "alternative": "Letra pequena latina i invertida breve",
+                "short": "Eu invertei breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "020D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com duplo túmulo",
+                "alternative": "Letra pequena latina o túmulo duplo",
+                "short": "O dobro do túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "020F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com breve invertida",
+                "alternative": "Letra pequena latina o breve invertido",
+                "short": "O breve invertido"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0211",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com duplo túmulo",
+                "alternative": "Latin small letter r double grave",
+                "short": "Duplo túmulo duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0213",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com breve invertida",
+                "alternative": "Latin small letter r inverted breve",
+                "short": "R invertido breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0215",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com túmulo duplo",
+                "alternative": "Letra pequena latina u dobro do túmulo",
+                "short": "Você é dobro do túmulo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0217",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com breve invertida",
+                "alternative": "Latin letra pequena u inverted breve",
+                "short": "Você inverteu breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0219",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com coma abaixo",
+                "alternative": "Petição de pequena letra latina a seguir",
+                "short": "S coma abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "021B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t com vírgula abaixo",
+                "alternative": "Petição de letra AA latina abaixo",
+                "short": "Tara abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "021F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com caron",
+                "alternative": "Letra pequena latin h caron",
+                "short": "H caron"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0227",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto acima",
+                "alternative": "Letra pequena latina um overdot",
+                "short": "Um excesso"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0229",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin e com cedilha",
+                "alternative": "Latin small letter e cedilla",
+                "short": "E cedilha"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "022F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina o com ponto acima",
+                "alternative": "Letra pequena latina o overdot",
+                "short": "O overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0233",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina y com macron",
+                "alternative": "Letra pequena latina e overbar",
+                "short": "E overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "0237",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina sem dot",
+                "alternative": "Letra pequena latina sem dot",
+                "short": "Dotless j"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E01",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina um anel abaixo",
+                "alternative": "Letra pequena latina um anel abaixo",
+                "short": "Um anel abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E03",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com ponto acima",
+                "alternative": "Petição pequena latina b overdot",
+                "short": "B overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E05",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com ponto abaixo",
+                "alternative": "Latin small letter b underdot",
+                "short": "B underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E07",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina b com linha abaixo",
+                "alternative": "Latin small letter b underbar",
+                "short": "B underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E0B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com ponto acima",
+                "alternative": "Letra pequena latina d overdot",
+                "short": "D overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E0D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com ponto abaixo",
+                "alternative": "Letra pequena latina d underdot",
+                "short": "D underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E0F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com linha abaixo",
+                "alternative": "Latin small letter d underbar",
+                "short": "D underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E11",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com cedilha",
+                "alternative": "Latin small letter d cedilla",
+                "short": "D cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E13",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina d com circunflexo abaixo",
+                "alternative": "Letra pequena latina d underhat",
+                "short": "D underhat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E19",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com circunflexo abaixo",
+                "alternative": "Latin small letter e underhat",
+                "short": "E underhat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E1B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra e latina com tilde abaixo",
+                "alternative": "Pequena letra e tilde latina abaixo",
+                "short": "E tilde abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E1F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina f com ponto acima",
+                "alternative": "Letra pequena latina ultrapassada",
+                "short": "Superdotado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E21",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra g latin pequena com macron",
+                "alternative": "Latin small letter g overbar",
+                "short": "G overbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E23",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com ponto acima",
+                "alternative": "Letra pequena latina superdotada",
+                "short": "Overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E25",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com ponto abaixo",
+                "alternative": "Letra pequena latina h underdot",
+                "short": "H underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E27",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com diaerese",
+                "alternative": "Letra pequena latina h overdot duplo",
+                "short": "H overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E29",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com cedilha",
+                "alternative": "Letra pequena latin h cedilla",
+                "short": "H cedilla"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E2B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com breve abaixo",
+                "alternative": "Letra pequena latina breve",
+                "short": "Breve"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E2D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com tilde abaixo",
+                "alternative": "Letra pequena latina i tilde abaixo",
+                "short": "Eu tilde abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E31",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina k com aguda",
+                "alternative": "Pequena letra k aguda latina",
+                "short": "K agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E33",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina k com ponto abaixo",
+                "alternative": "Latin small letter k underdot",
+                "short": "K underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E35",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina k com linha abaixo",
+                "alternative": "Latin small letter k underbar",
+                "short": "K underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E37",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com ponto abaixo",
+                "alternative": "Latina pequena letra l underdot",
+                "short": "Eu subdividi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E3B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com linha abaixo",
+                "alternative": "Latin small letter l underbar",
+                "short": "L underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E3D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina l com circunflexo abaixo",
+                "alternative": "Letra pequena latina l underhat",
+                "short": "L underhat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E3F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com aguda",
+                "alternative": "Letra pequena latina m aguda",
+                "short": "M agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E41",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com ponto acima",
+                "alternative": "Petição pequena latina m overdot",
+                "short": "M overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E43",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina m com ponto abaixo",
+                "alternative": "Latin small letter m underdot",
+                "short": "M underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E45",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin n com ponto acima",
+                "alternative": "Petição pequena latina n overdot",
+                "short": "N overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E47",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com ponto abaixo",
+                "alternative": "Letra pequena latina n underdot",
+                "short": "N underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E49",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com linha abaixo",
+                "alternative": "Latin small letter n underbar",
+                "short": "N underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E4B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina n com circunflexo abaixo",
+                "alternative": "Letra pequena latina n underhat",
+                "short": "N underhat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E55",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com aguda",
+                "alternative": "Letra pequena latina p aguda",
+                "short": "P agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E57",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina p com ponto acima",
+                "alternative": "Petição pequena latina p overdot",
+                "short": "P overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E59",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com ponto acima",
+                "alternative": "Petição pequena latina r overdot",
+                "short": "R overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E5B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin r com ponto abaixo",
+                "alternative": "Pequena letra r latina underdot",
+                "short": "R underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E5F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina r com linha abaixo",
+                "alternative": "Latin small letter r underbar",
+                "short": "R underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E61",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto acima",
+                "alternative": "Overdot de letra pequena latina",
+                "short": "Superdotado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E63",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto abaixo",
+                "alternative": "Latin small letter s underdot",
+                "short": "Underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E6B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t com ponto acima",
+                "alternative": "Letra pequena latina t overdot",
+                "short": "T exagerado"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E6D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t com ponto abaixo",
+                "alternative": "Letra pequena latina t underdot",
+                "short": "T underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E6F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com linha abaixo",
+                "alternative": "Letra pequena latina t barra inferior",
+                "short": "T underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E71",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina t com circunflexo abaixo",
+                "alternative": "Letra pequena latina t underhat",
+                "short": "T underhat"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E73",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com diaerese abaixo",
+                "alternative": "Letra pequena latina, você é dobrável",
+                "short": "Você é duplamente duvidoso"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E75",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com tilde abaixo",
+                "alternative": "Letra pequena latina u tilde abaixo",
+                "short": "Tilde abaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E77",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra latina pequena com circunflex abaixo",
+                "alternative": "Letra pequena latina você é subconsciente",
+                "short": "Você está embaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E7D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin v com tilde",
+                "alternative": "Letra pequena latina v tilde",
+                "short": "V tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E7F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin v com ponto abaixo",
+                "alternative": "Petição pequena latina v underdot",
+                "short": "V underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E81",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina w com túmulo",
+                "alternative": "Latin small letter w grave",
+                "short": "Sepultura"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E83",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina w com aguda",
+                "alternative": "Letra pequena latina aguda",
+                "short": "W agudo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E85",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com diaerese",
+                "alternative": "Letra pequena latina w overdot duplo",
+                "short": "W overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E87",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto acima",
+                "alternative": "Letra pequena latina w overdot",
+                "short": "W overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E89",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina w com ponto abaixo",
+                "alternative": "Latin small letter w underdot",
+                "short": "W underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E8B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina x com ponto acima",
+                "alternative": "Petição pequena latina x overdot",
+                "short": "X overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E8D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina x com diaerese",
+                "alternative": "Letra pequena latina x overdot duplo",
+                "short": "X overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E8F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com ponto acima",
+                "alternative": "Letra pequena latina e overdot",
+                "short": "E overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E91",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com circunflexo",
+                "alternative": "Letra pequena latina Z Hat",
+                "short": "Chapéu z"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E93",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com ponto abaixo",
+                "alternative": "Latin small letter z underdot",
+                "short": "Z underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E95",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina z com linha abaixo",
+                "alternative": "Latin small letter z underbar",
+                "short": "Z barraca"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E96",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina h com linha abaixo",
+                "alternative": "Latin small letter h underbar",
+                "short": "H underbar"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E97",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com diaerese",
+                "alternative": "Letra pequena latina t overdot duplo",
+                "short": "T double overdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E98",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com anel acima",
+                "alternative": "Anel latino de pequena letra w",
+                "short": "Ringue"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E99",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com anel acima",
+                "alternative": "Pequena letra e anel latino",
+                "short": "E toque"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1E9A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina a com meio anel direito",
+                "alternative": "Letra pequena latina um anel meio direito",
+                "short": "Um meio anel direito"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EA1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto abaixo",
+                "alternative": "Latin small letter a underdot",
+                "short": "Um underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EA3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho acima",
+                "alternative": "Letra pequena latina um gancho",
+                "short": "um gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EB9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com ponto abaixo",
+                "alternative": "Letra pequena latina e subjacente",
+                "short": "E underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EBB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latin e com gancho acima",
+                "alternative": "Latin small letter e hook",
+                "short": "E hook"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EBD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Pequena letra e latina com tilde",
+                "alternative": "Pequena letra latina e tilde",
+                "short": "E tilde"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EC9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com gancho acima",
+                "alternative": "Letra pequena latina engodo",
+                "short": "Eu engodo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1ECB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina i com ponto abaixo",
+                "alternative": "Pequena letra latina i underdot",
+                "short": "Eu subdividi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1ECD",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto abaixo",
+                "alternative": "Latin small letter o underdot",
+                "short": "O underdot"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1ECF",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho acima",
+                "alternative": "Latin small letter o hook",
+                "short": "Gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EE5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com ponto abaixo",
+                "alternative": "Letra pequena latina você subdeste",
+                "short": "Você está debaixo"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EE7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina com gancho acima",
+                "alternative": "Letra latina pequena você ganha",
+                "short": "Você ganha"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EF3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com túmulo",
+                "alternative": "Letra pequena latina e túmulo",
+                "short": "Y grave"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EF5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com ponto abaixo",
+                "alternative": "Latin small letter y underdot",
+                "short": "Subdividido"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EF7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com gancho acima",
+                "alternative": "Latin small letter y hook",
+                "short": "Y gancho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1EF9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra pequena latina e com tilde",
+                "alternative": "Latin small letter y tilde",
+                "short": "Y tilde"
+            }
+        }
+    }
+]

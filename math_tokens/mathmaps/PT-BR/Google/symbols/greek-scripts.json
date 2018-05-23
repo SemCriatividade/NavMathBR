@@ -1,0 +1,158 @@
+[
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D26",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena capital gamma",
+                "alternative": "Letra da letra grega",
+                "short": "Small cap gamma"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D27",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena capital lambda",
+                "alternative": "Letra grega lambda",
+                "short": "Small cap lambda"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D28",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena capital pi",
+                "alternative": "Letra grega pi",
+                "short": "Small cap pi"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D29",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena capital rho",
+                "alternative": "Rho",
+                "short": "Small rho"
+            }
+        }
+    },
+    {
+        "category": "Ll",
+        "names": [],
+        "key": "1D2A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega pequena capital psi",
+                "alternative": "Carta grega psi",
+                "short": "Small cap psi"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D5E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra modificadora pequena gama grega",
+                "alternative": "Expressão de letra grega",
+                "short": "Gama de exposições"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D60",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra modificadora pequena phi grega",
+                "alternative": "Letra grega php superscript",
+                "short": "PhD superscript"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D66",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Subscritor grego letra pequena beta",
+                "alternative": "",
+                "short": "Subscrito beta"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D67",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Subscrita grega pequena letra gama",
+                "alternative": "Letra da letra grega",
+                "short": "Gama de subíndice"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D68",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Subscritor grego rho letra pequena",
+                "alternative": "Rho",
+                "short": "Subscrita rho"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D69",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Subscritor grego letra pequena phi",
+                "alternative": "Letra phi",
+                "short": "Subscrito phi"
+            }
+        }
+    },
+    {
+        "category": "Lm",
+        "names": [],
+        "key": "1D6A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Subscritor grego letra pequena chi",
+                "alternative": "Letra chia chi",
+                "short": "Subscrever chi"
+            }
+        }
+    }
+]

@@ -1,0 +1,1652 @@
+[
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemático bold capital alpha",
+                "alternative": "Alfa de capital arrojado",
+                "short": "Alfa calva"
+            }
+        },
+        "key": "1D6A8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático beta",
+                "alternative": "Bold capital beta",
+                "short": "Calvo cap beta"
+            }
+        },
+        "key": "1D6A9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Gamma de capital negrito matemático",
+                "alternative": "Gamma de capital em negrito",
+                "short": "Gata careca"
+            }
+        },
+        "key": "1D6AA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Delta de capital em negrito matemático",
+                "alternative": "Delta de capital em negrito",
+                "short": "Calmo de delta"
+            }
+        },
+        "key": "1D6AB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Epsilon de capital negrito matemático",
+                "alternative": "Epsilon de capital arrojado",
+                "short": "Calvície epsilon"
+            }
+        },
+        "key": "1D6AC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital em matemática negrito zeta",
+                "alternative": "Capital em negrito zeta",
+                "short": "Calda calva zeta"
+            }
+        },
+        "key": "1D6AD"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital matemático bold capital eta",
+                "alternative": "Capital em bruto capital",
+                "short": "Calzada eta"
+            }
+        },
+        "key": "1D6AE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Teta de capital negrito matemático",
+                "alternative": "Corajosa theta de capital",
+                "short": "Capa calva theta"
+            }
+        },
+        "key": "1D6AF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital iota em negrito matemático",
+                "alternative": "Capital ereta corajosa",
+                "short": "Calvo iota iota"
+            }
+        },
+        "key": "1D6B0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Kapa de capital negrito matemático",
+                "alternative": "Kapa de capital arrojado",
+                "short": "Kappa calvo"
+            }
+        },
+        "key": "1D6B1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático lambda",
+                "alternative": "Bold capital lambda",
+                "short": "Calvície lambda"
+            }
+        },
+        "key": "1D6B2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital em negrito matemático",
+                "alternative": "Capital negrito mu",
+                "short": "Calvo"
+            }
+        },
+        "key": "1D6B3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático nu",
+                "alternative": "Bold capital nu",
+                "short": "Calvo cap nu"
+            }
+        },
+        "key": "1D6B4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático xi",
+                "alternative": "Capital negrito xi",
+                "short": "Calvo xi"
+            }
+        },
+        "key": "1D6B5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático omicron",
+                "alternative": "Bold capital omicron",
+                "short": "Calvo capacete omicron"
+            }
+        },
+        "key": "1D6B6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático pi",
+                "alternative": "Capital arrojado pi",
+                "short": "Calvo cap"
+            }
+        },
+        "key": "1D6B7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Rho",
+                "alternative": "Capital arrojado rho",
+                "short": "Galo calvo rho"
+            }
+        },
+        "key": "1D6B8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Símbolo de theta de capital bold (realce) matemático",
+                "alternative": "Corajosa theta de capital",
+                "short": "Capa calva theta"
+            }
+        },
+        "key": "1D6B9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Sigma de capital em negrito matemático",
+                "alternative": "Sigma de capital em negrito",
+                "short": "Sigma calvo"
+            }
+        },
+        "key": "1D6BA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital tau",
+                "alternative": "Capital tau",
+                "short": "Calvo tau"
+            }
+        },
+        "key": "1D6BB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Crescimento de capital negrito matemático",
+                "alternative": "Crescimento de capital arrojado",
+                "short": "Calvo cap upsilon"
+            }
+        },
+        "key": "1D6BC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Phi de capital negrito matemático",
+                "alternative": "Bold phi capital",
+                "short": "Calvo cap phi"
+            }
+        },
+        "key": "1D6BD"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Chi de capital negrito matemático",
+                "alternative": "Chi capital arrojado",
+                "short": "Cal x-chi"
+            }
+        },
+        "key": "1D6BE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital negrito matemático psi",
+                "alternative": "Capital negrito psi",
+                "short": "Calvo psi"
+            }
+        },
+        "key": "1D6BF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Omega de capital negrito matemático",
+                "alternative": "Omega de capital arrojado",
+                "short": "Calvo capim omega"
+            }
+        },
+        "key": "1D6C0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Alfa pequena matemática negrito",
+                "alternative": "Alfa pequeno ou corajoso",
+                "short": "Alfa ousada"
+            }
+        },
+        "key": "1D6C2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno beta",
+                "alternative": "Negrito pequeno beta",
+                "short": "Beta ousada"
+            }
+        },
+        "key": "1D6C3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Gamma matemática negrito e pequena",
+                "alternative": "Pequena gama corajosa",
+                "short": "Gama audaz"
+            }
+        },
+        "key": "1D6C4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Pequeno delta em negrito matemático",
+                "alternative": "Pequeno delta corajoso",
+                "short": "Delta arrojado"
+            }
+        },
+        "key": "1D6C5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Epsilon pequeno em negrito matemático",
+                "alternative": "Epsilon pequeno ousado",
+                "short": "Epsilon arrojado"
+            }
+        },
+        "key": "1D6C6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito e zeta pequeno",
+                "alternative": "Zeta pequeno e ousado",
+                "short": "Zeta em negrito"
+            }
+        },
+        "key": "1D6C7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno eta",
+                "alternative": "Pequeno e ousado eta",
+                "short": "Eta corajoso"
+            }
+        },
+        "key": "1D6C8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Teta pequena e corajosa matemática",
+                "alternative": "Bold (realce) theta",
+                "short": "Bold (realce)"
+            }
+        },
+        "key": "1D6C9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Iota pequeno e corajoso matemático",
+                "alternative": "Iota pequeno ou corajoso",
+                "short": "Iota corajosa"
+            }
+        },
+        "key": "1D6CA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Kappa pequeno em negrito matemático",
+                "alternative": "Kappa pequeno e corajoso",
+                "short": "Kappa ousada"
+            }
+        },
+        "key": "1D6CB"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno lambda",
+                "alternative": "Bold (realce) lambda",
+                "short": "Audaz lambda"
+            }
+        },
+        "key": "1D6CC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno mu",
+                "alternative": "Negrito pequeno",
+                "short": "Negrito"
+            }
+        },
+        "key": "1D6CD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno nu",
+                "alternative": "Negrito pequeno",
+                "short": "Negrito"
+            }
+        },
+        "key": "1D6CE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno xi",
+                "alternative": "Xi corajoso",
+                "short": "Bold xi"
+            }
+        },
+        "key": "1D6CF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno omicron",
+                "alternative": "Omicron pequeno ou corajoso",
+                "short": "Omicron arrojado"
+            }
+        },
+        "key": "1D6D0"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático negrito pequeno pi",
+                "alternative": "Pi negrito pi",
+                "short": "Negrito pi"
+            }
+        },
+        "key": "1D6D1"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Pequeno rho matemático e corajoso",
+                "alternative": "Pequeno rho arrojado",
+                "short": "Negrito rho"
+            }
+        },
+        "key": "1D6D2"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Sigma final pequeno em negrito matemático",
+                "alternative": "Sigma final pequeno e corajoso",
+                "short": "Sigma final arrojada"
+            }
+        },
+        "key": "1D6D3"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Sigma matemático negrito pequeno",
+                "alternative": "Pequeno sigma corajoso",
+                "short": "Sigma arrojado"
+            }
+        },
+        "key": "1D6D4"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno tau",
+                "alternative": "Tau corajoso",
+                "short": "Negrito"
+            }
+        },
+        "key": "1D6D5"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Pequeno crescimento matemático negrito",
+                "alternative": "Pequeno upsilon bold (realce)",
+                "short": "Upsilon arrojado"
+            }
+        },
+        "key": "1D6D6"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno phi",
+                "alternative": "Negrito pequeno phi",
+                "short": "Phi arrojado"
+            }
+        },
+        "key": "1D6D7"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno chi",
+                "alternative": "Chi pequeno e corajoso",
+                "short": "Chi corajoso"
+            }
+        },
+        "key": "1D6D8"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática negrito pequeno psi",
+                "alternative": "Pequeno psi arrojado",
+                "short": "Psi corajoso"
+            }
+        },
+        "key": "1D6D9"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Omega pequeno em negrito matemático",
+                "alternative": "Negrito pequeno omega",
+                "short": "Omega corajoso"
+            }
+        },
+        "key": "1D6DA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Alfa matemático em itálico alfa",
+                "alternative": "Alfa itálico alfa",
+                "short": "Itálico cap alpha"
+            }
+        },
+        "key": "1D6E2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático beta",
+                "alternative": "Italic capital beta",
+                "short": "Italic cap beta"
+            }
+        },
+        "key": "1D6E3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Escala matemática de capital itálico",
+                "alternative": "Escala de capital itálico",
+                "short": "Italic cap gamma"
+            }
+        },
+        "key": "1D6E4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital espanhol itálico delta",
+                "alternative": "Delta de capital itálico",
+                "short": "Italic cap delta"
+            }
+        },
+        "key": "1D6E5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital em itálico matemático epsilon",
+                "alternative": "Itálico capital epsilon",
+                "short": "Italic cap epsilon"
+            }
+        },
+        "key": "1D6E6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático zeta",
+                "alternative": "Itálico capital zeta",
+                "short": "Itálico cap zeta"
+            }
+        },
+        "key": "1D6E7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático eta",
+                "alternative": "Capital itálico eta",
+                "short": "Italic cap eta"
+            }
+        },
+        "key": "1D6E8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Teta de capital itálico matemático",
+                "alternative": "Itálica capital theta",
+                "short": "Itálico tampa theta"
+            }
+        },
+        "key": "1D6E9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital em itálico matemático iota",
+                "alternative": "Itálico capital iota",
+                "short": "Itálico iota"
+            }
+        },
+        "key": "1D6EA"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático kappa",
+                "alternative": "Italic capital kappa",
+                "short": "Italic cap kappa"
+            }
+        },
+        "key": "1D6EB"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático lambda",
+                "alternative": "Italic capital lambda",
+                "short": "Itálico cap lambda"
+            }
+        },
+        "key": "1D6EC"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático mu",
+                "alternative": "Capital itálico",
+                "short": "Itálico cap mu"
+            }
+        },
+        "key": "1D6ED"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático nu",
+                "alternative": "Italic capital nu",
+                "short": "Itálico cap nu"
+            }
+        },
+        "key": "1D6EE"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático xi",
+                "alternative": "Capital itálico xi",
+                "short": "Italic cap xi"
+            }
+        },
+        "key": "1D6EF"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático omicron",
+                "alternative": "Italic capital omicron",
+                "short": "Itálico cap omicron"
+            }
+        },
+        "key": "1D6F0"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático pi",
+                "alternative": "Capital itálico pi",
+                "short": "Itálico cap pi"
+            }
+        },
+        "key": "1D6F1"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático rho",
+                "alternative": "Italic capital rho",
+                "short": "Italic cap rho"
+            }
+        },
+        "key": "1D6F2"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Símbolo de theta de capital itálico matemático",
+                "alternative": "Itálica capital theta",
+                "short": "Itálico tampa theta"
+            }
+        },
+        "key": "1D6F3"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Sigma de capital itálico matemático",
+                "alternative": "Sigma de itálico",
+                "short": "Itálico cap sigma"
+            }
+        },
+        "key": "1D6F4"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático tau",
+                "alternative": "Capital itálico tau",
+                "short": "Italic cap tau"
+            }
+        },
+        "key": "1D6F5"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Estágio matemático em capital itálico",
+                "alternative": "Estalácia do capital itálico",
+                "short": "Encarnação de maiúscula itálica"
+            }
+        },
+        "key": "1D6F6"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático phi",
+                "alternative": "Italic capital phi",
+                "short": "Italic cap phi"
+            }
+        },
+        "key": "1D6F7"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática italica capital chi",
+                "alternative": "Italic capital chi",
+                "short": "Italic cap chi"
+            }
+        },
+        "key": "1D6F8"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático psi",
+                "alternative": "Capital itálico psi",
+                "short": "Itálico cap psi"
+            }
+        },
+        "key": "1D6F9"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Capital itálico matemático omega",
+                "alternative": "Itálico capital omega",
+                "short": "Itálico cap omega"
+            }
+        },
+        "key": "1D6FA"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Alfa pequeno em itálico matemático",
+                "alternative": "Alfa pequeno itálico",
+                "short": "Alfa itálico"
+            }
+        },
+        "key": "1D6FC"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Beta itálico matemático pequeno",
+                "alternative": "Beta itálico pequeno",
+                "short": "Itálico beta"
+            }
+        },
+        "key": "1D6FD"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Gamma matemática em itálico pequeno",
+                "alternative": "Gama pequena itálica",
+                "short": "Gama itálica"
+            }
+        },
+        "key": "1D6FE"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Delta pequeno itálico matemático",
+                "alternative": "Delta pequeno itálico",
+                "short": "Delta itálico"
+            }
+        },
+        "key": "1D6FF"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena epsilon",
+                "alternative": "Itálico epsilon pequeno",
+                "short": "Itálico epsilon"
+            }
+        },
+        "key": "1D700"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Caligrafia matemática em itálico",
+                "alternative": "Itálico pequeno zeta",
+                "short": "Itálico zeta"
+            }
+        },
+        "key": "1D701"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena eta",
+                "alternative": "Itálico pequeno eta",
+                "short": "Italic eta"
+            }
+        },
+        "key": "1D702"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena theta",
+                "alternative": "Itálica pequena theta",
+                "short": "Itálico"
+            }
+        },
+        "key": "1D703"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Icota matemática itálica pequena",
+                "alternative": "Itálico iota pequeno",
+                "short": "Itálico"
+            }
+        },
+        "key": "1D704"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Kappa matemática em itálico pequeno",
+                "alternative": "Itálico kappa pequeno",
+                "short": "Itálico kappa"
+            }
+        },
+        "key": "1D705"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Itálico itálico pequeno lambda",
+                "alternative": "Itálico pequeno lambda",
+                "short": "Itálico lambda"
+            }
+        },
+        "key": "1D706"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena mu",
+                "alternative": "Italic small mu",
+                "short": "Italic mu"
+            }
+        },
+        "key": "1D707"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálico pequeno nu",
+                "alternative": "Italic small nu",
+                "short": "Italic nu"
+            }
+        },
+        "key": "1D708"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica xi pequena",
+                "alternative": "Itálico xi pequeno",
+                "short": "Itálico xi"
+            }
+        },
+        "key": "1D709"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático itálico pequeno omicron",
+                "alternative": "Itálico pequeno omicron",
+                "short": "Itálico omicron"
+            }
+        },
+        "key": "1D70A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena pi",
+                "alternative": "Itálico pequeno pi",
+                "short": "Italic pi"
+            }
+        },
+        "key": "1D70B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Rho",
+                "alternative": "Itálico pequeno rho",
+                "short": "Italic rho"
+            }
+        },
+        "key": "1D70C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Sigma matemático itálico pequeno final",
+                "alternative": "Itálico sigma final pequeno",
+                "short": "Itálico sigma final"
+            }
+        },
+        "key": "1D70D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Sigma matemático em itálico pequeno",
+                "alternative": "Itálico sigma pequeno",
+                "short": "Itálico sigma"
+            }
+        },
+        "key": "1D70E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica pequena tau",
+                "alternative": "Itálico tau pequeno",
+                "short": "Itálico tau"
+            }
+        },
+        "key": "1D70F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Escalonamento matemático em itálico pequeno",
+                "alternative": "Itálico pequeno upsilon",
+                "short": "Itálico upsilon"
+            }
+        },
+        "key": "1D710"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Itálico itálico pequeno phi",
+                "alternative": "Itálico pequeno phi",
+                "short": "Itálico phi"
+            }
+        },
+        "key": "1D711"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática itálica chi pequeno",
+                "alternative": "Italic small chi",
+                "short": "Italic chi"
+            }
+        },
+        "key": "1D712"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Itálico itálico pequeno psi",
+                "alternative": "Italic small psi",
+                "short": "Itálico psi"
+            }
+        },
+        "key": "1D713"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Omega em itálico matemático pequeno",
+                "alternative": "Itálico omega pequeno",
+                "short": "Itálico omega"
+            }
+        },
+        "key": "1D714"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital alpha",
+                "alternative": "Sans serif bold capital alpha",
+                "short": "Sans serif bold cap alpha"
+            }
+        },
+        "key": "1D756"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital beta",
+                "alternative": "Sans serif bold capital beta",
+                "short": "Sans serif bold cap beta"
+            }
+        },
+        "key": "1D757"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital gamma",
+                "alternative": "Sans serif bold capital gamma",
+                "short": "Sans serif bold cap gamma"
+            }
+        },
+        "key": "1D758"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital delta",
+                "alternative": "Sans serif bold capital delta",
+                "short": "Sans serif bold cap delta"
+            }
+        },
+        "key": "1D759"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital epsilon",
+                "alternative": "Sans serif bold capital epsilon",
+                "short": "Sans serif bold cap epsilon"
+            }
+        },
+        "key": "1D75A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif bold capital zeta",
+                "alternative": "Sans serif bold capital zeta",
+                "short": "Sans serif bold cap zeta"
+            }
+        },
+        "key": "1D75B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital eta",
+                "alternative": "Sans serif bold capital eta",
+                "short": "Sans serif bold cap eta"
+            }
+        },
+        "key": "1D75C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold theta capital",
+                "alternative": "Sans serif bold theta capital theta",
+                "short": "Sans serif bold theatre teta"
+            }
+        },
+        "key": "1D75D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital iota",
+                "alternative": "Sans serif bold capital iota",
+                "short": "Sans serif bold cap iota"
+            }
+        },
+        "key": "1D75E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital kappa",
+                "alternative": "Sans serif bold capital kappa",
+                "short": "Sans serif bold cap kappa"
+            }
+        },
+        "key": "1D75F"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital lambda",
+                "alternative": "Sans serif bold capital lambda",
+                "short": "Sans serif bold cap lambda"
+            }
+        },
+        "key": "1D760"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital mu",
+                "alternative": "Sans serif bold capital mu",
+                "short": "Sans serif bold cap mu"
+            }
+        },
+        "key": "1D761"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital nu",
+                "alternative": "Sans serif bold capital nu",
+                "short": "Sans serif bold cap nu"
+            }
+        },
+        "key": "1D762"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital xi",
+                "alternative": "Sans serif bold capital xi",
+                "short": "Sans serif bold cap xi"
+            }
+        },
+        "key": "1D763"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital omicron",
+                "alternative": "Sans serif bold capital omicron",
+                "short": "Sans serif bold cap omicron"
+            }
+        },
+        "key": "1D764"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital pi",
+                "alternative": "Sans serif bold capital pi",
+                "short": "Sans serif bold cap pi"
+            }
+        },
+        "key": "1D765"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital rho",
+                "alternative": "Sans serif bold capital rho",
+                "short": "Sans serif bold cap rho"
+            }
+        },
+        "key": "1D766"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Símbolo matemático sans serif bold capital theta",
+                "alternative": "Sans serif bold theta capital theta",
+                "short": "Sans serif bold theatre teta"
+            }
+        },
+        "key": "1D767"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital sigma",
+                "alternative": "Sans serif bold sigma de capital",
+                "short": "Sans serif negrito"
+            }
+        },
+        "key": "1D768"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital tau",
+                "alternative": "Sans serif bold capital tau",
+                "short": "Sans serif bold cap tau"
+            }
+        },
+        "key": "1D769"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital upsilon",
+                "alternative": "Sans serif bold capital upsilon",
+                "short": "Sans serif bold cap upsilon"
+            }
+        },
+        "key": "1D76A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital phi",
+                "alternative": "Sans serif bold capital phi",
+                "short": "Sans serif bold cap phi"
+            }
+        },
+        "key": "1D76B"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital chi",
+                "alternative": "Sans serif bold capital chi",
+                "short": "Sans serif bold cap chi"
+            }
+        },
+        "key": "1D76C"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital psi",
+                "alternative": "Sans serif bold capital psi",
+                "short": "Sans serif bold cap psi"
+            }
+        },
+        "key": "1D76D"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold capital omega",
+                "alternative": "Sans serif bold capital omega",
+                "short": "Sans serif bold cap omega"
+            }
+        },
+        "key": "1D76E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno alfa",
+                "alternative": "Sans serif negrito pequeno alfa",
+                "short": "Sans serif ousado alfa"
+            }
+        },
+        "key": "1D770"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small beta",
+                "alternative": "Sans serif bold small beta",
+                "short": "Sem serifo ousado beta"
+            }
+        },
+        "key": "1D771"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sem serif negrito gama pequena",
+                "alternative": "Sem serif negrito gama pequena",
+                "short": "Sem serif atrevido"
+            }
+        },
+        "key": "1D772"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif negrito pequeno delta",
+                "alternative": "Sans serif negrito pequeno delta",
+                "short": "Sans serif bold delta"
+            }
+        },
+        "key": "1D773"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sem serif negrito epsilon pequeno",
+                "alternative": "Sans serif epsilon corajoso e pequeno",
+                "short": "Sem serif epsilon arrojado"
+            }
+        },
+        "key": "1D774"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif bold small zeta",
+                "alternative": "Sintético negrito pequeno zeta",
+                "short": "Sans serif bold zeta"
+            }
+        },
+        "key": "1D775"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small eta",
+                "alternative": "Sans serif bold small eta",
+                "short": "Sans serif bold eta"
+            }
+        },
+        "key": "1D776"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold theta pequena",
+                "alternative": "Sintético bold (realce) theta",
+                "short": "Sans serif bold theta"
+            }
+        },
+        "key": "1D777"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif negrito iota pequeno",
+                "alternative": "Sans serif negrito e pequeno iota",
+                "short": "Sans serif bold iota"
+            }
+        },
+        "key": "1D778"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small kappa",
+                "alternative": "Sans serif bold small kappa",
+                "short": "Sans serif bold kappa"
+            }
+        },
+        "key": "1D779"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small lambda",
+                "alternative": "Sans serif bold small lambda",
+                "short": "Sans serif bold lambda"
+            }
+        },
+        "key": "1D77A"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small mu",
+                "alternative": "Sans serif bold small mu",
+                "short": "Sans serif bold mu"
+            }
+        },
+        "key": "1D77B"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif negrito pequeno nu",
+                "alternative": "Sans serif negrito pequeno nu",
+                "short": "Sans serif bold nu"
+            }
+        },
+        "key": "1D77C"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif negrito pequeno xi",
+                "alternative": "Sans serif negrito pequeno xi",
+                "short": "Sans serif bold xi"
+            }
+        },
+        "key": "1D77D"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno omicron",
+                "alternative": "Sans serif negrito pequeno omicron",
+                "short": "Sans serif bold omicron"
+            }
+        },
+        "key": "1D77E"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small pi",
+                "alternative": "Sans serif bold small pi",
+                "short": "Sans serif bold pi"
+            }
+        },
+        "key": "1D77F"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno rho",
+                "alternative": "Sans serif bold rho pequeno",
+                "short": "Sans serif bold rho"
+            }
+        },
+        "key": "1D780"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno sigma final",
+                "alternative": "Sans serif negrito pequeno sigma final",
+                "short": "Sans serif sigma sigiloso"
+            }
+        },
+        "key": "1D781"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno sigma",
+                "alternative": "Sans serif negrito pequeno sigma",
+                "short": "Sans serif bold sigma"
+            }
+        },
+        "key": "1D782"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small tau",
+                "alternative": "Sans serif bold small tau",
+                "short": "Sans serif bold tau"
+            }
+        },
+        "key": "1D783"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif bold small upsilon",
+                "alternative": "Sem serif negrito pequeno upsilon",
+                "short": "Sem serifo em negrito"
+            }
+        },
+        "key": "1D784"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sans serif negrito phi pequeno",
+                "alternative": "Sans serif bold phi pequeno",
+                "short": "Sans serif bold phi"
+            }
+        },
+        "key": "1D785"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sem serif negrito chi pequeno",
+                "alternative": "Sem serif negrito chi pequeno",
+                "short": "Sem serif bold chi"
+            }
+        },
+        "key": "1D786"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemático sans serif negrito pequeno psi",
+                "alternative": "Sem serif negrito pequeno psi",
+                "short": "Sans serif bold psi"
+            }
+        },
+        "key": "1D787"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Matemática sem serif negrito pequeno omega",
+                "alternative": "Sem maleta negrito pequeno omega",
+                "short": "Sem maiúsculas omega"
+            }
+        },
+        "key": "1D788"
+    }
+]

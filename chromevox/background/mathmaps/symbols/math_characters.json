@@ -1,0 +1,383 @@
+[
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu a capital c",
+        "alternative": "casal atingiu a capital c",
+        "short": "duplo atingiu pac c"
+      }
+    },
+    "key": "2102"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "script de pequeno g",
+        "short": "script g"
+      }
+    },
+    "key": "210A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital h",
+        "alternative": "script h",
+        "short": "script pac h"
+      }
+    },
+    "key": "210B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "preto letra maiúscula h",
+        "alternative": "preto letra h",
+        "short": "letra preto pac h"
+      }
+    },
+    "key": "210C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital h",
+        "alternative": "duplo atingiu h",
+        "short": "duplo atingiu pac h"
+      }
+    },
+    "key": "210D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "matemática itálico pequenas h",
+        "alternative": "itálico pequenas h",
+        "short": "itálico h"
+      }
+    },
+    "key": "210E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital i",
+        "alternative": "script que eu",
+        "short": "script pac que eu"
+      }
+    },
+    "key": "2110"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "preto carta capital i",
+        "alternative": "preto letra i",
+        "short": "letra preto cap i"
+      }
+    },
+    "key": "2111"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital de l",
+        "alternative": "script l",
+        "short": "script pac l"
+      }
+    },
+    "key": "2112"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "script l",
+        "short": "script l"
+      }
+    },
+    "key": "2113"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital n",
+        "alternative": "dupla atingiu o n",
+        "short": "dupla atingiu o cap n"
+      }
+    },
+    "key": "2115"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "script de capital p",
+        "alternative": "script p",
+        "short": "script pac p"
+      }
+    },
+    "key": "2118"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital p",
+        "alternative": "duplo atingiu p",
+        "short": "duplo atingiu pac p"
+      }
+    },
+    "key": "2119"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital q",
+        "alternative": "duplo atingiu q",
+        "short": "dupla atingiu o cap q"
+      }
+    },
+    "key": "211A"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital de r",
+        "alternative": "script r",
+        "short": "script pac r"
+      }
+    },
+    "key": "211B"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "preto carta capital r",
+        "alternative": "preto letra r",
+        "short": "letra preto pac r"
+      }
+    },
+    "key": "211C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital r",
+        "alternative": "duplo atingiu r",
+        "short": "duplo atingiu pac r"
+      }
+    },
+    "key": "211D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital z",
+        "alternative": "duplo atingiu z",
+        "short": "duplo atingiu cap z"
+      }
+    },
+    "key": "2124"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "preto carta capital z",
+        "alternative": "preto letra z",
+        "short": "letra preto cap z"
+      }
+    },
+    "key": "2128"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital b",
+        "alternative": "script b",
+        "short": "script pac b"
+      }
+    },
+    "key": "212C"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "preto carta capital c",
+        "alternative": "preto letra c",
+        "short": "letra preto tampa c"
+      }
+    },
+    "key": "212D"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "script de pequenas e",
+        "short": "script e"
+      }
+    },
+    "key": "212F"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital e",
+        "alternative": "script e",
+        "short": "script pac e"
+      }
+    },
+    "key": "2130"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital f",
+        "alternative": "script f",
+        "short": "script pac f"
+      }
+    },
+    "key": "2131"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "script de capital m",
+        "alternative": "script m",
+        "short": "script cap m"
+      }
+    },
+    "key": "2133"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "script pequeno o",
+        "short": "o script"
+      }
+    },
+    "key": "2134"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu pequenas pi",
+        "short": "duplo atingiu pi"
+      }
+    },
+    "key": "213C"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu pequena gama",
+        "short": "duplo atingiu gama"
+      }
+    },
+    "key": "213D"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital gama",
+        "short": "duplo atingiu cap gama"
+      }
+    },
+    "key": "213E"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "casal atingiu a capital de pi",
+        "short": "duplo atingiu cap pi"
+      }
+    },
+    "key": "213F"
+  },
+  {
+    "category": "Sm",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu n ary soma"
+      }
+    },
+    "key": "2140"
+  },
+  {
+    "category": "Lu",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu itálico capital d",
+        "short": "duplo atingiu itálico cap d\u0027"
+      }
+    },
+    "key": "2145"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu itálico pequena d",
+        "short": "duplo atingiu itálico d"
+      }
+    },
+    "key": "2146"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu itálico pequenas e",
+        "short": "duplo atingiu itálico e"
+      }
+    },
+    "key": "2147"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu itálico pequeno eu",
+        "short": "duplo atingiu itálico eu"
+      }
+    },
+    "key": "2148"
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "duplo atingiu itálico pequenas j",
+        "short": "duplo atingiu itálico j"
+      }
+    },
+    "key": "2149"
+  }
+]

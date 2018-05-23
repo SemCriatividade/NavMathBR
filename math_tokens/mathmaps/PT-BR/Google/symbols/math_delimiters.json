@@ -1,0 +1,1696 @@
+[
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parênteses esquerdos",
+                "alternative": "Parênteses de abertura"
+            }
+        },
+        "key": "0028"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parênteses direitos",
+                "alternative": "Parênteses de fechamento"
+            }
+        },
+        "key": "0029"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado esquerdo",
+                "alternative": "Abertura do suporte quadrado"
+            }
+        },
+        "key": "005B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito",
+                "alternative": "Fechamento do suporte quadrado"
+            }
+        },
+        "key": "005D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte curvado esquerdo",
+                "alternative": "Abertura de suporte curly"
+            }
+        },
+        "key": "007B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de rir direito",
+                "alternative": "Fechando o suporte curly"
+            }
+        },
+        "key": "007D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado esquerdo com pena"
+            }
+        },
+        "key": "2045"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito com caneta"
+            }
+        },
+        "key": "2046"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Teto esquerdo"
+            }
+        },
+        "key": "2308"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Teto direito"
+            }
+        },
+        "key": "2309"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Piso esquerdo"
+            }
+        },
+        "key": "230A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Piso direito"
+            }
+        },
+        "key": "230B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Colheita inferior direita"
+            }
+        },
+        "key": "230C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Colheita inferior esquerda"
+            }
+        },
+        "key": "230D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Colheita superior direita"
+            }
+        },
+        "key": "230E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Colheita superior esquerda"
+            }
+        },
+        "key": "230F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto superior esquerdo"
+            }
+        },
+        "key": "231C"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto superior direito"
+            }
+        },
+        "key": "231D"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Canto inferior esquerdo"
+            }
+        },
+        "key": "231E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "canto inferior direito"
+            }
+        },
+        "key": "231F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Integral da metade superior"
+            }
+        },
+        "key": "2320"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parte inferior da metade integral"
+            }
+        },
+        "key": "2321"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ângulo de ângulo esquerdo",
+                "alternative": "sutiã"
+            }
+        },
+        "key": "2329"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira de ângulo apontando para a direita",
+                "alternative": "Ket"
+            }
+        },
+        "key": "232A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parênteses esquerdo gancho superior"
+            }
+        },
+        "key": "239B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão de parêntese esquerdo"
+            }
+        },
+        "key": "239C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parênteses esquerdos gancho inferior"
+            }
+        },
+        "key": "239D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parêntese direito gancho superior"
+            }
+        },
+        "key": "239E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão de parêntese direito"
+            }
+        },
+        "key": "239F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parênteses direitos gancho inferior"
+            }
+        },
+        "key": "23A0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto superior esquerdo canto superior"
+            }
+        },
+        "key": "23A1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão do suporte quadrado esquerdo"
+            }
+        },
+        "key": "23A2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto inferior do suporte quadrado esquerdo"
+            }
+        },
+        "key": "23A3"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto superior direito canto superior"
+            }
+        },
+        "key": "23A4"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão do suporte quadrado direito"
+            }
+        },
+        "key": "23A5"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Canto inferior do suporte quadrado direito"
+            }
+        },
+        "key": "23A6"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Gancho superior esquerdo"
+            }
+        },
+        "key": "23A7"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Pé esquerdo peça de meio meio"
+            }
+        },
+        "key": "23A8"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Gancho inferior esquerdo"
+            }
+        },
+        "key": "23A9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão de suporte curly"
+            }
+        },
+        "key": "23AA"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira superior com perna"
+            }
+        },
+        "key": "23AB"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira direita peça intermediária"
+            }
+        },
+        "key": "23AC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira curvado direito gancho inferior"
+            }
+        },
+        "key": "23AD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão integral"
+            }
+        },
+        "key": "23AE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Extensão de linha horizontal"
+            }
+        },
+        "key": "23AF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Seção de suporte superior superior ou inferior direito"
+            }
+        },
+        "key": "23B0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Seção de suporte curvado superior direito ou inferior"
+            }
+        },
+        "key": "23B1"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Top sumário"
+            }
+        },
+        "key": "23B2"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Fundo inferior"
+            }
+        },
+        "key": "23B3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado superior"
+            }
+        },
+        "key": "23B4"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado inferior"
+            }
+        },
+        "key": "23B5"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado inferior sobre o suporte quadrado superior"
+            }
+        },
+        "key": "23B6"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Fundo radical do símbolo"
+            }
+        },
+        "key": "23B7"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical esquerda da caixa"
+            }
+        },
+        "key": "23B8"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Linha vertical direita"
+            }
+        },
+        "key": "23B9"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parênteses superiores"
+            }
+        },
+        "key": "23DC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Parênteses inferiores"
+            }
+        },
+        "key": "23DD"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira superior"
+            }
+        },
+        "key": "23DE"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira de fundo"
+            }
+        },
+        "key": "23DF"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha de tartaruga"
+            }
+        },
+        "key": "23E0"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha de tartaruga inferior"
+            }
+        },
+        "key": "23E1"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de parentesco médio esquerdo"
+            }
+        },
+        "key": "2768"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de parentesco médio direito"
+            }
+        },
+        "key": "2769"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de parentesis esquerdo achatado médio"
+            }
+        },
+        "key": "276A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de parêntese direito achatado médio"
+            }
+        },
+        "key": "276B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de ângulo angular médio esquerdo"
+            }
+        },
+        "key": "276C"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de ângulo de orientação médio direito"
+            }
+        },
+        "key": "276D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Alto ângulo apontar para a esquerda"
+            }
+        },
+        "key": "276E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ângulo de ponta forte ângulo de cotação"
+            }
+        },
+        "key": "276F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de ângulo angular alto pesado"
+            }
+        },
+        "key": "2770"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de ângulo de inclinação direito alto ângulo"
+            }
+        },
+        "key": "2771"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de suporte de concha de tartaruga esquerdo esquerdo"
+            }
+        },
+        "key": "2772"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de suporte de concha de tartaruga clara direita"
+            }
+        },
+        "key": "2773"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de suporte curvado médio esquerdo"
+            }
+        },
+        "key": "2774"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Ornamento de suporte de fralda de médio direito"
+            }
+        },
+        "key": "2775"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Delimitador do saco em forma de S"
+            }
+        },
+        "key": "27C5"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Delimitador de saco em forma de S"
+            }
+        },
+        "key": "27C6"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado branco matemático esquerdo"
+            }
+        },
+        "key": "27E6"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado branco matemático direito"
+            }
+        },
+        "key": "27E7"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular matemático"
+            }
+        },
+        "key": "27E8"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular correto matemático"
+            }
+        },
+        "key": "27E9"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular duplo matemático"
+            }
+        },
+        "key": "27EA"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular duplo matemático"
+            }
+        },
+        "key": "27EB"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha de tartaruga branca matemática esquerda"
+            }
+        },
+        "key": "27EC"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de casca de tartaruga branca matemática direita"
+            }
+        },
+        "key": "27ED"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parêntese plano aplanado matemático"
+            }
+        },
+        "key": "27EE"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parênteses aplainados de direita matemática"
+            }
+        },
+        "key": "27EF"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira de perna branca esquerda"
+            }
+        },
+        "key": "2983"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira de rir branco direito"
+            }
+        },
+        "key": "2984"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parênteses brancos esquerdos"
+            }
+        },
+        "key": "2985"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parênteses brancos direitos"
+            }
+        },
+        "key": "2986"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de imagem esquerdo da notação Z"
+            }
+        },
+        "key": "2987"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parêntese de imagem direita da notação Z"
+            }
+        },
+        "key": "2988"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Notação Z restante braçadeira"
+            }
+        },
+        "key": "2989"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de ligação direta de notação Z"
+            }
+        },
+        "key": "298A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado esquerdo com barraca inferior"
+            }
+        },
+        "key": "298B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito com barra inferior"
+            }
+        },
+        "key": "298C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado esquerdo com tiquetaque no canto superior"
+            }
+        },
+        "key": "298D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito com tiquetaque no canto inferior"
+            }
+        },
+        "key": "298E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado esquerdo com tiquetaque no canto inferior"
+            }
+        },
+        "key": "298F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito com tiquetaque no canto superior"
+            }
+        },
+        "key": "2990"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de ângulo esquerdo com ponto"
+            }
+        },
+        "key": "2991"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular direito com ponto"
+            }
+        },
+        "key": "2992"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Arco esquerdo inferior ao suporte"
+            }
+        },
+        "key": "2993"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Arco direito superior ao suporte"
+            }
+        },
+        "key": "2994"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Arco duplo esquerdo maior do que o suporte"
+            }
+        },
+        "key": "2995"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Arco duplo direito inferior ao suporte"
+            }
+        },
+        "key": "2996"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha de tartaruga negra"
+            }
+        },
+        "key": "2997"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira de concha de tartaruga negra direita"
+            }
+        },
+        "key": "2998"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Esquerdo muro vacilante"
+            }
+        },
+        "key": "29D8"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Vedação aceso"
+            }
+        },
+        "key": "29D9"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Deixou uma cerca dupla e ondulada"
+            }
+        },
+        "key": "29DA"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Cerca dobro direito"
+            }
+        },
+        "key": "29DB"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Esquerda apontando ângulo curvo"
+            }
+        },
+        "key": "29FC"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira angular com curva direita"
+            }
+        },
+        "key": "29FD"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Amortecedor esquerdo superior esquerdo"
+            }
+        },
+        "key": "2E22"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Amortecedor superior direito"
+            }
+        },
+        "key": "2E23"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Meio suporte do meio esquerdo"
+            }
+        },
+        "key": "2E24"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Meio suporte meio direito"
+            }
+        },
+        "key": "2E25"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Esquerda de lado, suporte"
+            }
+        },
+        "key": "2E26"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Lado direito do pé"
+            }
+        },
+        "key": "2E27"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parênteses duplos"
+            }
+        },
+        "key": "2E28"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parênteses duais corretos"
+            }
+        },
+        "key": "2E29"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Ângulo de ângulo esquerdo",
+                "alternative": "Ângulo de ângulo"
+            }
+        },
+        "key": "3008"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular direito",
+                "alternative": "Esguicho de fechamento"
+            }
+        },
+        "key": "3009"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte angular duplo esquerdo",
+                "alternative": "Abertura do suporte angular duplo"
+            }
+        },
+        "key": "300A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Braçadeira angular direita",
+                "alternative": "Fechando o suporte angular duplo"
+            }
+        },
+        "key": "300B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de canto esquerdo",
+                "alternative": "Abertura do suporte de canto"
+            }
+        },
+        "key": "300C"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte do canto direito",
+                "alternative": "Fechando o suporte de canto"
+            }
+        },
+        "key": "300D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de canto branco esquerdo",
+                "alternative": "Abertura do suporte de canto branco"
+            }
+        },
+        "key": "300E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de canto branco direito",
+                "alternative": "Fechando o suporte de canto branco"
+            }
+        },
+        "key": "300F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte lenticular preto esquerdo",
+                "alternative": "Abertura de suporte lenticular preto"
+            }
+        },
+        "key": "3010"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte lenticular preto direito",
+                "alternative": "Fechando o suporte lenticular preto"
+            }
+        },
+        "key": "3011"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha da tartaruga esquerda",
+                "alternative": "Abertura do suporte da concha de tartaruga"
+            }
+        },
+        "key": "3014"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de concha de tartaruga direita",
+                "alternative": "Fechando o suporte da concha da tartaruga"
+            }
+        },
+        "key": "3015"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte lenticular branco esquerdo",
+                "alternative": "Abertura de suporte lenticular branco"
+            }
+        },
+        "key": "3016"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte lenticular branco direito",
+                "alternative": "Fechando o suporte lenticular branco"
+            }
+        },
+        "key": "3017"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de casca de tartaruga branca esquerda",
+                "alternative": "Abertura do suporte de concha de tartaruga branca"
+            }
+        },
+        "key": "3018"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte de casca de tartaruga branca direita",
+                "alternative": "Fechando suporte de casca de tartaruga branca"
+            }
+        },
+        "key": "3019"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado branco esquerdo",
+                "alternative": "Abertura do suporte quadrado branco"
+            }
+        },
+        "key": "301A"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado branco direito",
+                "alternative": "Fechando o suporte quadrado branco"
+            }
+        },
+        "key": "301B"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Cotação de inversa duplo"
+            }
+        },
+        "key": "301D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Comorte de primeiras primeiras"
+            }
+        },
+        "key": "301E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Cotação baixa dobre prime"
+            }
+        },
+        "key": "301F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parentesco esquerdo ornamentado"
+            }
+        },
+        "key": "FD3E"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parentesco direito ornamentado"
+            }
+        },
+        "key": "FD3F"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte lenticular branco esquerdo vertical"
+            }
+        },
+        "key": "FE17"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para suporte lenticular vertical branco direito"
+            }
+        },
+        "key": "FE18"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para parênteses verticais esquerdos",
+                "alternative": "Glifo para parênteses de abertura vertical"
+            }
+        },
+        "key": "FE35"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para parênteses verticais direitos",
+                "alternative": "Glifo para parênteses de fechamento vertical"
+            }
+        },
+        "key": "FE36"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para suporte vertical com perna esquerda",
+                "alternative": "Glifo para suporte de curvatura de abertura vertical"
+            }
+        },
+        "key": "FE37"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para suporte vertical vertical",
+                "alternative": "Glifo para suporte de curvatura de fechamento vertical"
+            }
+        },
+        "key": "FE38"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte vertical vertical da tartaruga esquerda",
+                "alternative": "Glifo para suporte de concha de tartaruga de abertura vertical"
+            }
+        },
+        "key": "FE39"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para suporte vertical vertical da tartaruga direita",
+                "alternative": "Glifo para suporte de concha de tartaruga vertical"
+            }
+        },
+        "key": "FE3A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte lenticular preto esquerdo vertical",
+                "alternative": "Glifo para suporte vertical lenticular de abertura vertical"
+            }
+        },
+        "key": "FE3B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para suporte lenticular preto vertical direito",
+                "alternative": "Glifo para fechamento vertical suporte lenticular preto"
+            }
+        },
+        "key": "FE3C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte angular vertical esquerdo",
+                "alternative": "Glifo para ângulo duplo de abertura vertical"
+            }
+        },
+        "key": "FE3D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte angular vertical direito",
+                "alternative": "Glyph para fechamento vertical duplo ângulo de suporte"
+            }
+        },
+        "key": "FE3E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte angular vertical",
+                "alternative": "Glifo para ângulo de abertura vertical"
+            }
+        },
+        "key": "FE3F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte vertical vertical",
+                "alternative": "Glifo para o suporte angular de fechamento vertical"
+            }
+        },
+        "key": "FE40"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte do canto esquerdo vertical",
+                "alternative": "Glifo para o suporte de canto de abertura vertical"
+            }
+        },
+        "key": "FE41"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte vertical do canto direito",
+                "alternative": "Glyph para suporte de canto de fechamento vertical"
+            }
+        },
+        "key": "FE42"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte de canto branco vertical esquerdo",
+                "alternative": "Glifo para o suporte de canto branco de abertura vertical"
+            }
+        },
+        "key": "FE43"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte de canto vertical direito branco",
+                "alternative": "Glifo para fechamento vertical suporte de canto branco"
+            }
+        },
+        "key": "FE44"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte quadrado vertical esquerdo"
+            }
+        },
+        "key": "FE47"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Formulário de apresentação para o suporte vertical vertical"
+            }
+        },
+        "key": "FE48"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Pequeno parêntese esquerdo",
+                "alternative": "Pequenos parênteses de abertura"
+            }
+        },
+        "key": "FE59"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Pequeno parêntese direito",
+                "alternative": "Pequeno parêntesis de fechamento"
+            }
+        },
+        "key": "FE5A"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Pequeno suporte curvado esquerdo",
+                "alternative": "Pequeno suporte de curvatura de abertura"
+            }
+        },
+        "key": "FE5B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Pequeno suporte de rir direito",
+                "alternative": "Pequeno suporte de curvatura de fechamento"
+            }
+        },
+        "key": "FE5C"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Pequeno suporte de casca de tartaruga esquerda",
+                "alternative": "Pequeno estrangulamento de tartaruga"
+            }
+        },
+        "key": "FE5D"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Pequeno suporte de concha de tartaruga direita",
+                "alternative": "Pequeno suporte de casca de tartaruga de fechamento"
+            }
+        },
+        "key": "FE5E"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Parênteses esquerdo integral",
+                "alternative": "Parênteses de abertura total"
+            }
+        },
+        "key": "FF08"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth parênteses direitos",
+                "alternative": "Parênteses de fechamento de largura"
+            }
+        },
+        "key": "FF09"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Largura total do suporte quadrado esquerdo",
+                "alternative": "Suporte quadrado de abertura total"
+            }
+        },
+        "key": "FF3B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Suporte quadrado direito",
+                "alternative": "Suporte quadrado de fechamento total"
+            }
+        },
+        "key": "FF3D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Suporte de curvatura esquerdo",
+                "alternative": "Suporte de curvatura de abertura total"
+            }
+        },
+        "key": "FF5B"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth braçadeira de perna direita",
+                "alternative": "Suporte de curvatura de fechamento de largura"
+            }
+        },
+        "key": "FF5D"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Fullwidth deixou parênteses brancos"
+            }
+        },
+        "key": "FF5F"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Parênteses brancos direito"
+            }
+        },
+        "key": "FF60"
+    },
+    {
+        "category": "Ps",
+        "mappings": {
+            "default": {
+                "default": "Largura do suporte do canto esquerdo",
+                "alternative": "Suporte de canto de abertura de meio largura"
+            }
+        },
+        "key": "FF62"
+    },
+    {
+        "category": "Pe",
+        "mappings": {
+            "default": {
+                "default": "Largura do suporte do canto direito",
+                "alternative": "Largura do suporte de canto de fechamento"
+            }
+        },
+        "key": "FF63"
+    }
+]

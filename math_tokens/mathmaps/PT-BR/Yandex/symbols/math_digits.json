@@ -1,0 +1,2846 @@
+[
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "dígito zero",
+        "short": "zero"
+      }
+    },
+    "key": "0030"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "dígitos de um",
+        "short": "um"
+      }
+    },
+    "key": "0031"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "dois dígitos",
+        "short": "dois"
+      }
+    },
+    "key": "0032"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "três dígitos",
+        "short": "três"
+      }
+    },
+    "key": "0033"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "quatro dígitos",
+        "short": "quatro"
+      }
+    },
+    "key": "0034"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "cinco dígitos",
+        "short": "cinco"
+      }
+    },
+    "key": "0035"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "seis dígitos",
+        "short": "seis"
+      }
+    },
+    "key": "0036"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "sete dígitos",
+        "short": "sete"
+      }
+    },
+    "key": "0037"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "dígito oito",
+        "short": "oito"
+      }
+    },
+    "key": "0038"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "dígito nove",
+        "short": "nove"
+      }
+    },
+    "key": "0039"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "expoente de dois dígitos",
+        "alternative": "elevado a dois",
+        "short": "praça"
+      }
+    },
+    "key": "00B2"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito três dígitos",
+        "alternative": "elevado a três",
+        "short": "cubo"
+      }
+    },
+    "key": "00B3"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito um dígito",
+        "alternative": "sobrescrito um",
+        "short": "uma super"
+      }
+    },
+    "key": "00B9"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um quarto",
+        "alternative": "fração de um quarto",
+        "short": "um quarto"
+      }
+    },
+    "key": "00BC"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar meio",
+        "alternative": "meio",
+        "short": "metade"
+      }
+    },
+    "key": "00BD"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração três quartos",
+        "alternative": "fração três quartos",
+        "short": "três quartos"
+      }
+    },
+    "key": "00BE"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito zero",
+        "short": "super zero"
+      }
+    },
+    "key": "2070"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito quatro dígitos",
+        "alternative": "sobrescrito quatro",
+        "short": "super quatro"
+      }
+    },
+    "key": "2074"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito cinco dígitos",
+        "alternative": "sobrescrito cinco",
+        "short": "cinco super"
+      }
+    },
+    "key": "2075"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito seis dígitos",
+        "alternative": "sobrescrito seis",
+        "short": "super seis"
+      }
+    },
+    "key": "2076"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito sete dígitos",
+        "alternative": "sobrescrito sete",
+        "short": "super seven"
+      }
+    },
+    "key": "2077"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito oito dígitos",
+        "alternative": "sobrescrito oito",
+        "short": "super oito"
+      }
+    },
+    "key": "2078"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "sobrescrito nove dígitos",
+        "alternative": "sobrescrito nove",
+        "short": "super nove"
+      }
+    },
+    "key": "2079"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "subscrito dígito zero",
+        "alternative": "subscrito zero",
+        "short": "sub-zero"
+      }
+    },
+    "key": "2080"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "inferior à de dígitos de um",
+        "alternative": "índice",
+        "short": "um sub"
+      }
+    },
+    "key": "2081"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "índice de dois dígitos",
+        "alternative": "subscrito dois",
+        "short": "sub dois"
+      }
+    },
+    "key": "2082"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "subscrito três dígitos",
+        "alternative": "subscrito três",
+        "short": "sub três"
+      }
+    },
+    "key": "2083"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "inferior à linha de quatro dígitos",
+        "alternative": "subscrito quatro",
+        "short": "sub quatro"
+      }
+    },
+    "key": "2084"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "índice de cinco dígitos",
+        "alternative": "subscrito cinco",
+        "short": "sub cinco"
+      }
+    },
+    "key": "2085"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "índice de seis dígitos",
+        "alternative": "subscrito seis",
+        "short": "sub seis"
+      }
+    },
+    "key": "2086"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "subscrito sete dígitos",
+        "alternative": "subscrito sete",
+        "short": "sub sete"
+      }
+    },
+    "key": "2087"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "subscrito oito dígitos",
+        "alternative": "subscrito oito",
+        "short": "sub oito"
+      }
+    },
+    "key": "2088"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "índice de nove dígitos",
+        "alternative": "índice de nove",
+        "short": "sub nove"
+      }
+    },
+    "key": "2089"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um sétimo",
+        "short": "um sétimo"
+      }
+    },
+    "key": "2150"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um nono",
+        "short": "um nono"
+      }
+    },
+    "key": "2151"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um décimo",
+        "short": "um décimo"
+      }
+    },
+    "key": "2152"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um terço",
+        "alternative": "fração de um terço",
+        "short": "um terço"
+      }
+    },
+    "key": "2153"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de dois terços",
+        "alternative": "fração de dois terços",
+        "short": "dois terços"
+      }
+    },
+    "key": "2154"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um quinto",
+        "alternative": "fração de um quinto",
+        "short": "um quinto"
+      }
+    },
+    "key": "2155"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de dois quintos",
+        "alternative": "fração de dois quintos",
+        "short": "dois quintos"
+      }
+    },
+    "key": "2156"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de três quintos",
+        "alternative": "fração três quintos",
+        "short": "três quintos"
+      }
+    },
+    "key": "2157"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de quatro quintos",
+        "alternative": "fração de quatro quintos",
+        "short": "quatro quintos"
+      }
+    },
+    "key": "2158"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um sexto",
+        "alternative": "fração de um sexto",
+        "short": "um sexto"
+      }
+    },
+    "key": "2159"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de cinco sextos",
+        "alternative": "fração de cinco sextos",
+        "short": "cinco sextos"
+      }
+    },
+    "key": "215A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de um oitavo de",
+        "alternative": "fração de um oitavo de",
+        "short": "um oitavo"
+      }
+    },
+    "key": "215B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração três oitavos",
+        "alternative": "fração três oitavos",
+        "short": "três oitavos"
+      }
+    },
+    "key": "215C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração de cinco oitavos",
+        "alternative": "fração de cinco oitavos",
+        "short": "cinco oitavos"
+      }
+    },
+    "key": "215D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração sete oitavos",
+        "alternative": "fração sete oitavos",
+        "short": "sete oitavos"
+      }
+    },
+    "key": "215E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "fração de numerador um",
+        "short": "numerador um"
+      }
+    },
+    "key": "215F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "vulgar fração zero terços",
+        "short": "zero terços"
+      }
+    },
+    "key": "2189"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou um dígito",
+        "short": "circulou um"
+      }
+    },
+    "key": "2460"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de dois dígitos",
+        "short": "circulou dois"
+      }
+    },
+    "key": "2461"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de três dígitos",
+        "short": "circulou três"
+      }
+    },
+    "key": "2462"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de quatro dígitos",
+        "short": "circulado de quatro"
+      }
+    },
+    "key": "2463"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de cinco dígitos",
+        "short": "circulado de cinco"
+      }
+    },
+    "key": "2464"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de seis dígitos",
+        "short": "circulado de seis"
+      }
+    },
+    "key": "2465"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de sete dígitos",
+        "short": "circulou sete"
+      }
+    },
+    "key": "2466"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulado de oito dígitos",
+        "short": "circulado de oito"
+      }
+    },
+    "key": "2467"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou nove dígitos",
+        "short": "circulou nove"
+      }
+    },
+    "key": "2468"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número dez",
+        "short": "circulou dez"
+      }
+    },
+    "key": "2469"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número onze",
+        "short": "circulou onze"
+      }
+    },
+    "key": "246A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de doze",
+        "short": "círculo de doze"
+      }
+    },
+    "key": "246B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número treze",
+        "short": "circulou treze"
+      }
+    },
+    "key": "246C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número catorze",
+        "short": "circulado de catorze"
+      }
+    },
+    "key": "246D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de quinze",
+        "short": "circulado de quinze"
+      }
+    },
+    "key": "246E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de dezesseis",
+        "short": "círculo de dezesseis"
+      }
+    },
+    "key": "246F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número dezessete",
+        "short": "circulou dezessete"
+      }
+    },
+    "key": "2470"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de dezoito",
+        "short": "circulado de dezoito"
+      }
+    },
+    "key": "2471"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de dezenove",
+        "short": "circulou dezenove"
+      }
+    },
+    "key": "2472"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número vinte",
+        "short": "circulado de vinte"
+      }
+    },
+    "key": "2473"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized um dígito",
+        "short": "parenthesized um"
+      }
+    },
+    "key": "2474"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized dois dígitos",
+        "short": "parenthesized dois"
+      }
+    },
+    "key": "2475"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized três dígitos",
+        "short": "parenthesized três"
+      }
+    },
+    "key": "2476"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized quatro dígitos",
+        "short": "parenthesized quatro"
+      }
+    },
+    "key": "2477"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized cinco dígitos",
+        "short": "parenthesized cinco"
+      }
+    },
+    "key": "2478"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized seis dígitos",
+        "short": "parenthesized seis"
+      }
+    },
+    "key": "2479"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized sete dígitos",
+        "short": "parenthesized sete"
+      }
+    },
+    "key": "247A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized oito dígitos",
+        "short": "parenthesized oito"
+      }
+    },
+    "key": "247B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized nove dígitos",
+        "short": "parenthesized nove"
+      }
+    },
+    "key": "247C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número dez",
+        "short": "parenthesized dez"
+      }
+    },
+    "key": "247D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número onze",
+        "short": "parenthesized onze"
+      }
+    },
+    "key": "247E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número doze",
+        "short": "parenthesized doze"
+      }
+    },
+    "key": "247F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número treze",
+        "short": "parenthesized treze"
+      }
+    },
+    "key": "2480"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número catorze",
+        "short": "parenthesized quatorze"
+      }
+    },
+    "key": "2481"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número quinze",
+        "short": "parenthesized quinze"
+      }
+    },
+    "key": "2482"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número dezesseis",
+        "short": "parenthesized dezesseis"
+      }
+    },
+    "key": "2483"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número dezessete",
+        "short": "parenthesized dezessete"
+      }
+    },
+    "key": "2484"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número dezoito",
+        "short": "parenthesized dezoito"
+      }
+    },
+    "key": "2485"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número dezenove",
+        "short": "parenthesized dezenove"
+      }
+    },
+    "key": "2486"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "parenthesized número vinte",
+        "short": "parenthesized vinte"
+      }
+    },
+    "key": "2487"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígitos de um inteiro parar",
+        "alternative": "dígitos de um período de",
+        "short": "um período"
+      }
+    },
+    "key": "2488"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígitos de duas parar",
+        "alternative": "dígitos duas período",
+        "short": "duas período"
+      }
+    },
+    "key": "2489"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígitos três parar",
+        "alternative": "dígitos período de três",
+        "short": "período de três"
+      }
+    },
+    "key": "248A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito quatro parar",
+        "alternative": "dígitos período de quatro",
+        "short": "quatro período de"
+      }
+    },
+    "key": "248B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito cinco parar",
+        "alternative": "dígito cinco período",
+        "short": "cinco período"
+      }
+    },
+    "key": "248C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito seis parar",
+        "alternative": "dígito seis período",
+        "short": "seis período"
+      }
+    },
+    "key": "248D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito sete parar",
+        "alternative": "dígitos de sete período",
+        "short": "sete período"
+      }
+    },
+    "key": "248E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito oito paragem completa",
+        "alternative": "dígito oito período",
+        "short": "oito período"
+      }
+    },
+    "key": "248F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito nove paragem completa",
+        "alternative": "dígito nove período",
+        "short": "nove período"
+      }
+    },
+    "key": "2490"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "o número dez total parar",
+        "alternative": "o número dez do período de",
+        "short": "dez período de"
+      }
+    },
+    "key": "2491"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "o número onze paragem completa",
+        "alternative": "o número onze período",
+        "short": "onze período"
+      }
+    },
+    "key": "2492"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "o número doze paragem completa",
+        "alternative": "o número doze período",
+        "short": "doze período"
+      }
+    },
+    "key": "2493"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "o número treze, ponto",
+        "alternative": "o número treze período",
+        "short": "treze período"
+      }
+    },
+    "key": "2494"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número catorze, ponto",
+        "alternative": "número catorze período",
+        "short": "quatorze período"
+      }
+    },
+    "key": "2495"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número de quinze, parada completa",
+        "alternative": "número quinze período",
+        "short": "quinze período"
+      }
+    },
+    "key": "2496"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número de dezesseis anos completos parar",
+        "alternative": "número de dezesseis período",
+        "short": "dezesseis período"
+      }
+    },
+    "key": "2497"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número dezessete paragem completa",
+        "alternative": "número dezessete período",
+        "short": "dezessete período"
+      }
+    },
+    "key": "2498"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número de dezoito anos completos parar",
+        "alternative": "número dezoito período",
+        "short": "dezoito período"
+      }
+    },
+    "key": "2499"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número dezenove paragem completa",
+        "alternative": "número dezenove período",
+        "short": "dezenove período"
+      }
+    },
+    "key": "249A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "número vinte e completa parar",
+        "alternative": "número de vinte período",
+        "short": "vinte período"
+      }
+    },
+    "key": "249B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou dígito zero",
+        "short": "circulou zero"
+      }
+    },
+    "key": "24EA"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou número onze",
+        "short": "negativo circulou onze"
+      }
+    },
+    "key": "24EB"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou em número de doze",
+        "short": "negativo círculo de doze"
+      }
+    },
+    "key": "24EC"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou número treze",
+        "short": "negativo circulou treze"
+      }
+    },
+    "key": "24ED"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou número catorze",
+        "short": "negativo circulou quatorze"
+      }
+    },
+    "key": "24EE"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou em número de quinze",
+        "short": "negativo circulou quinze"
+      }
+    },
+    "key": "24EF"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou em número de dezesseis",
+        "short": "negativo círculo de dezesseis"
+      }
+    },
+    "key": "24F0"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou número dezessete",
+        "short": "negativo circulou dezessete"
+      }
+    },
+    "key": "24F1"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou em número de dezoito",
+        "short": "negativo circulou dezoito"
+      }
+    },
+    "key": "24F2"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou em número de dezenove",
+        "short": "negativo circulou dezenove"
+      }
+    },
+    "key": "24F3"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou número vinte",
+        "short": "negativo circulou vinte"
+      }
+    },
+    "key": "24F4"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou um dígito",
+        "short": "casal circulou um"
+      }
+    },
+    "key": "24F5"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou de dois dígitos",
+        "short": "casal circulou dois"
+      }
+    },
+    "key": "24F6"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou de três dígitos",
+        "short": "casal circulou três"
+      }
+    },
+    "key": "24F7"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou de quatro dígitos",
+        "short": "casal circulou de quatro"
+      }
+    },
+    "key": "24F8"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou de cinco dígitos",
+        "short": "casal circulou de cinco"
+      }
+    },
+    "key": "24F9"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "duplo círculo de seis dígitos",
+        "short": "duplo círculo de seis"
+      }
+    },
+    "key": "24FA"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou de sete dígitos",
+        "short": "casal circulou sete"
+      }
+    },
+    "key": "24FB"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "duplo círculo de oito dígitos",
+        "short": "duplo círculo de oito"
+      }
+    },
+    "key": "24FC"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou nove dígitos",
+        "short": "casal circulou nove"
+      }
+    },
+    "key": "24FD"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "casal circulou número dez",
+        "short": "casal circulou dez"
+      }
+    },
+    "key": "24FE"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "negativo circulou dígito zero",
+        "short": "negativo circulou zero"
+      }
+    },
+    "key": "24FF"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou um dígito",
+        "alternative": "inverso circulou um dígito",
+        "short": "inverso circulou um"
+      }
+    },
+    "key": "2776"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulado de dois dígitos",
+        "alternative": "inverso, circulado de dois dígitos",
+        "short": "inverso circulou dois"
+      }
+    },
+    "key": "2777"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou três dígitos",
+        "alternative": "inverso circulou três dígitos",
+        "short": "inverso circulou três"
+      }
+    },
+    "key": "2778"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulado de quatro dígitos",
+        "alternative": "inverso, circulado de quatro dígitos",
+        "short": "inverso circulou quatro"
+      }
+    },
+    "key": "2779"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulado de cinco dígitos",
+        "alternative": "inverso, circulado de cinco dígitos",
+        "short": "inverso circulou cinco"
+      }
+    },
+    "key": "277A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo círculo de seis dígitos",
+        "alternative": "inverso círculo de seis dígitos",
+        "short": "inverso circulou seis"
+      }
+    },
+    "key": "277B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo círculo de sete dígitos",
+        "alternative": "inverso círculo de sete dígitos",
+        "short": "inverso circulou sete"
+      }
+    },
+    "key": "277C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo círculo de oito dígitos",
+        "alternative": "inverso círculo de oito dígitos",
+        "short": "inverso circulou oito"
+      }
+    },
+    "key": "277D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou nove dígitos",
+        "alternative": "inverso circulou nove dígitos",
+        "short": "inverso circulou nove"
+      }
+    },
+    "key": "277E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou número dez",
+        "alternative": "inverso circulou número dez",
+        "short": "inverso circulou dez"
+      }
+    },
+    "key": "277F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif um dígito",
+        "alternative": "circulou, sans-serif um dígito",
+        "short": "circulou um"
+      }
+    },
+    "key": "2780"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif dois dígitos",
+        "alternative": "circulou, sans-serif dois dígitos",
+        "short": "circulou dois"
+      }
+    },
+    "key": "2781"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif três dígitos",
+        "alternative": "circulou, sans-serif três dígitos",
+        "short": "circulou três"
+      }
+    },
+    "key": "2782"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif quatro dígitos",
+        "alternative": "circulou, sans-serif quatro dígitos",
+        "short": "circulado de quatro"
+      }
+    },
+    "key": "2783"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif cinco dígitos",
+        "alternative": "circulou, sans-serif cinco dígitos",
+        "short": "circulado de cinco"
+      }
+    },
+    "key": "2784"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif seis dígitos",
+        "alternative": "circulou, sans-serif seis dígitos",
+        "short": "circulado de seis"
+      }
+    },
+    "key": "2785"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif sete dígitos",
+        "alternative": "circulou, sans-serif sete dígitos",
+        "short": "circulou sete"
+      }
+    },
+    "key": "2786"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif oito dígitos",
+        "alternative": "circulou, sans-serif oito dígitos",
+        "short": "circulado de oito"
+      }
+    },
+    "key": "2787"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif nove dígitos",
+        "alternative": "circulou, sans-serif nove dígitos",
+        "short": "circulou nove"
+      }
+    },
+    "key": "2788"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat circulou sans serif número dez",
+        "alternative": "circulou, sans-serif número dez",
+        "short": "circulou dez"
+      }
+    },
+    "key": "2789"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif um dígito",
+        "alternative": "inverso circulou sans serif um dígito",
+        "short": "inverso circulou um"
+      }
+    },
+    "key": "278A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif dois dígitos",
+        "alternative": "inverso circulou sans serif dois dígitos",
+        "short": "inverso circulou dois"
+      }
+    },
+    "key": "278B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif três dígitos",
+        "alternative": "inverso circulou sans serif três dígitos",
+        "short": "inverso circulou três"
+      }
+    },
+    "key": "278C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif quatro dígitos",
+        "alternative": "inverso circulou sans serif quatro dígitos",
+        "short": "inverso circulou quatro"
+      }
+    },
+    "key": "278D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif cinco dígitos",
+        "alternative": "inverso circulou sans serif cinco dígitos",
+        "short": "inverso circulou cinco"
+      }
+    },
+    "key": "278E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif seis dígitos",
+        "alternative": "inverso circulou sans serif seis dígitos",
+        "short": "inverso circulou seis"
+      }
+    },
+    "key": "278F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif sete dígitos",
+        "alternative": "inverso circulou sans serif sete dígitos",
+        "short": "inverso circulou sete"
+      }
+    },
+    "key": "2790"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif oito dígitos",
+        "alternative": "inverso circulou sans serif oito dígitos",
+        "short": "inverso circulou oito"
+      }
+    },
+    "key": "2791"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif nove dígitos",
+        "alternative": "inverso circulou sans serif nove dígitos",
+        "short": "inverso circulou nove"
+      }
+    },
+    "key": "2792"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dingbat negativo circulou sans serif número dez",
+        "alternative": "inverso circulou sans serif número dez",
+        "short": "inverso circulou dez"
+      }
+    },
+    "key": "2793"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número dez no quadrado preto",
+        "short": "circulado de dez no quadrado preto"
+      }
+    },
+    "key": "3248"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte, no quadrado preto",
+        "short": "circulado de vinte no quadrado preto"
+      }
+    },
+    "key": "3249"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de trinta, no quadrado preto",
+        "short": "circulado de trinta no quadrado preto"
+      }
+    },
+    "key": "324A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de quarenta no quadrado preto",
+        "short": "circulado de quarenta no quadrado preto"
+      }
+    },
+    "key": "324B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número cinquenta no quadrado preto",
+        "short": "circulado de cinqüenta no quadrado preto"
+      }
+    },
+    "key": "324C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de sessenta no quadrado preto",
+        "short": "circulado de sessenta no quadrado preto"
+      }
+    },
+    "key": "324D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de setenta, em quadrado preto",
+        "short": "circulado de setenta no quadrado preto"
+      }
+    },
+    "key": "324E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de oitenta no quadrado preto",
+        "short": "circulado de oitenta no quadrado preto"
+      }
+    },
+    "key": "324F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e um",
+        "short": "circulado de vinte e um"
+      }
+    },
+    "key": "3251"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número vinte e dois",
+        "short": "circulou vinte e dois"
+      }
+    },
+    "key": "3252"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e três",
+        "short": "circundada por vinte e três"
+      }
+    },
+    "key": "3253"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e quatro",
+        "short": "circulado de vinte e quatro"
+      }
+    },
+    "key": "3254"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e cinco",
+        "short": "circulado de vinte e cinco"
+      }
+    },
+    "key": "3255"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e seis",
+        "short": "circulou vinte e seis"
+      }
+    },
+    "key": "3256"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de vinte e sete",
+        "short": "circulou, vinte e sete"
+      }
+    },
+    "key": "3257"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número vinte e oito",
+        "short": "circulou vinte e oito"
+      }
+    },
+    "key": "3258"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número vinte e nove",
+        "short": "circulou vinte e nove"
+      }
+    },
+    "key": "3259"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de trinta",
+        "short": "circulado de trinta"
+      }
+    },
+    "key": "325A"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e um",
+        "short": "circulou trinta e um"
+      }
+    },
+    "key": "325B"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e dois",
+        "short": "circulado de trinta e dois"
+      }
+    },
+    "key": "325C"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e três",
+        "short": "circulou trinta e três"
+      }
+    },
+    "key": "325D"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e quatro",
+        "short": "circulou trinta e quatro"
+      }
+    },
+    "key": "325E"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e cinco",
+        "short": "circulado de trinta e cinco"
+      }
+    },
+    "key": "325F"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número de trinta e seis",
+        "short": "circulou trinta e seis"
+      }
+    },
+    "key": "32B1"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e sete",
+        "short": "circulou trinta e sete"
+      }
+    },
+    "key": "32B2"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e oito",
+        "short": "circulou trinta e oito"
+      }
+    },
+    "key": "32B3"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número trinta e nove",
+        "short": "circulou trinta e nove"
+      }
+    },
+    "key": "32B4"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou o número quarenta",
+        "short": "circulado de quarenta"
+      }
+    },
+    "key": "32B5"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e um",
+        "short": "circulou quarenta e um"
+      }
+    },
+    "key": "32B6"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e dois",
+        "short": "circulou quarenta e dois"
+      }
+    },
+    "key": "32B7"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e três",
+        "short": "circulou quarenta e três"
+      }
+    },
+    "key": "32B8"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de quarenta e quatro",
+        "short": "circulou quarenta e quatro"
+      }
+    },
+    "key": "32B9"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de quarenta e cinco",
+        "short": "circulado de quarenta e cinco"
+      }
+    },
+    "key": "32BA"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e seis",
+        "short": "circulou quarenta e seis"
+      }
+    },
+    "key": "32BB"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e sete",
+        "short": "circulou quarenta e sete"
+      }
+    },
+    "key": "32BC"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou em número de quarenta e oito",
+        "short": "circulado de quarenta e oito"
+      }
+    },
+    "key": "32BD"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número quarenta e nove",
+        "short": "circulou quarenta e nove"
+      }
+    },
+    "key": "32BE"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "circulou número cinquenta",
+        "short": "circulou cinqüenta"
+      }
+    },
+    "key": "32BF"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura dígito zero",
+        "short": "zero"
+      }
+    },
+    "key": "FF10"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura total de dígitos de um",
+        "short": "um"
+      }
+    },
+    "key": "FF11"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura de dois dígitos",
+        "short": "dois"
+      }
+    },
+    "key": "FF12"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura de três dígitos",
+        "short": "três"
+      }
+    },
+    "key": "FF13"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura de quatro dígitos",
+        "short": "quatro"
+      }
+    },
+    "key": "FF14"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura de cinco dígitos",
+        "short": "cinco"
+      }
+    },
+    "key": "FF15"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura de seis dígitos",
+        "short": "seis"
+      }
+    },
+    "key": "FF16"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura total de sete dígitos",
+        "short": "sete"
+      }
+    },
+    "key": "FF17"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura total oito dígitos",
+        "short": "oito"
+      }
+    },
+    "key": "FF18"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "largura nove dígitos",
+        "short": "nove"
+      }
+    },
+    "key": "FF19"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito dígito zero",
+        "alternative": "negrito dígito zero",
+        "short": "negrito zero"
+      }
+    },
+    "key": "1D7CE"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito dígitos de um",
+        "alternative": "negrito dígitos de um",
+        "short": "negrito"
+      }
+    },
+    "key": "1D7CF"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito dois dígitos",
+        "alternative": "negrito dois dígitos",
+        "short": "negrito dois"
+      }
+    },
+    "key": "1D7D0"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito três dígitos",
+        "alternative": "negrito três dígitos",
+        "short": "negrito três"
+      }
+    },
+    "key": "1D7D1"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito quatro dígitos",
+        "alternative": "negrito quatro dígitos",
+        "short": "negrito quatro"
+      }
+    },
+    "key": "1D7D2"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito cinco dígitos",
+        "alternative": "negrito cinco dígitos",
+        "short": "negrito cinco"
+      }
+    },
+    "key": "1D7D3"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito seis dígitos",
+        "alternative": "negrito seis dígitos",
+        "short": "negrito seis"
+      }
+    },
+    "key": "1D7D4"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito sete dígitos",
+        "alternative": "negrito sete dígitos",
+        "short": "negrito sete"
+      }
+    },
+    "key": "1D7D5"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito oito dígitos",
+        "alternative": "negrito oito dígitos",
+        "short": "negrito oito"
+      }
+    },
+    "key": "1D7D6"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática negrito nove dígitos",
+        "alternative": "negrito nove dígitos",
+        "short": "negrito nove"
+      }
+    },
+    "key": "1D7D7"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu o dígito zero",
+        "alternative": "duplo atingiu zero",
+        "short": "blackboard zero"
+      }
+    },
+    "key": "1D7D8"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu um dígito",
+        "alternative": "duplo atingiu um",
+        "short": "blackboard um"
+      }
+    },
+    "key": "1D7D9"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu dois dígitos",
+        "alternative": "duplo atingiu dois",
+        "short": "blackboard dois"
+      }
+    },
+    "key": "1D7DA"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu três dígitos",
+        "alternative": "duplo atingido três",
+        "short": "blackboard três"
+      }
+    },
+    "key": "1D7DB"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla marcou quatro dígitos",
+        "alternative": "dupla marcou quatro",
+        "short": "blackboard quatro"
+      }
+    },
+    "key": "1D7DC"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla marcou cinco dígitos",
+        "alternative": "duplo atingiu cinco",
+        "short": "blackboard cinco"
+      }
+    },
+    "key": "1D7DD"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu seis dígitos",
+        "alternative": "dupla marcou seis",
+        "short": "blackboard seis"
+      }
+    },
+    "key": "1D7DE"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu sete dígitos",
+        "alternative": "casal fez sete",
+        "short": "blackboard sete"
+      }
+    },
+    "key": "1D7DF"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu oito dígitos",
+        "alternative": "dupla marcou oito",
+        "short": "blackboard oito"
+      }
+    },
+    "key": "1D7E0"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática dupla atingiu nove dígitos",
+        "alternative": "duplo atingiu nove",
+        "short": "blackboard nove"
+      }
+    },
+    "key": "1D7E1"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif dígito zero",
+        "alternative": "sans serif dígito zero",
+        "short": "sans serif zero"
+      }
+    },
+    "key": "1D7E2"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif um dígito",
+        "alternative": "sans serif um dígito",
+        "short": "sans serif um"
+      }
+    },
+    "key": "1D7E3"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif dois dígitos",
+        "alternative": "sans serif dois dígitos",
+        "short": "sans serif dois"
+      }
+    },
+    "key": "1D7E4"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif três dígitos",
+        "alternative": "sans serif três dígitos",
+        "short": "sans serif três"
+      }
+    },
+    "key": "1D7E5"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif quatro dígitos",
+        "alternative": "sans serif quatro dígitos",
+        "short": "sans serif quatro"
+      }
+    },
+    "key": "1D7E6"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif cinco dígitos",
+        "alternative": "sans serif cinco dígitos",
+        "short": "sans serif cinco"
+      }
+    },
+    "key": "1D7E7"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif seis dígitos",
+        "alternative": "sans serif seis dígitos",
+        "short": "sans serif seis"
+      }
+    },
+    "key": "1D7E8"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif sete dígitos",
+        "alternative": "sans serif sete dígitos",
+        "short": "sans serif sete"
+      }
+    },
+    "key": "1D7E9"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif oito dígitos",
+        "alternative": "sans serif oito dígitos",
+        "short": "sans serif oito"
+      }
+    },
+    "key": "1D7EA"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática, sans-serif nove dígitos",
+        "alternative": "sans serif nove dígitos",
+        "short": "sans serif nove"
+      }
+    },
+    "key": "1D7EB"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold dígito zero",
+        "alternative": "sans serif bold dígito zero",
+        "short": "sans serif bold zero"
+      }
+    },
+    "key": "1D7EC"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold dígitos de um",
+        "alternative": "sans serif bold dígitos de um",
+        "short": "sans serif, negrito"
+      }
+    },
+    "key": "1D7ED"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold dois dígitos",
+        "alternative": "sans serif bold dois dígitos",
+        "short": "sans serif bold dois"
+      }
+    },
+    "key": "1D7EE"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold três dígitos",
+        "alternative": "sans serif bold três dígitos",
+        "short": "sans serif bold três"
+      }
+    },
+    "key": "1D7EF"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold quatro dígitos",
+        "alternative": "sans serif bold quatro dígitos",
+        "short": "sans serif bold quatro"
+      }
+    },
+    "key": "1D7F0"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold cinco dígitos",
+        "alternative": "sans serif bold cinco dígitos",
+        "short": "sans serif bold cinco"
+      }
+    },
+    "key": "1D7F1"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold seis dígitos",
+        "alternative": "sans serif bold seis dígitos",
+        "short": "sans serif bold seis"
+      }
+    },
+    "key": "1D7F2"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold sete dígitos",
+        "alternative": "sans serif bold sete dígitos",
+        "short": "sans serif bold sete"
+      }
+    },
+    "key": "1D7F3"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold oito dígitos",
+        "alternative": "sans serif bold oito dígitos",
+        "short": "sans serif bold oito"
+      }
+    },
+    "key": "1D7F4"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática sans serif bold nove dígitos",
+        "alternative": "sans serif bold nove dígitos",
+        "short": "sans serif bold nove"
+      }
+    },
+    "key": "1D7F5"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada dígito zero",
+        "alternative": "monoespaçada zero",
+        "short": "fina zero"
+      }
+    },
+    "key": "1D7F6"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada um dígito",
+        "alternative": "monoespaçada um",
+        "short": "fina uma"
+      }
+    },
+    "key": "1D7F7"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada dois dígitos",
+        "alternative": "monoespaçada dois",
+        "short": "fina dois"
+      }
+    },
+    "key": "1D7F8"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática não proporcional de três dígitos",
+        "alternative": "monoespaçada três",
+        "short": "fina três"
+      }
+    },
+    "key": "1D7F9"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada quatro dígitos",
+        "alternative": "monoespaçada quatro",
+        "short": "fina quatro"
+      }
+    },
+    "key": "1D7FA"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada cinco dígitos",
+        "alternative": "monoespaçada cinco",
+        "short": "fina cinco"
+      }
+    },
+    "key": "1D7FB"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada seis dígitos",
+        "alternative": "monoespaçada seis",
+        "short": "fina seis"
+      }
+    },
+    "key": "1D7FC"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada sete dígitos",
+        "alternative": "monoespaçada sete",
+        "short": "fina sete"
+      }
+    },
+    "key": "1D7FD"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada oito dígitos",
+        "alternative": "monoespaçada oito",
+        "short": "fina oito"
+      }
+    },
+    "key": "1D7FE"
+  },
+  {
+    "category": "Nd",
+    "mappings": {
+      "default": {
+        "default": "matemática monoespaçada nove dígitos",
+        "alternative": "monoespaçada nove",
+        "short": "fina nove"
+      }
+    },
+    "key": "1D7FF"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito zero ponto",
+        "short": "zero ponto"
+      }
+    },
+    "key": "1F100"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito zero vírgula",
+        "short": "zero vírgula"
+      }
+    },
+    "key": "1F101"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígitos de uma vírgula",
+        "short": "uma vírgula"
+      }
+    },
+    "key": "1F102"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito dois vírgula",
+        "short": "dois vírgula"
+      }
+    },
+    "key": "1F103"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígitos de três vírgula",
+        "short": "três vírgula"
+      }
+    },
+    "key": "1F104"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito quatro vírgula",
+        "short": "quatro vírgula"
+      }
+    },
+    "key": "1F105"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito cinco vírgula",
+        "short": "cinco vírgula"
+      }
+    },
+    "key": "1F106"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito seis vírgula",
+        "short": "seis vírgula"
+      }
+    },
+    "key": "1F107"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito sete vírgula",
+        "short": "sete vírgula"
+      }
+    },
+    "key": "1F108"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito oito vírgula",
+        "short": "oito vírgula"
+      }
+    },
+    "key": "1F109"
+  },
+  {
+    "category": "No",
+    "mappings": {
+      "default": {
+        "default": "dígito nove vírgula",
+        "short": "nove vírgula"
+      }
+    },
+    "key": "1F10A"
+  }
+]

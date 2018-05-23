@@ -1,0 +1,314 @@
+[
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0391",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula alfa grega",
+                "alternative": "",
+                "short": "Cap alfa"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0392",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula da letra grega",
+                "alternative": "",
+                "short": "Cap beta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0393",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra grega da letra mai",
+                "alternative": "",
+                "short": "Cap gamma"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0394",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Delta da letra maiúscula grega",
+                "alternative": "",
+                "short": "Boné delta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0395",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula epsilon grega",
+                "alternative": "",
+                "short": "Cap epsilon"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0396",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula grega zeta",
+                "alternative": "",
+                "short": "Cap zeta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0397",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra mai grega eta",
+                "alternative": "",
+                "short": "Cap eta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0398",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra de capital da letra grega",
+                "alternative": "",
+                "short": "Cap Teta"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0399",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula iota grega",
+                "alternative": "",
+                "short": "Iota"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula da letra grega",
+                "alternative": "",
+                "short": "Cap Kappa"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039B",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula lambda grega",
+                "alternative": "Letra maiúscula lambda grega",
+                "short": "Cap lambda"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula grega",
+                "alternative": "",
+                "short": "Cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039D",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula ruim",
+                "alternative": "",
+                "short": "Boné"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Maiúscula, maiúscula xi",
+                "alternative": "",
+                "short": "Cap xi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "039F",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula de omissão grega",
+                "alternative": "",
+                "short": "Cap omicron"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maira grega pi",
+                "alternative": "",
+                "short": "Boné"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A1",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula rho",
+                "alternative": "",
+                "short": "Cap rho"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A3",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Sigla da letra maiúscula grega",
+                "alternative": "",
+                "short": "Cap sigma"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula grega tau",
+                "alternative": "",
+                "short": "Cap tau"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra da capital grega upsilon",
+                "alternative": "",
+                "short": "Tapinha ups"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula",
+                "alternative": "",
+                "short": "Cap phi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula chi",
+                "alternative": "",
+                "short": "Cap chi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula",
+                "alternative": "",
+                "short": "Cap psi"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "03A9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula omega grega",
+                "alternative": "",
+                "short": "Cap omega"
+            }
+        }
+    }
+]

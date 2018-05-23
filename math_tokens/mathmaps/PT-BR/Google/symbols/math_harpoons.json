@@ -1,0 +1,510 @@
+[
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com fartura para cima",
+                "short": "Arpão esquerdo com barbada"
+            }
+        },
+        "key": "21BC"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com lança para baixo",
+                "short": "Arpão esquerdo com barbada"
+            }
+        },
+        "key": "21BD"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina para a direita",
+                "short": "Arpão com barb direito"
+            }
+        },
+        "key": "21BE"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com farol para a esquerda",
+                "short": "Arpão com barb esquerda"
+            }
+        },
+        "key": "21BF"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com farpas para cima",
+                "short": "Arpão direito com barbada"
+            }
+        },
+        "key": "21C0"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com lança para baixo",
+                "short": "Arpão direito com barbada"
+            }
+        },
+        "key": "21C1"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com lâmina para a direita",
+                "short": "Arpão com barb direito"
+            }
+        },
+        "key": "21C2"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com barbela para a esquerda",
+                "short": "Arpão com barb esquerda"
+            }
+        },
+        "key": "21C3"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda sobre arpão direito",
+                "short": "Arpão esquerdo sobre arpão direito"
+            }
+        },
+        "key": "21CB"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito sobre o arpão da esquerda",
+                "short": "Arpão direito sobre arpão esquerdo"
+            }
+        },
+        "key": "21CC"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lâmina esquerda até farpada direita para baixo arpão"
+            }
+        },
+        "key": "294A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lâmina esquerda para baixo direito barb up harpoon"
+            }
+        },
+        "key": "294B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Até a barbela logo abaixo barb a esquerda arpão"
+            }
+        },
+        "key": "294C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Até a barbada deixada para baixo barb right harpoon"
+            }
+        },
+        "key": "294D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lâmina esquerda até barbear direito até arpão"
+            }
+        },
+        "key": "294E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Até a barbela direita para baixo barb direito arpo"
+            }
+        },
+        "key": "294F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Lâmina esquerda para baixo barbela direita para baixo arpão"
+            }
+        },
+        "key": "2950"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Até barb a esquerda para baixo barb left harpoon"
+            }
+        },
+        "key": "2951"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farol até bar",
+                "short": "Arpão esquerdo com farol até bar"
+            }
+        },
+        "key": "2952"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Direito arpão com farol até bar",
+                "short": "Arpão direito com farol até bar"
+            }
+        },
+        "key": "2953"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina direita para bar",
+                "short": "Arpão com farol direito a bar"
+            }
+        },
+        "key": "2954"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com farfalha direita para barrar",
+                "short": "Arpão com barb direito para bar"
+            }
+        },
+        "key": "2955"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com barbada para bar",
+                "short": "Arpão esquerdo com abajur para bar"
+            }
+        },
+        "key": "2956"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão com abajur até bar",
+                "short": "Arpão direito com barra para baixo"
+            }
+        },
+        "key": "2957"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina para barrar",
+                "short": "Arpão com farol deixado para bar"
+            }
+        },
+        "key": "2958"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com farol deixado para bar",
+                "short": "Arpão com farol deixado para bar"
+            }
+        },
+        "key": "2959"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com a barbilla do bar",
+                "short": "Arpão esquerdo com farol do bar"
+            }
+        },
+        "key": "295A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com farol do bar",
+                "short": "Arpão direito com farinha do bar"
+            }
+        },
+        "key": "295B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina diretamente do bar",
+                "short": "Arpão com barbela diretamente do bar"
+            }
+        },
+        "key": "295C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com lâmina diretamente do bar",
+                "short": "Arpão com barbela do bar"
+            }
+        },
+        "key": "295D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com barbada do bar",
+                "short": "Arpão esquerdo com barbada do bar"
+            }
+        },
+        "key": "295E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Direito arpão com barbada do bar",
+                "short": "Arpão direito com barbada do bar"
+            }
+        },
+        "key": "295F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina esquerda do bar",
+                "short": "Arpão com farol deixado de bar"
+            }
+        },
+        "key": "2960"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com lâmina esquerda do bar",
+                "short": "Arpão com farol deixado de bar"
+            }
+        },
+        "key": "2961"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farinha acima do arpão para a esquerda com farol para baixo",
+                "short": "Arpão esquerdo com farinha acima do arpão esquerdo com barbada"
+            }
+        },
+        "key": "2962"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com lâmina esquerda ao lado arpão para cima com barb direito",
+                "short": "Arpão com farol deixado ao lado arpão com barb direito"
+            }
+        },
+        "key": "2963"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com farinha acima do arpão direito com farol",
+                "short": "Arpão direito com farol acima do arpão direito com barbada"
+            }
+        },
+        "key": "2964"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com lâmina esquerda ao lado arpão para baixo com barb direito",
+                "short": "Arpão com farol deixado ao lado arpão com barb direito"
+            }
+        },
+        "key": "2965"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farinha acima do arpão direito com barbada",
+                "short": "Arpão esquerdo com farol acima do arpão direito com barbada"
+            }
+        },
+        "key": "2966"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farol para baixo acima do arpão direito com barbada",
+                "short": "Arpão esquerdo com lâmina abaixo do arpo direito com barbada"
+            }
+        },
+        "key": "2967"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com farinha acima do arpão para a esquerda com barbada",
+                "short": "Arpão direito com farinha acima do arpão esquerdo com farra acima"
+            }
+        },
+        "key": "2968"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão com abajur com barbada acima do arpão para a esquerda com abajur",
+                "short": "Arpão direito com farol acima do arpão esquerdo com barbada"
+            }
+        },
+        "key": "2969"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farol acima do longo traço",
+                "short": "Arpão esquerdo com farol acima do longo traço"
+            }
+        },
+        "key": "296A"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para a esquerda com farol abaixo do longo traço",
+                "short": "Arpão esquerdo com farol abaixo do longo traço"
+            }
+        },
+        "key": "296B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão direito com farol acima do longo traço",
+                "short": "Arpão direito com farol acima do longo traço"
+            }
+        },
+        "key": "296C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão com abajur para baixo embaixo do traço longo",
+                "short": "Arpão direito com farol abaixo do longo traço"
+            }
+        },
+        "key": "296D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para cima com farol em frente ao arpão com ardósia",
+                "short": "Arpão com farol em frente ao arpão com barb direito"
+            }
+        },
+        "key": "296E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Arpão para baixo com farfalha ao lado do arpão para cima com a barbada direita",
+                "short": "Arpão com farol deixado ao lado arpão com barb direito"
+            }
+        },
+        "key": "296F"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cauda de peixe esquerda"
+            }
+        },
+        "key": "297C"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cauda de peixe direito"
+            }
+        },
+        "key": "297D"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cauda de peixe"
+            }
+        },
+        "key": "297E"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Cauda de peixe"
+            }
+        },
+        "key": "297F"
+    }
+]

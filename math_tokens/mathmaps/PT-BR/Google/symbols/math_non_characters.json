@@ -1,0 +1,248 @@
+[
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "Itálico matemático pequeno h sobre duas vezes letra grega pi",
+                "alternative": "Itálico pequeno h sobre dois pi",
+                "short": "Itálico em mais de dois pi"
+            },
+            "physics": {
+                "default": "planck constant over two pi",
+                "alternative": "planck constant over 2 pi"
+            }
+        },
+        "key": "210F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "L b símbolo da barra",
+                "short": "L b bar"
+            }
+        },
+        "key": "2114"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal numero",
+                "alternative": "Numero",
+                "short": "Numero"
+            }
+        },
+        "key": "2116"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Gravação de som de direitos autorais"
+            }
+        },
+        "key": "2117"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Tomar prescrição"
+            }
+        },
+        "key": "211E"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "resposta"
+            }
+        },
+        "key": "211F"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "marca de serviço"
+            }
+        },
+        "key": "2120"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de telefone",
+                "alternative": "O símbolo l e"
+            }
+        },
+        "key": "2121"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de marca",
+                "alternative": "marca comercial",
+                "short": "marca comercial"
+            }
+        },
+        "key": "2122"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "versículo"
+            }
+        },
+        "key": "2123"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de onça",
+                "alternative": "onça",
+                "short": "onça"
+            }
+        },
+        "key": "2125"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Sinal de ohm",
+                "alternative": "ohm",
+                "short": "ohm"
+            }
+        },
+        "key": "2126"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de ohm invertido",
+                "alternative": "Mho",
+                "short": "Ohm invertido"
+            }
+        },
+        "key": "2127"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Sinal de kelvin",
+                "alternative": "Graus kelvin",
+                "short": "Kelvin"
+            }
+        },
+        "key": "212A"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Sinal angstrom",
+                "alternative": "Unidade angstrom",
+                "short": "Angstrom"
+            }
+        },
+        "key": "212B"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Símbolo estimado",
+                "short": "estimado"
+            }
+        },
+        "key": "212E"
+    },
+    {
+        "category": "Lu",
+        "mappings": {
+            "default": {
+                "default": "Transformou a capital f",
+                "alternative": "Virou f",
+                "short": "Virou tampa f"
+            }
+        },
+        "key": "2132"
+    },
+    {
+        "category": "Ll",
+        "mappings": {
+            "default": {
+                "default": "fonte de informação"
+            }
+        },
+        "key": "2139"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Capital girado q",
+                "short": "Gola girada q"
+            }
+        },
+        "key": "213A"
+    },
+    {
+        "category": "So",
+        "mappings": {
+            "default": {
+                "default": "Sinal de fac-símile"
+            }
+        },
+        "key": "213B"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Virou sans serif capital g",
+                "short": "Virou sans serif cap g"
+            }
+        },
+        "key": "2141"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Virou sans serif capital l",
+                "short": "Virou sem serif cap l"
+            }
+        },
+        "key": "2142"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Invertido sans serif capital l",
+                "short": "Invertido sans serif cap l"
+            }
+        },
+        "key": "2143"
+    },
+    {
+        "category": "Sm",
+        "mappings": {
+            "default": {
+                "default": "Virou sans serif capital y",
+                "short": "Virou sans serif cap y"
+            }
+        },
+        "key": "2144"
+    }
+]

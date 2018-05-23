@@ -1,0 +1,626 @@
+[
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula um",
+        "alternative": "",
+        "short": "um"
+      }
+    },
+    "key": "0061",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula b",
+        "alternative": "",
+        "short": "b"
+      }
+    },
+    "key": "0062",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula c",
+        "alternative": "",
+        "short": "c"
+      }
+    },
+    "key": "0063",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula d",
+        "alternative": "",
+        "short": "d"
+      }
+    },
+    "key": "0064",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula e",
+        "alternative": "",
+        "short": "e"
+      }
+    },
+    "key": "0065",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula f",
+        "alternative": "",
+        "short": "f"
+      }
+    },
+    "key": "0066",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula g",
+        "alternative": "",
+        "short": "g"
+      }
+    },
+    "key": "0067",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula h",
+        "alternative": "",
+        "short": "h"
+      }
+    },
+    "key": "0068",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula eu",
+        "alternative": "",
+        "short": "eu"
+      }
+    },
+    "key": "0069",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula j",
+        "alternative": "",
+        "short": "j"
+      }
+    },
+    "key": "006A",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula k",
+        "alternative": "",
+        "short": "k"
+      }
+    },
+    "key": "006B",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula l",
+        "alternative": "",
+        "short": "l"
+      }
+    },
+    "key": "006C",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula m",
+        "alternative": "",
+        "short": "m"
+      }
+    },
+    "key": "006D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula n",
+        "alternative": "",
+        "short": "n"
+      }
+    },
+    "key": "006E",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s",
+        "alternative": "",
+        "short": "o"
+      }
+    },
+    "key": "006F",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula p",
+        "alternative": "",
+        "short": "p"
+      }
+    },
+    "key": "0070",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula q",
+        "alternative": "",
+        "short": "q"
+      }
+    },
+    "key": "0071",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula r",
+        "alternative": "",
+        "short": "r"
+      }
+    },
+    "key": "0072",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula s",
+        "alternative": "",
+        "short": "s"
+      }
+    },
+    "key": "0073",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula t",
+        "alternative": "",
+        "short": "t"
+      }
+    },
+    "key": "0074",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula u",
+        "alternative": "",
+        "short": "u"
+      }
+    },
+    "key": "0075",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula v",
+        "alternative": "",
+        "short": "v"
+      }
+    },
+    "key": "0076",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula w",
+        "alternative": "",
+        "short": "w"
+      }
+    },
+    "key": "0077",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula x",
+        "alternative": "",
+        "short": "x"
+      }
+    },
+    "key": "0078",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula y",
+        "alternative": "",
+        "short": "y"
+      }
+    },
+    "key": "0079",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "letra latina minúscula z",
+        "alternative": "",
+        "short": "z"
+      }
+    },
+    "key": "007A",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula um",
+        "alternative": "",
+        "short": "um"
+      }
+    },
+    "key": "FF41",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula b",
+        "alternative": "",
+        "short": "b"
+      }
+    },
+    "key": "FF42",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula c",
+        "alternative": "",
+        "short": "c"
+      }
+    },
+    "key": "FF43",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula d",
+        "alternative": "",
+        "short": "d"
+      }
+    },
+    "key": "FF44",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula e",
+        "alternative": "",
+        "short": "e"
+      }
+    },
+    "key": "FF45",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula f",
+        "alternative": "",
+        "short": "f"
+      }
+    },
+    "key": "FF46",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula g",
+        "alternative": "",
+        "short": "g"
+      }
+    },
+    "key": "FF47",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula h",
+        "alternative": "",
+        "short": "h"
+      }
+    },
+    "key": "FF48",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula eu",
+        "alternative": "",
+        "short": "eu"
+      }
+    },
+    "key": "FF49",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula j",
+        "alternative": "",
+        "short": "j"
+      }
+    },
+    "key": "FF4A",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula k",
+        "alternative": "",
+        "short": "k"
+      }
+    },
+    "key": "FF4B",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula l",
+        "alternative": "",
+        "short": "l"
+      }
+    },
+    "key": "FF4C",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula m",
+        "alternative": "",
+        "short": "m"
+      }
+    },
+    "key": "FF4D",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula n",
+        "alternative": "",
+        "short": "n"
+      }
+    },
+    "key": "FF4E",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula s",
+        "alternative": "",
+        "short": "o"
+      }
+    },
+    "key": "FF4F",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula p",
+        "alternative": "",
+        "short": "p"
+      }
+    },
+    "key": "FF50",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula q",
+        "alternative": "",
+        "short": "q"
+      }
+    },
+    "key": "FF51",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula r",
+        "alternative": "",
+        "short": "r"
+      }
+    },
+    "key": "FF52",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula s",
+        "alternative": "",
+        "short": "s"
+      }
+    },
+    "key": "FF53",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula t",
+        "alternative": "",
+        "short": "t"
+      }
+    },
+    "key": "FF54",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula u",
+        "alternative": "",
+        "short": "u"
+      }
+    },
+    "key": "FF55",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula v",
+        "alternative": "",
+        "short": "v"
+      }
+    },
+    "key": "FF56",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula w",
+        "alternative": "",
+        "short": "w"
+      }
+    },
+    "key": "FF57",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula x",
+        "alternative": "",
+        "short": "x"
+      }
+    },
+    "key": "FF58",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula y",
+        "alternative": "",
+        "short": "y"
+      }
+    },
+    "key": "FF59",
+    "names": []
+  },
+  {
+    "category": "Ll",
+    "mappings": {
+      "default": {
+        "default": "largura letra latina minúscula z",
+        "alternative": "",
+        "short": "z"
+      }
+    },
+    "key": "FF5A",
+    "names": []
+  }
+]

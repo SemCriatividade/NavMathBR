@@ -1,0 +1,5 @@
+{ [Error: ENOENT: no such file or directory, open 'mathmaps/EN/symbols/functions.json']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'mathmaps/EN/symbols/functions.json' }

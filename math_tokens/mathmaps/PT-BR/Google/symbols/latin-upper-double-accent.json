@@ -1,0 +1,743 @@
+[
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01D5",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra principal latina u com diaerese e macron",
+                "alternative": "Letra de capital latina u overdot sobre overbarro",
+                "short": "Capture o overdot sobrecarregado"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01D7",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina com diaelecia e aguda",
+                "alternative": "Letra-prima latina u overdot duplo aguda",
+                "short": "Toque-o sobrecarregado agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01D9",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com diaerese e caron",
+                "alternative": "Letra-prima latina u sobredote duplo hacek",
+                "short": "Toque o dobro do caron"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01DB",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com diaerese e túmulo",
+                "alternative": "Letra principal latina u duplica o túmulo",
+                "short": "Capture o túmulo sobrevoo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01DE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com diaerese e macron",
+                "alternative": "Letra-prima latina uma overbarra dupla",
+                "short": "Capture um overdot duplo sobre a barra"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01E0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina a com ponto acima e macron",
+                "alternative": "Letra maiúscula latina um ponto overbar",
+                "short": "Tapar um overdot overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01EC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina o com ogonek e macron",
+                "alternative": "Letra de capital latina o ogonek overbar",
+                "short": "Cap do ogonek overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "01FA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com anel acima e agudo",
+                "alternative": "Letra maiúscula latina um anel agudo",
+                "short": "Tapar um anel agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "022A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com diaerese e macron",
+                "alternative": "Letra maiúscula latina o overdot overdot overbarra",
+                "short": "Cap o overdot over over over over over"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "022C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com til e macron",
+                "alternative": "Letra principal latina o tilde overbar",
+                "short": "Tampa do tilde overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "0230",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com ponto acima e macron",
+                "alternative": "Letra principal latina o overdot overbar",
+                "short": "Toque o overdot overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E08",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina c com cedilha e aguda",
+                "alternative": "Letra maiúscula latina c cedilla aguda",
+                "short": "Cap c cedilla aguda"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E14",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina e com macron e túmulo",
+                "alternative": "Letra principal latina e sepultura excessiva",
+                "short": "Cap grave overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E16",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina e com macron e aguda",
+                "alternative": "Letra maiúscula latina e overbar aguda",
+                "short": "Capa de pressão excessiva"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E1C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina e com cedilha e breve",
+                "alternative": "Letra maiúscula latina e cedilha breve",
+                "short": "Cap e cedilla breve"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E2E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina i com diarese e aguda",
+                "alternative": "Letra-prima latina i dupla sobrecarregar aguda",
+                "short": "To dobro do overdot agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E38",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina l com ponto abaixo e macron",
+                "alternative": "Letra maiúscula latina l underdot overbar",
+                "short": "Cap. L underdot overbar"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E4C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com til e aguda",
+                "alternative": "Letra-prima latina o tilde aguda",
+                "short": "Cap o tilde agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E4E",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com til e diaerese",
+                "alternative": "Letra-prima latina o tilde sobredote duplo",
+                "short": "Tapa o tilde sobredote duplo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E50",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com macron e túmulo",
+                "alternative": "Letra principal latina o túmulo embaixo",
+                "short": "Cap grave"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E52",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina o com macron e aguda",
+                "alternative": "Letra maiúscula latina o barramento excessivo",
+                "short": "Cap o overbar aguda"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E5C",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina r com ponto abaixo e macron",
+                "alternative": "Underdot e overbar",
+                "short": "Limite subaquático"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E64",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com ponto agudo acima",
+                "alternative": "Letra maiúscula latina s overdot agudo",
+                "short": "Overdot agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E66",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com caron e ponto acima",
+                "alternative": "Letra-prima latina s caron overdot",
+                "short": "Overdot de carambola s caron"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E68",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina s com ponto abaixo e ponto acima",
+                "alternative": "Letra maiúscula latina subdotada",
+                "short": "Overdot underdot"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E78",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com til e aguda",
+                "alternative": "Letra-prima latina u tilde aguda",
+                "short": "Cap U tilde aguda"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1E7A",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com macron e diaerese",
+                "alternative": "Letra principal latina u overdot overbar overdot",
+                "short": "Capture o overdot duplo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EA4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina com circunflexo e agudo",
+                "alternative": "Letra capital latina um chapéu agudo",
+                "short": "Tapar um chapéu agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EA6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com circunflexo e grave",
+                "alternative": "Letra maiúscula latina",
+                "short": "Cap um túmulo de chapéu"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EA8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e gancho acima",
+                "alternative": "Letra capital latina um gancho de chapéu",
+                "short": "Tapar um gancho de chapéu"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EAA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com circunflexo e tilde",
+                "alternative": "Letra maiúscula latina um chapéu tilde",
+                "short": "Tapa um chapéu tilde"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EAC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com circunflexo e ponto abaixo",
+                "alternative": "Letra maiúscula latina um underdot de chapéu",
+                "short": "Capture um chapéu para baixo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EAE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com breve e aguda",
+                "alternative": "Letra-prima latina um breve agudo",
+                "short": "Captar um breve agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EB0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com breve e grave",
+                "alternative": "Letra maiúscula latina um túmulo breve",
+                "short": "Tapar um túmulo breve"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EB2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com breve e gancho acima",
+                "alternative": "Letra capital latina um gancho breve",
+                "short": "Encaixe um gancho breve"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EB4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com breve e tilde",
+                "alternative": "Letra capital latina a breve tilde",
+                "short": "Cap um breve tilde"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EB6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina a com breve e ponto abaixo",
+                "alternative": "Letra-prima latina um breve subjacente",
+                "short": "Capture um breve subjacente"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EBE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina e com circunflexo e agudo",
+                "alternative": "Letra-prima latina e chapéu agudo",
+                "short": "Cap"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EC0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula e latina com circunflexo e sepultura",
+                "alternative": "Letra principal latina e chapéu sepultura",
+                "short": "Cap e hat grave"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EC2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina e com circunflexo e gancho acima",
+                "alternative": "Letra principal latina e gancho de chapéu",
+                "short": "Gancho de chapéu"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EC4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula e latin com circunflex e tilde",
+                "alternative": "Letra-prima latina e tilde",
+                "short": "Boné e tilde"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EC6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina e com circunflexo e ponto abaixo",
+                "alternative": "Letra-prima latina e chapéu underdot",
+                "short": "Chapéu baixo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1ED0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e agudo",
+                "alternative": "Letra maiúscula latina aguda",
+                "short": "Boné agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1ED2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e sepultura",
+                "alternative": "Letra maiúscula latina ou sepultura",
+                "short": "Cap grave"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1ED4",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e gancho acima",
+                "alternative": "Letra-prima latina o gancho de chapéu",
+                "short": "Gancho de chapéu"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1ED6",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e tilde",
+                "alternative": "Letra-prima latina o tilde",
+                "short": "Boné tilde"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1ED8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com circunflexo e ponto abaixo",
+                "alternative": "Letra maiúscula latina, underdot",
+                "short": "Chapéu baixo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EDA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com chifre e agudo",
+                "alternative": "Letra-prima latina o primo agudo",
+                "short": "Cap o prime agudo"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EDC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com chifre e túmulo",
+                "alternative": "Letra-prima latina o grave prime",
+                "short": "Cap o grave prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EDE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com chifre e gancho acima",
+                "alternative": "Letra-prima latina o gancho prime",
+                "short": "Cap o gancho prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EE0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com chifre e tilde",
+                "alternative": "Letra principal latina o tilde prime",
+                "short": "Cap o tilde prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EE2",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra maiúscula latina com chifre e ponto abaixo",
+                "alternative": "Letra maiúscula latina o underdot prime",
+                "short": "Cap o underdot prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EE8",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com chifre e aguda",
+                "alternative": "Letra-prima latina u prima aguda",
+                "short": "Cap Prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EEA",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com chifre e túmulo",
+                "alternative": "Letra principal latina u grave prime",
+                "short": "Cap premier"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EEC",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra principal latina u com chifre e gancho acima",
+                "alternative": "Letra-prima latina u hook prime",
+                "short": "Cap chegue primeiro"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EEE",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com chifre e tilde",
+                "alternative": "Letra principal latina u tilde prime",
+                "short": "Cap tilde prime"
+            }
+        }
+    },
+    {
+        "category": "Lu",
+        "names": [],
+        "key": "1EF0",
+        "active": true,
+        "mappings": {
+            "default": {
+                "default": "Letra-prima latina u com chifre e ponto abaixo",
+                "alternative": "Letra-prima latina você subdeste prima",
+                "short": "Toca-te no mínimo"
+            }
+        }
+    }
+]
