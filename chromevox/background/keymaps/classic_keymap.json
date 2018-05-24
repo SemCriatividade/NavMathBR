@@ -119,6 +119,40 @@
   "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [189]}
               }},
+  {
+    "command":"previousFraction",
+    "sequence":{
+      "cvoxModifier":true,
+      "keys":{
+        "keyCode":[
+          80,68
+        ]
+      }
+    }
+  },
+  
+  {
+    "command":"previousRoot",
+    "sequence":{
+      "cvoxModifier":true,
+      "keys":{
+        "keyCode":[
+          80,82
+        ]
+      }
+    }
+  },
+  {
+    "command":"previousLimit",
+    "sequence":{
+      "cvoxModifier":true,
+      "keys":{
+        "keyCode":[
+          80,83
+        ]
+      }
+    }
+  },
 
  {"command": "toggleKeyboardHelp",
   "sequence": {"cvoxModifier": true,
@@ -314,6 +348,18 @@
   "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [78, 77]}
               }},
+   {"command": "nextFrac",
+    "sequence": {"cvoxModifier": true,
+               "keys": {"keyCode": [78, 68]}
+              }},
+  {"command": "nextLimit",
+                "sequence": {"cvoxModifier":true,
+                           "keys": {"keyCode": [78, 83]}
+                          }},
+  {"command": "nextRoot",
+                            "sequence": {"cvoxModifier":true,
+                                       "keys": {"keyCode": [78, 82]}
+                                      }},
 
  {"command": "nextMedia",
   "sequence": {"cvoxModifier": true,
@@ -533,6 +579,48 @@
  {"command": "toggleSemantics",
   "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [77, 83]}
-              }}
+              }},
+  {"command": "goToNumerator",
+  "sequence": {"keys": {"keyCode": [78],
+                        "shiftKey": [true]}
+              }},
+ 
+  {"command": "goToDenominator",
+  "sequence": {"keys": {"keyCode": [68],
+                        "shiftKey": [true]}
+              }},
+  {"command": "internalNavigation",
+    "sequence":{
+      "keys":{
+        "keyCode":[13],
+        "shiftKey": [true]}
+    }},
+  {"command": "exitInternalNavigation",
+      "sequence":{
+        "keys":{"keyCode":[27]}
+      }},
+
+  {"command": "rightNode",
+        "sequence":{
+          "keys":{"keyCode":[39]}
+        }},      
+  {"command": "leftNode",
+          "sequence":{
+            "keys":{"keyCode":[37]}
+          }},
+  {"command":"bottomNode",
+    "sequence":{
+      "keys":{
+        "keyCode":[40]
+      }
+    }
+  },
+  {"command":"topNode",
+    "sequence":{
+      "keys":{
+        "keyCode":[38]
+      }
+    }
+  }
   ]
 }

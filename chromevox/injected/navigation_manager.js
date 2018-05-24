@@ -52,7 +52,13 @@ goog.require('cvox.Widget');
  */
 cvox.NavigationManager = function() {
   this.addInterframeListener_();
-
+  //armazenará os nós que contém frações;
+  this.nodestack = [];
+  this.nodestacklimit = [];
+  this.nodestackroot = [];
+  this.positionlimit = -1;
+  this.positionroot = -1;
+  this.position = -1;
   this.reset();
 };
 
@@ -352,18 +358,42 @@ cvox.NavigationManager.prototype.hasNext_ = function() {
  */
 cvox.NavigationManager.prototype.findNext = function(
     predicate, opt_predicateName, opt_initialNode) {
+
+     
+  
+  this.nodestack = [];
+  this.nodestacklimit = [];
+  this.nodestackroot = [];
+ 
   this.predicate_ = opt_predicateName || '';
+
   this.resolve();
   this.shifter_ = this.shifterStack_[0] || this.shifter_;
+  console.log("opt_predicateName",opt_predicateName);
   this.shifterStack_ = [];
+  
+  //console.log(this.curSel_);
+  //console.log(predicate);
+
+  if( opt_predicateName =='mathPredicate'){
+    this.position = -1;
+    this.positionlimit = -1;
+    this.positionroot = -1;
+  }
   var ret = cvox.FindUtil.findNext(this.curSel_, predicate, opt_initialNode);
+
   if (!this.ignoreIframesNoMatterWhat_) {
+   // console.log("iframe");
     this.tryIframe_(ret && ret.start.node);
   }
   if (ret) {
     this.updateSelToArbitraryNode(ret.start.node);
   }
   this.predicate_ = '';
+
+ 
+  //console.log("shifterstack",this.shifterStack_);
+  //console.log("ret:",ret)
   return ret;
 };
 
@@ -432,10 +462,12 @@ cvox.NavigationManager.prototype.togglePageSel = function() {
 cvox.NavigationManager.prototype.getDescription = function() {
   // Handle description of special content. Consider moving to DescriptionUtil.
   // Specially annotated nodes.
+  //console.log("gerando descrição");
   if (this.getCurrentNode().hasAttribute &&
       this.getCurrentNode().hasAttribute('cvoxnodedesc')) {
     var preDesc = cvox.ChromeVoxJSON.parse(
         this.getCurrentNode().getAttribute('cvoxnodedesc'));
+    //console.log("predesc:",preDesc);
     var currentDesc = new Array();
     for (var i = 0; i < preDesc.length; ++i) {
       var inDesc = preDesc[i];
@@ -448,6 +480,7 @@ cvox.NavigationManager.prototype.getDescription = function() {
         annotation: inDesc.annotation
       }));
     }
+    
     return currentDesc;
   }
 
@@ -455,6 +488,13 @@ cvox.NavigationManager.prototype.getDescription = function() {
   var desc = this.pageSel_ ? this.pageSel_.getDescription(
           this.shifter_, this.prevSel_, this.curSel_) :
       this.shifter_.getDescription(this.prevSel_, this.curSel_);
+
+  //console.log("pagesel",this.pageSel_);
+  //console.log("shifter:",this.shifter_);
+  //console.log("this.prevsel:",this.prevSel_);
+  //console.log("cursel:",this.curSel_);
+
+ //console.log("desc:",desc);
   var earcons = [];
 
   // Earcons.
@@ -716,11 +756,14 @@ cvox.NavigationManager.prototype.finishNavCommand = function(
   }
 
   if (this.enteredShifter_ || this.exitedShifter_) {
+    console.log("dentro do finishnavcommand");
     opt_prefix = cvox.ChromeVox.msgs.getMsg(
         'enter_content_say', [this.shifter_.getName()]);
+
   }
 
   var descriptionArray = cvox.ChromeVox.navigationManager.getDescription();
+  console.log("description",descriptionArray);
 
   opt_setFocus = opt_setFocus === undefined ? true : opt_setFocus;
 
@@ -753,7 +796,9 @@ cvox.NavigationManager.prototype.finishNavCommand = function(
  * @return {boolean} False if end of document reached.
  */
 cvox.NavigationManager.prototype.navigate = function(
+  
     opt_ignoreIframes, opt_granularity) {
+      console.log("entrou no navigate");
   this.pageEndAnnounced_ = false;
   if (this.pageEnd_) {
     this.pageEnd_ = false;
@@ -1243,3 +1288,322 @@ cvox.NavigationManager.prototype.persistGranularity_ = function(opt_persist) {
     });
   }
 };
+
+
+/**
+ *  percorre a árvore empilhando os nós que contém a tag <mfrac>
+ * que e a divisão em mathml,retornará um CursorSelection que identifica
+ * em qual objeto está o foco.
+ */
+cvox.NavigationManager.prototype.walktreefrac = function(node){
+
+  console.log("node1=========>\n",node.parentElement);
+  node = this.findrootnode(node);
+  
+  var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+  var cursor = null;
+  var nodefound=null;
+  
+
+  
+  if(this.nodestack.length == 0){
+    while(walker.nextNode()){
+      
+        if (cvox.DomUtil.isFrac(walker.currentNode)) {
+          this.nodestack.push(walker.currentNode);
+       }  
+      }
+  }
+  
+    if(this.nodestack.length >0){
+
+      if(this.nodestack[this.position+1]){
+        this.position+=1;
+        nodefound = this.nodestack[this.position];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+       
+      }
+        }
+    else{
+      nodefound = null;
+    }
+    console.log("node=========>\n",node);
+    console.log("position",this.position);
+    console.log("pilha ->>:", this.nodestack);
+    
+
+  if (!this.ignoreIframesNoMatterWhat_) {
+
+    this.tryIframe_(cursor&& cursor.start.node);
+  }
+  if(cursor){
+    this.curSel_ = cursor;
+    this.updateSelToArbitraryNode(cursor.start.node,true);
+  }
+  return cursor;
+};
+
+cvox.NavigationManager.prototype.updatecursel_ = function (cursor){
+  this.curSel_ = cursor;
+  this.updateSelToArbitraryNode(cursor.start.node,true);
+};
+
+cvox.NavigationManager.prototype.walktreelimit = function(node){
+  
+  console.log("node1=========>\n",node.parentElement);
+  node = this.findrootnode(node);
+  
+  var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+  var cursor = null;
+  var nodefound=null;
+  
+
+  
+  if(this.nodestacklimit.length ==0){
+    while(walker.nextNode()){
+      
+        if (cvox.DomUtil.isLimit(walker.currentNode)) {
+          this.nodestacklimit.push(walker.currentNode);
+       }  
+      }
+  }
+    
+    if(this.nodestacklimit.length >0){
+
+      if(this.nodestacklimit[this.positionlimit+1]){
+        this.positionlimit+=1;
+        nodefound = this.nodestacklimit[this.positionlimit];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+       
+      }
+      }
+    else{
+      nodefound = null;
+    }
+    console.log("node=========>\n",node);
+    console.log("position",this.positionlimit);
+    console.log("pilha ->>:", this.nodestacklimit);
+    
+
+  if (!this.ignoreIframesNoMatterWhat_) {
+
+    this.tryIframe_(cursor&& cursor.start.node);
+  }
+  if(cursor){
+    this.curSel_ = cursor;
+    this.updateSelToArbitraryNode(cursor.start.node,true);
+  }
+  return cursor;
+  };
+
+  cvox.NavigationManager.prototype.walktreeroot = function(node){
+  	console.log("entrou");
+  node = this.findrootnode(node);
+  
+  var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+  var cursor = null;
+  var nodefound=null;
+  
+
+  
+  if(this.nodestackroot.length ==0){
+    while(walker.nextNode()){
+      
+        if (cvox.DomUtil.isRoot(walker.currentNode)) {
+          console.log("no raiz encontrado");
+          this.nodestackroot.push(walker.currentNode);
+       }  
+      }
+  }
+    console.log("pilha de raiz->",this.nodestackroot);
+    if(this.nodestackroot.length >0){
+
+      if(this.nodestackroot[this.positionroot+1]){
+        this.positionroot+=1;
+        nodefound = this.nodestackroot[this.positionroot];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+       
+      }
+      }
+    else{
+      nodefound = null;
+    }
+    console.log("node=========>\n",node);
+    console.log("position",this.positionroot);
+    console.log("pilha ->>:", this.nodestackroot);
+    
+
+  if (!this.ignoreIframesNoMatterWhat_) {
+
+    this.tryIframe_(cursor&& cursor.start.node);
+  }
+  if(cursor){
+    this.curSel_ = cursor;
+    this.updateSelToArbitraryNode(cursor.start.node,true);
+  }
+  return cursor;
+  };
+
+
+  cvox.NavigationManager.prototype.findrootnode = function(node){
+  
+  var result = null;
+
+  console.log('currentnode',node);
+  if(!cvox.DomUtil.isMathml(node)){
+    while(!cvox.DomUtil.isMathml(node)){
+      console.log(node.parentNode);
+     node = node.parentNode;
+      if(cvox.DomUtil.isMathml(node)){
+        
+        return result = node;
+      }
+  }
+  }else{
+    return result =node;
+  }
+  
+  return result;
+  }
+
+  cvox.NavigationManager.prototype.previousrootfindnode = function(node){
+
+  	console.log('currentnode',node);
+    console.log("positon ------->:",this.positionroot);
+    console.log("nodestack ------->:",this.nodestackroot);
+    node = this.findrootnode(node);
+    
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+    
+  
+    
+    if(this.nodestackroot.length ==0){
+      while(walker.nextNode()){
+        
+          if (cvox.DomUtil.isRoot(walker.currentNode)) {
+            this.nodestackroot.push(walker.currentNode);
+         }  
+        }
+    }
+    console.log("nodestack.lenght ------->:",this.nodestackroot.length); 
+      if(this.nodestackroot.length >0){
+        
+        if(this.positionroot>0){
+          this.positionroot = this.positionroot - 1;
+          nodefound = this.nodestackroot[this.positionroot];
+          cursor = cvox.CursorSelection.fromNode(nodefound);
+        }
+        
+        
+          }
+      else{
+        nodefound = null;
+      }
+     
+    if (!this.ignoreIframesNoMatterWhat_) {
+  
+      this.tryIframe_(cursor&& cursor.start.node);
+    }
+    if(cursor){
+      this.curSel_ = cursor;
+      this.updateSelToArbitraryNode(cursor.start.node,true);
+    }
+    return cursor;
+
+  };
+
+  cvox.NavigationManager.prototype.previouslimitfindnode = function(node){
+    
+    console.log('currentnode',node);
+    console.log("positon ------->:",this.positionlimit);
+    console.log("nodestack ------->:",this.nodestacklimit);
+    node = this.findrootnode(node);
+    
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+    
+  
+    
+    if(this.nodestacklimit.length ==0){
+      while(walker.nextNode()){
+        
+          if (cvox.DomUtil.isLimit(walker.currentNode)) {
+            this.nodestacklimit.push(walker.currentNode);
+         }  
+        }
+    }
+    console.log("nodestack.lenght ------->:",this.nodestacklimit.length); 
+      if(this.nodestacklimit.length >0){
+        
+        if(this.positionlimit>0){
+          this.positionlimit = this.positionlimit - 1;
+          nodefound = this.nodestacklimit[this.positionlimit];
+          cursor = cvox.CursorSelection.fromNode(nodefound);
+        }
+        
+        
+          }
+      else{
+        nodefound = null;
+      }
+     
+    if (!this.ignoreIframesNoMatterWhat_) {
+  
+      this.tryIframe_(cursor&& cursor.start.node);
+    }
+    if(cursor){
+      this.curSel_ = cursor;
+      this.updateSelToArbitraryNode(cursor.start.node,true);
+    }
+    return cursor;
+  }
+
+  cvox.NavigationManager.prototype.previousfracfindnode = function(node){
+    
+    
+    node = this.findrootnode(node);
+    
+    var walker=document.createTreeWalker(node, NodeFilter.SHOW_ELEMENT, null, false);
+    var cursor = null;
+    var nodefound=null;
+    
+  
+    
+    if(this.nodestack.length ==0){
+      while(walker.nextNode()){
+        
+          if (cvox.DomUtil.isFrac(walker.currentNode)) {
+            this.nodestack.push(walker.currentNode);
+         }  
+        }
+    }
+    console.log("nodestack.lenght ------->:",this.nodestack.length); 
+    if(this.nodestack.length >0){
+      
+      if(this.position>0){
+        this.position = this.position - 1;
+        nodefound = this.nodestack[this.position];
+        cursor = cvox.CursorSelection.fromNode(nodefound);
+      }
+      
+      
+        }
+    else{
+      nodefound = null;
+    }
+   
+     
+     
+    if (!this.ignoreIframesNoMatterWhat_) {
+  
+      this.tryIframe_(cursor&& cursor.start.node);
+    }
+    if(cursor){
+      this.curSel_ = cursor;
+      this.updateSelToArbitraryNode(cursor.start.node,true);
+    }
+    return cursor;
+  }

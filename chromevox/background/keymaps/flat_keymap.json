@@ -602,6 +602,28 @@
  {"command": "enableConsoleTts",
   "sequence": {"cvoxModifier": true,
                "keys": {"keyCode": [123]}
-              }}
+              }},
+              {"command": "internalNavigation",
+                "sequence":{
+                  "keys":{"keyCode":[13]}
+                }},
+                {"command": "exitInternalNavigation",
+                  "sequence":{
+                    "keys":{"keyCode":[27]}
+                  }},
+                  {"command":"bottomNode",
+                    "sequence":{
+                      "keys":{
+                        "keyCode":[40]
+                      }
+                    }
+                  },
+                  {"command":"topNode",
+                    "sequence":{
+                      "keys":{
+                        "keyCode":[38]
+                      }
+                    }
+                  }
   ]
 }

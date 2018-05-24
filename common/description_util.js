@@ -201,9 +201,18 @@ cvox.DescriptionUtil.getDescriptionFromNavigation =
   // Specialized math descriptions.
   if (cvox.DomUtil.isMath(node) &&
       !cvox.AriaUtil.isMath(node)) {
+        console.log("mathdescription");
     return cvox.DescriptionUtil.getMathDescription(node);
   }
-
+  /**
+   *  verifica se o nó em questão é um mfrac se for
+   *  geramos a descrição do mathml através do parser de matemática
+   * já existente
+   */
+  if (cvox.DomUtil.isFrac(node)){
+    console.log("FracDescription");
+    return cvox.DescriptionUtil.getMathDescription(node);
+}
   // Next, check to see if the current node is a collection type.
   if (cvox.DescriptionUtil.COLLECTION_NODE_TYPE[node.tagName]) {
     return cvox.DescriptionUtil.getCollectionDescription(
@@ -211,6 +220,9 @@ cvox.DescriptionUtil.getDescriptionFromNavigation =
             cvox.CursorSelection.fromNode(prevNode)),
         /** @type {!cvox.CursorSelection} */(
             cvox.CursorSelection.fromNode(node)));
+  }
+  else{
+    return cvox.DescriptionUtil.getMathDescription(node);
   }
 
   // Now, generate a description for all other elements.
@@ -468,6 +480,7 @@ cvox.DescriptionUtil.getMathDescription = function(node) {
   var speechEngine = cvox.SpeechRuleEngine.getInstance();
   var traverse = cvox.TraverseMath.getInstance();
   speechEngine.parameterize(cvox.MathmlStore.getInstance());
+  console.log("traverse:",traverse);
   traverse.initialize(node);
   var ret = speechEngine.evaluateNode(traverse.activeNode);
   if (ret == []) {

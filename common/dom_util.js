@@ -1082,6 +1082,7 @@ cvox.DomUtil.getAncestors = function(targetNode) {
   while (ancestors.length && !ancestors[0].tagName && !ancestors[0].nodeValue) {
     ancestors.shift();
   }
+ // console.log(ancestors);
   return ancestors;
 };
 
@@ -2270,28 +2271,105 @@ cvox.DomUtil.getContainingMath = function(node) {
  * Null if it does not.
  */
 cvox.DomUtil.findMathNodeInList = function(nodes) {
+  //console.log('nodes from findMathNodeInList:',nodes)
   for (var i = 0, node; node = nodes[i]; i++) {
     if (cvox.DomUtil.isMath(node)) {
+      //console.log('node found:',node)
       return node;
     }
   }
   return null;
 };
 
+/**
+ *  extrai um node que é uma fracao em mathml
+ */
+cvox.DomUtil.findFracNodeInList = function(nodes) {
+  //console.log('nodes from findfracnodeinlist:',nodes)
+  for (var i = 0, node; node = nodes[i]; i++) {
+     //console.log('node found3:',node[i],i)
+    if (cvox.DomUtil.isFrac(node)) {
+      
+      console.log("nó encontrado:",node)
+      //alert("encontrou frac!")
+      return node;
+    }
+  }
+  return null;
+};
+cvox.DomUtil.findlimitNodeInList = function(nodes) {
+  //console.log('nodes from findfracnodeinlist:',nodes)
+  for (var i = 0, node; node = nodes[i]; i++) {
+     //console.log('node found3:',node[i],i)
+    if (cvox.DomUtil.isLimit(node)) {
+      
+      console.log("nó encontrado:",node)
+      //alert("encontrou frac!")
+      return node;
+    }
+  }
+  return null;
+};
+cvox.DomUtil.findrootNodeInList = function(nodes) {
+  //console.log('nodes from findfracnodeinlist:',nodes)
+  for (var i = 0, node; node = nodes[i]; i++) {
+     //console.log('node found3:',node[i],i)
+    if (cvox.DomUtil.isRoot(node)) {
+      
+      console.log("nó encontrado:",node)
+      //alert("encontrou frac!")
+      return node;
+    }
+  }
+  return null;
+};
 
 /**
  * Checks to see wether a node is a math node.
  * @param {Node} node The node to be tested.
  * @return {boolean} Whether or not a node is a math node.
  */
+//encontra um nó que contém formulas matematicas
 cvox.DomUtil.isMath = function(node) {
+  // console.log("1:",cvox.DomUtil.isMathml(node));
+  // console.log("2:",cvox.DomUtil.isMathJax(node) );
+  // console.log("3:",cvox.DomUtil.isMathImg(node));
+  // console.log("4:",cvox.AriaUtil.isMath(node));
   return cvox.DomUtil.isMathml(node) ||
       cvox.DomUtil.isMathJax(node) ||
           cvox.DomUtil.isMathImg(node) ||
               cvox.AriaUtil.isMath(node);
 };
 
+/**
+ *  verifique se o nó contem uma tag frac implementar as outras funções
+ */
+cvox.DomUtil.isFrac = function(node) {
+//  console.log("1:",cvox.DomUtil.isFracMathml(node));
+//   console.log("2:", cvox.DomUtil.isFracMathJax(node)  );
+//   console.log("3:",cvox.DomUtil.isFracMathImg(node));
+  
+  return cvox.DomUtil.isFracMathml(node)||
+  cvox.DomUtil.isFracMathJax(node) ||
+          cvox.DomUtil.isFracMathImg(node); 
+};
 
+cvox.DomUtil.isLimit = function(node) {
+
+    return cvox.DomUtil.isLimitMathml(node)||
+    cvox.DomUtil.isLimitMathJax(node) ||
+            cvox.DomUtil.isLimitMathImg(node); 
+  };
+
+cvox.DomUtil.isRoot = function(node) {
+ console.log("isroot:",cvox.DomUtil.isRootMathml(node));
+   console.log("mathjax:", cvox.DomUtil.isRootMathJax(node)  );
+   console.log("mathimg:",cvox.DomUtil.isRootMathImg(node));
+  
+    return cvox.DomUtil.isRootMathml(node)||
+    cvox.DomUtil.isRootMathJax(node) ||
+            cvox.DomUtil.isRootMathImg(node);
+};  
 /**
  * Specifies node classes in which we expect maths expressions a alt text.
  * @type {{tex: Array.<string>,
@@ -2340,6 +2418,45 @@ cvox.DomUtil.isMathImg = function(node) {
   return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
       cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
 };
+/**
+ *  nova implementação
+ * 
+ */
+cvox.DomUtil.isFracMathImg = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+  if (node.tagName != 'IMG') {
+    return false;
+  }
+  var className = node.className.toLowerCase();
+  return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
+      cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
+};
+
+cvox.DomUtil.isLimitMathImg = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+  if (node.tagName != 'IMG') {
+    return false;
+  }
+  var className = node.className.toLowerCase();
+  return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
+      cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
+};
+
+cvox.DomUtil.isRootMathImg = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+  if (node.tagName != 'IMG') {
+    return false;
+  }
+  var className = node.className.toLowerCase();
+  return cvox.DomUtil.ALT_MATH_CLASSES.tex.indexOf(className) != -1 ||
+      cvox.DomUtil.ALT_MATH_CLASSES.asciimath.indexOf(className) != -1;
+};
 
 
 /**
@@ -2354,14 +2471,49 @@ cvox.DomUtil.isMathml = function(node) {
   }
   return node.tagName.toLowerCase() == 'math';
 };
+/**
+ * verifica se o no tem frac do mathml
+ */
+cvox.DomUtil.isFracMathml = function(node) {
+  if (!node || !node.tagName) {
+    return false;
+  }
+  return node.tagName.toLowerCase() == 'mfrac';
+};
+cvox.DomUtil.isLimitMathml = function(node) {
+  if (!node || !node.tagName) {
+    return false;
+  }
+ 
+  //acrescentar o outro tipo de representação do somatorio
 
+  var result = node.tagName.toLowerCase() == 'munderover'&& 
+  node.firstChild.tagName.toLowerCase()=='mo' && (node.firstChild.innerHTML== '&sum'||
+                                                  node.firstChild.innerHTML== '&#x2211'||
+                                                  node.firstChild.innerHTML == '∑'                                             
+  )
+  ;
+  //console.log("var result", result);
+  return result;
+};
 
+cvox.DomUtil.isRootMathml = function(node) {
+  if (!node || !node.tagName) {
+    return false;
+  }
+
+  // pode ser raiz quadrada ou com outros radicais
+  var result = node.tagName.toLowerCase() == 'msqrt' || node.tagName.toLowerCase() =='mroot'
+  return result;
+
+};
 /**
  * Checks to see wether a node is a MathJax node.
  * @param {Node} node The node to be tested.
  * @return {boolean} Whether or not a node is a MathJax node.
  */
 cvox.DomUtil.isMathJax = function(node) {
+  //console.log("entrou")
   if (!node || !node.tagName || !node.className) {
     return false;
   }
@@ -2373,10 +2525,67 @@ cvox.DomUtil.isMathJax = function(node) {
   };
   if (isSpanWithClass(node, 'math')) {
     var ancestors = cvox.DomUtil.getAncestors(node);
+    //console.log("ancestral ismathjax:",ancestors)
     return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
   }
   return false;
 };
+/**
+ *  implementação do isFracMathJax verifica se é um no no mathjax
+ */
+cvox.DomUtil.isFracMathJax = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+
+  function isSpanWithClass(n, cl) {
+    return (n.tagName == 'SPAN' &&
+            n.className.split(' ').some(function(x) {
+                                          return x.toLowerCase() == cl;}));
+  };
+  if (isSpanWithClass(node, 'mfrac')) {
+    var ancestors = cvox.DomUtil.getAncestors(node);
+    return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
+  }
+  return false;
+};
+cvox.DomUtil.isLimitMathJax = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+
+  function isSpanWithClass(n, cl) {
+    return (n.tagName == 'SPAN' &&
+            n.className.split(' ').some(function(x) {
+                                          return x.toLowerCase() == cl;}));
+  };
+  if (isSpanWithClass(node, 'munderover')) {
+    var ancestors = cvox.DomUtil.getAncestors(node);
+    return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
+  }
+  return false;
+};
+cvox.DomUtil.isRootMathJax = function(node) {
+  if (!node || !node.tagName || !node.className) {
+    return false;
+  }
+
+  function isSpanWithClass(n, cl) {
+    return (n.tagName == 'SPAN' &&
+            n.className.split(' ').some(function(x) {
+                                          return x.toLowerCase() == cl;}));
+  };
+  if (isSpanWithClass(node, 'mroot')) {
+    var ancestors = cvox.DomUtil.getAncestors(node);
+    return ancestors.some(function(x) {return isSpanWithClass(x, 'mathjax');});
+  }
+  return false;
+};
+
+
+
+
+
 
 
 /**

@@ -390,7 +390,24 @@ cvox.DomPredicates.containsTagName_ = function(arr, tagName) {
  * @return {?Node} Node in the array that is a math expression.
  */
 cvox.DomPredicates.mathPredicate = function(nodes) {
-  return cvox.DomUtil.findMathNodeInList(nodes);
+  //console.log("nodes:",nodes)
+  return cvox.DomUtil.findMathNodeInList(nodes);//esta funcao esta em dom_util
+};
+/**
+ *  retornara um nó onde tem uma fracao
+ */
+
+cvox.DomPredicates.fracPredicate = function(nodes) {
+  //console.log("nodes:",nodes)
+  return cvox.DomUtil.findFracNodeInList(nodes);
+};
+cvox.DomPredicates.limitPredicate = function(nodes) {
+  //console.log("nodes:",nodes)
+  return cvox.DomUtil.findlimitNodeInList(nodes);
+};
+cvox.DomPredicates.rootPredicate = function(nodes) {
+  //console.log("nodes:",nodes)
+  return cvox.DomUtil.findlimitNodeInList(nodes);
 };
 
 /**

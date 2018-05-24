@@ -142,12 +142,49 @@ cvox.CommandStore.commandsForCategory = function(category) {
  * false.
  */
 cvox.CommandStore.CMD_WHITELIST = {
+ 
   'toggleStickyMode': {announce: false,
                        msgId: 'toggle_sticky_mode',
                        category: 'modifier_keys'},
   'toggleKeyPrefix': {announce: false,
                       msgId: 'prefix_key',
                       category: 'modifier_keys'},
+  'internalNavigation':{
+      announce: false,
+      msgId: 'internalnavigation',
+      category: 'navigation'},
+  'exitInternalNavigation':{
+    announce: false,
+    msgId: 'exitinternalnavigation',
+    category: 'navigation'
+  },
+  'rightNode':{
+    announce: true,
+    allowEvents: true,
+    msgId: 'rightNode',
+  announce: true,
+    category: 'navigation'
+  },
+  'leftNode':{
+    announce: true,
+    allowEvents: true,
+    msgId: 'leftNode',
+    
+    category: 'navigation'
+  },
+  'topNode':{
+    announce: true,
+    allowEvents: true,
+    msgId: 'topNode',
+   
+    category: 'navigation'
+  },
+  'bottomNode':{
+    announce: true,
+    allowEvents: true,
+    msgId: 'bottomNode',
+    category: 'navigation'
+  },
 
   'stopSpeech': {announce: false,
                  disallowContinuation: true,
@@ -198,6 +235,9 @@ cvox.CommandStore.CMD_WHITELIST = {
     msgId: 'handle_tab_prev',
     disallowContinuation: true,
     category: 'navigation'},
+
+ 
+
   'forward': {forward: true,
               announce: true,
               msgId: 'forward',
@@ -471,6 +511,25 @@ cvox.CommandStore.CMD_WHITELIST = {
                findNext: 'math',
                msgId: 'next_math',
                category: 'jump_commands'},
+
+  
+  'nextFrac': {forward: true,
+               findNext: 'frac',
+               msgId: 'next_fraction',
+               category: 'jump_commands'},
+
+  
+  'nextLimit': {forward: true,
+               findNext: 'limit',
+               msgId: 'next_limit',
+               category: 'jump_commands'},
+  'nextRoot':{
+                forward:true,
+                findNext:'root',
+                msgId:'next_root',
+                category: 'jump_commands'
+              },
+
   'nextMedia': {forward: true,
                 findNext: 'media',
                 msgId: 'next_media',
@@ -568,6 +627,18 @@ cvox.CommandStore.CMD_WHITELIST = {
                    findNext: 'math',
                    msgId: 'previous_math',
                    category: 'jump_commands'},
+  'previousFraction': {backward: true,
+                    findNext: 'pfrac',
+                    msgId: 'previous_fraction',
+                    category: 'jump_commands'},
+  'previousLimit': {backward: true,
+                      findNext: 'plimit',
+                      msgId: 'previous_limit',
+                      category: 'jump_commands'},
+  'previousRoot': {backward: true,
+                      findNext: 'proot',
+                      msgId: 'previous_root',
+                      category: 'jump_commands'},                    
   'previousMedia': {backward: true,
                     findNext: 'media',
                     msgId: 'previous_media',
@@ -673,7 +744,17 @@ cvox.CommandStore.CMD_WHITELIST = {
 
   'debug': {announce: false},
 
-  'nop': {announce: false}
+  'nop': {announce: false},
+
+
+  'goToNumerator':{announce: true,
+                   msgId: 'numerator_key',
+                  category: 'navigation'
+  },
+  'goToDenominator':{announce: true,
+                       msgId: 'denominator_key',
+                       category: 'navigation'
+  }
 };
 
 
@@ -782,5 +863,30 @@ cvox.CommandStore.NODE_INFO_MAP = {
            backwardError: 'no_previous_section'},
   'control': {predicate: 'controlPredicate',
            forwardError: 'no_next_control',
-           backwardError: 'no_previous_control'}
+           backwardError: 'no_previous_control'},
+  'frac': {predicate: 'fracPredicate',
+           forwardError: 'no_next_fraction',
+          },
+  'limit':{
+    predicate:'limitPredicate',
+    forwardError:'no_next_limit',
+    backwardError: 'no_previous_limit'
+    },
+    'root':{
+      predicate:'rootPredicate',
+      forwardError:'no_next_root',
+      backwardError: 'no_previous_root'
+      },
+    'plimit':{
+      predicate:'limitPredicate',
+      backwardError: 'no_previous_limit'
+      },
+      'proot':{
+        predicate:'rootPredicate',
+        backwardError: 'no_previous_root'
+        },
+      'pfrac':{
+        predicate:'fracPredicate',
+        backwardError: 'no_previous_fraction'
+        }
 };
